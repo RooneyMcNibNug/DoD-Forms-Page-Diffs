@@ -2,7 +2,7 @@
 
 A git scraper designed to grab the latest changes from the source code of all DoD Forms Management index pages:
 
-![boop](./pictures/Screenshot_2021-03-14 DoD Forms Management.png)
+![boop](https://raw.githubusercontent.com/RooneyMcNibNug/DoD-Forms-Page-Diffs/main/Screenshot_2021-03-14%20DoD%20Forms%20Management.png)
 
 This includes the nice tables they have set with Number, Title, Edition Date, and OPR columns.
 
