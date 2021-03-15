@@ -1,6 +1,6 @@
 # Tracking pages changes on the Department of Defense Forms Management Program pages
 
-A git scraper designed to grab the latest changes from the source code of all DoD Forms Management index pages:
+A git scraper designed to grab the latest changes from the source code of all DoD Forms Management index pages (links labeled in the section titled "DD Forms"):
 
 ![boop](https://raw.githubusercontent.com/RooneyMcNibNug/DoD-Forms-Page-Diffs/main/Screenshot_2021-03-14%20DoD%20Forms%20Management.png)
 
