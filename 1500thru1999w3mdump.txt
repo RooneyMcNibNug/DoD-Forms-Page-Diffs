@@ -1,0 +1,553 @@
+Skip to main content (Press Enter).
+Toggle navigation
+Logo: Washington Headquarters Services
+ 
+Washington Headquarters Services
+Washington Headquarters Services
+Search
+Search Executive Services Directorate: [                    ] Search
+Search Executive Services Directorate: [                    ] Search
+
+  • Home
+      □ ESD Contacts
+  • Audit Management
+  • Correspondence
+      □ General Correspondence
+      □ Manual For Written Material
+      □ Templates
+      □ Presidential Letters of Appreciation
+      □ CATMS
+      □ Action Officer's Course
+      □ Our Mission
+      □ Contact Us
+  • Graphics
+      □ Products/Services
+          ☆ Work Order
+      □ Links
+      □ Contacts
+  • Security Review
+      □ Active DoD Members
+      □ Legislative Branch
+      □ Executive Branch
+      □ Military Industrial Base
+      □ PrePublication and Manuscripts
+      □ DOPSR History
+      □ DOPSR Contact Information
+  • FOIA
+  • Directives
+  • Records/Privacy/Declass
+      □ OSD Declassification Programs
+      □ OSD Records & Information Management
+      □ Privacy Program
+
+DoD Forms Management Program
+
+The Official DoD Website for DoD Forms
+
+ 
+
+Toggle navigation    Directives Home
+
+  • DoD Issuances
+      □ 
+          ☆ Issuances Homepage
+          ☆ Recent Publications
+          ☆ Helpful Tips
+          ☆ Cancelled Issuances
+            (DoD CAC required)
+          ☆  
+          ☆ Issuance Types
+          ☆ DoD Directives
+          ☆ DoD Instructions
+          ☆ DoD Publications & Manuals
+          ☆ Administrative Instructions
+          ☆ Directive-Type Memorandums
+          ☆ Civilian Personnel Management
+            (DoDI 1400.25)
+          ☆ SPM & Memorandums
+            (DoD CAC required)
+      □ 
+          ☆ Issuance Toolbox
+          ☆ DoD Process
+          ☆ DA&M Process
+          ☆ Forms, Templates, & Resources
+          ☆ AO/Focal Point Checklist
+          ☆ Clearing Changes
+          ☆  
+          ☆ Training
+          ☆ Training Classes
+          ☆ DD 818/818-1 Training Video
+          ☆ New Template Training Video
+          ☆ Plain Language Training Video
+          ☆ Issuance Process Summary Training Video 
+  • DoD Forms
+      □ 
+          ☆ Forms Home
+          ☆ FAQ
+          ☆ FMO POC
+          ☆  
+          ☆ DD Forms
+          ☆ DD Form 1-499
+          ☆ DD Form 500-999
+          ☆ DD Form 1000-1499
+          ☆ DD Form 1500-1999
+          ☆ DD Form 2000-2499
+          ☆ DD Form 2500-2999
+          ☆ DD Form 3000-3499
+      □ 
+          ☆ Other Forms
+          ☆ Secretary of Defense (SD) Forms
+          ☆ ODA&M Forms
+          ☆ Washington Headquarters Services (WHS) Forms
+          ☆ Standard Forms (SF)
+          ☆ Optional Forms (OF)
+          ☆ Forms Cancellations
+          ☆  
+          ☆  
+          ☆ Forms Policy
+          ☆ Forms Management Program (DODM 7750.08)
+          ☆ Forms Management Program Procedure's Manual (DODI 7750.07-M)
+          ☆  
+      □ 
+          ☆ Forms Guidance
+          ☆ Create/Revise a Form
+          ☆ Cancelling a Form
+          ☆  
+          ☆ DoD Forms Sites
+          ☆ Army
+          ☆ Navy & Marine Corps
+          ☆ Air Force
+          ☆ National Guard
+          ☆ Joint Chiefs of Staff
+          ☆ Defense Privacy Office
+          ☆ Defense Logisitics Agency
+      □ 
+          ☆ Federal Agencies
+          ☆ General Accounting Office (GAO)
+          ☆ General Services Administration (GSA)
+          ☆ National Archives (NARA)
+          ☆ Office of Personnel Management (OPM)
+          ☆ Treasury Direct
+          ☆ Thrift Savings Plan
+          ☆ USA.gov Forms
+          ☆ Veteran's Affairs (VA)
+  • Information Collections
+      □ 
+          ☆ IC Homepage
+          ☆ Overview
+          ☆ Surveys
+          ☆ Training
+          ☆ IMCO Resources
+      □ 
+          ☆ Internal
+          ☆ Internal Overview
+          ☆ Approval Process
+          ☆ RCS Actions
+          ☆ Internal IC Issuances
+      □ 
+          ☆ Public
+          ☆ Public Collections Overview
+          ☆ Elements of a PRA Package
+          ☆ Approval Process
+          ☆ Public Collections & Sorns
+          ☆ Public Collections & Rules
+
+  • Plain Language
+
+  • Contact/FAQ
+      □ 
+          ☆ Contact Us
+          ☆ FAQ
+          ☆ Twitter
+          ☆ Privacy
+          ☆ Section 508
+
+ 
+
+DD Forms 1500 - 1999 (updated 3/5/2021)
+
+Form Availability
+
+If the form number does not have a hyperlink, the form is not available
+electronically. To obtain hard copies of current forms not available in
+electronic format, please contact your own Military Service or DoD Component
+Forms Management Officer. Cancelled forms are not available in electronic
+formats. Here is a list of Forms Management POCs.
+
+.PDF versions of forms use Adobe Reader^™. Download Adobe Reader™
+
+  Number                                               Edition Controlled
+ (Download                    Title                     Date     (Y/N)     OPR
+   PDF)
+DD1502      Frozen Medical Materiel Shipment           6/21/   Yes        DLA
+                                                       2019
+DD1502N     Notice for Frozen Medical Materiel         6/1/    No         DLA
+            Shipments                                  2017
+DD1502-1    Chilled Medical Materiel Shipment          6/21/   Yes        DLA
+                                                       2019
+DD1502-1N   Notice for Chilled Medical Materiel        6/1/    No         DLA
+            Shipments                                  2017
+DD1502-2    Limited Unrefrigerated Medical Materiel    6/21/   Yes        DLA
+            Shipment                                   2019
+DD1502-2N   Notice for Limited Unrefrigerated Medical  6/1/    No         DLA
+            Materiel Shipments                         2017
+DD1503      Message Correction Notice                  2/1/    No         ARMY
+                                                       1979
+DD1523      Military Family Housing Justification      11/1/   No         A&S
+                                                       1990
+DD1532      Pest Management Report                     2/25/   No         A&S
+                                                       2019
+DD1544      Cash Meal Payment Book                     5/1/    Yes        ARMY
+                                                       1976
+DD1547      Record of Weighted Guidelines Application  4/24/   No         A&S
+                                                       2020
+DD1553      Entry for a Photography Contest            8/1/    No         ARMY
+                                                       1983
+DD1561      Statement to Substantiate Payment of       12/1/   No         DFAS
+            Family Separation Allowance (FSA)          2017
+DD1572      Test Log DANTES and Others                 10/1/   No         P&R
+                                                       2009
+DD1574      Serviceable Tag - Materiel                 10/1/   Yes        ARMY
+                                                       1988
+DD1574-1    Serviceable Label - Materiel               10/1/   No         ARMY
+                                                       1966
+DD1575      Suspended Tag - Materiel                   10/1/   Yes        ARMY
+                                                       1966
+DD1575-1    Suspended Label - Materiel                 10/1/   Yes        ARMY
+                                                       1966
+DD1576      Test/Modification Tag - Materiel           10/1/   Yes        ARMY
+                                                       1966
+DD1576-1    Test/Modification Label - Materiel         10/1/   Yes        ARMY
+                                                       1966
+DD1577      Unserviceable (Condemned) Tag - Materiel   10/1/   Yes        ARMY
+                                                       1966
+DD1577-1    Unserviceable (Condemned) Label -          10/1/   Yes        ARMY
+            Materiel                                   1966
+DD1577-2    Unserviceable (Reparable) Tag - Materiel   10/1/   Yes        ARMY
+                                                       1966
+DD1577-3    Unserviceable (Reparable) Label -          10/1/   Yes        ARMY
+            Materiel                                   1966
+DD1586      Contract Funds Status Report               8/1/    No         A&S
+                                                       1996
+DD1587      Record of Congressional Transcript Review  4/1/    No         WHS
+                                                       2016
+DD1588      Record of Travel Payments                  1/1/    No         ARMY
+                                                       1967
+DD1593      Contract Administration Completion Record  4/1/    No         A&S
+                                                       1969
+DD1594      Contract Completion Statement              2/1/    No         A&S
+                                                       1970
+DD1597      Contract Closeout Check-List               4/1/    No         A&S
+                                                       2000
+DD1598      Contract Termination Status Report         1/1/    No         A&S
+                                                       2001
+DD1607      Homeowners Assistance, Application for     12/1/   No         A&S
+                                                       2010
+DD1610      Request and Authorization for TDY Travel   5/1/    No         P&R
+            of DoD Personnel                           2003
+DD1613      Pilot's Compass Correction Card            7/1/    Yes        ARMY
+                                                       1967
+            Request/Authorization for DoD Civilian     5/1/
+DD1614      Permanent Duty or Temporary Change of      2003    No         P&R
+            Station (TCS) Travel 
+            Department of Defense (DoD) Transportation 11/1/
+DD1616      Agreement Transfer of Professional School  1999    No         P&R
+            Personnel Outside CONUS (OCONUS) 
+            Department of Defense (DoD) Transportation 11/1/
+DD1617      Agreement Transfer of Civilian Employees   1999    No         P&R
+            Outside CONUS (OCONUS) 
+            Department of Defense (DoD) Transportation 11/1/
+DD1618      Agreement Transfer of Civilian Employees   1999    No         P&R
+            to and within Continental United States 
+DD1626      Veterinary Necropsy Report                 10/1/   No         ARMY
+                                                       2001
+DD1635      Plant Clearance Case Register              1/1/    No         A&S
+                                                       1968
+DD1637      Notice of Acceptance of Inventory          6/1/    No         A&S
+            Schedules                                  2003
+DD1638      Report of Disposition of Contractor        10/1/   No         A&S
+            Inventory                                  1986
+DD1639      Scrap Warranty                             1/1/    No         A&S
+                                                       2016
+DD1640      Request for Plant Clearance                1/1/    No         A&S
+                                                       2016
+DD1641      Disposal Determination Approval            4/1/    No         A&S
+                                                       2000
+DD1650      Ammunition Data Card                       8/1/    No         ARMY
+                                                       1996
+DD1653      Transportation Data for Solicitations      4/1/    No         A&S
+                                                       1999
+DD1654      Evaluation of Transportation Cost Factors  4/1/    No         A&S
+                                                       1999
+DD1659      Application for U.S. Government Shipping   9/1/    No         A&S
+            Documentation/Instructions                 2007
+DD1660      Management Systems Summary List            3/1/    Yes        COMP
+                                                       1971
+DD1671      Reweigh of Personal Property               9/1/    No         A&S
+                                                       1998
+DD1685      Data Exchange and/or Proposed Revision of  8/1/    No         DLA
+            Catalog Data                               1993
+DD1692       Engineering Change Proposal (ECP),        1/1/    No         NAVY
+            Complete (Instructions)                    2018
+DD1692/1    Engineering Change Proposal (ECP), Page 1  1/1/    No         NAVY
+            (Instructions)                             2018
+DD1692/2    Engineering Change Proposal (ECP), Page 2  1/1/    No         NAVY
+            (Instructions)                             2018
+DD1692/3    Engineering Change Proposal (ECP), Page 3  1/1/    No         NAVY
+            (Instructions)                             2018
+DD1692/4    Engineering Change Proposal (ECP), Page 4  1/1/    No         NAVY
+            (Instructions)                             2018
+DD1692/5    Engineering Change Proposal (ECP), Page 5  1/1/    No         NAVY
+            (Instructions)                             2018
+DD1692/6    Engineering Change Proposal (ECP)          1/1/    No         NAVY
+            (Hardware), Page 6 (Instructions)          2018
+DD1692/7    Engineering Change Proposal (ECP)          1/1/    No         NAVY
+            (Software), Page 7 (Instructions)          2018
+DD1692C     Engineering Change Proposal (ECP),         5/1/    No         NAVY
+            Continuation Page, (Instructions)          2015
+DD1694      Request for Variance (RFV)                 4/1/    No         NAVY
+                                                       2017
+DD1694C     Request for Variance (RFV), Continuation   4/1/    No         NAVY
+            Sheet                                      2015
+DD1694-INST Instructions for Preparation of Request    4/1/    No         NAVY
+            for Variance Utilizing DD Form 1694        2017
+DD1695      Notice of Revision (NOR)                   4/1/    No         NAVY
+                                                       2017
+DD1695C     Notice of Revision (NOR), Continuation     5/1/    No         NAVY
+            Sheet                                      2015
+DD1695-INST Instructions for Preparation of Notice of  4/1/    No         NAVY 
+            Revision DD Form 1695                      2017
+DD1696      Specification Change Notice (SCN)          4/1/    No         NAVY
+                                                       2017
+DD1696C     Specification Change Notice (SCN),         5/1/    No         NAVY
+            Continuation Sheet                         2015
+            Instructions for Preparation of            4/1/
+DD1696-INST Specification Change Notices Utilizing DD  2017    No         NAVY
+            Form 1696
+DD1705      Reimbursement for Real Estate Sale and/or  10/1/   No         P&R
+            Purchase Closing Cost Expenses             2002
+DD1714      Product Verification Record                6/1/    No         ARMY
+                                                       1969
+DD1716      Contract Data Package Recommendation/      12/1/   No         DLA
+            Deficiency Report                          1977
+DD1718      Certification of Qualified Products        9/17/   No         R&E
+                                                       2018
+DD1719      Voluntary Education Program Report, DoD    2/1/    No         P&R
+                                                       2000
+DD1721      Space Test Program Flight Request          9/1/    No         AIR
+                                                       2006               FORCE
+DD1721-1    Space Test Program Flight Request          9/1/    No         AIR
+            Executive Summary                          2006               FORCE
+DD1721-2    Space Test Program After Action Report     9/1/    No         AIR
+                                                       2006               FORCE
+DD1722      Request for Trial Before Military Judge    10/1/   No         ARMY
+            Alone                                      1984
+DD1723      Flow Process Chart                         9/1/    No         P&R
+                                                       1976
+DD1724      Work Distribution Chart                    9/1/    No         P&R
+                                                       1976
+DD1740      Food Inspection Stamp Record               1/1/    No         ARMY
+                                                       2000
+DD1741      Military Working Animal Immunization       6/1/    No         ARMY
+            Record                                     2013
+DD1743      Death Certificate of a Military Animal     6/1/    No         ARMY
+                                                       2013
+DD1745      Animal Euthanasia                          6/1/    No         ARMY
+                                                       2013
+DD1746      Application for Assignment to Housing      9/1/    No         A&S
+                                                       1993
+DD1747      Status of Housing Availability             9/1/    No         A&S
+                                                       1993
+DD1748      Joint Airdrop Inspection Record            3/1/    No         ARMY
+            (Platforms)                                2019
+DD1748-1    Joint Airdrop Inspection Record            3/1/    No         ARMY
+            (Containers)                               2019
+DD1748-2    Airdrop Malfunction Report                 3/1/    No         ARMY
+            (Personnel-Cargo)                          2019
+DD1748-3    JOINT AIRDROP SUMMARY REPORT               11/1/   No         ARMY 
+                                                       1997
+DD1748-4    Joint Airdrop Inspection Record (CDS/LCLA) 3/1/    No         ARMY
+                                                       2019
+DD1748-5    Joint Airdrop Inspection Record            3/1/    No         ARMY
+            (JPADS-Precision Airdrop)                  2019
+DD1748-6    Joint Airdrop Inspection Record (DRAS)     3/1/    No         ARMY
+                                                       2019
+DD1748-7    Joint Airdrop Inspection record            3/1/    No         ARMY
+            (JPAS-Precision Airdrop)                   2019
+DD1748-8    Joint Airdrop Inspection Record            3/1/    No         ARMY
+            (JPADS-Extracted)                          2019 
+DD1750      Packing List                               9/1/    No         ARMY
+                                                       1970
+DD1780      Shipment Evaluation and Inspection Record  9/1/    No         A&S
+                                                       1998
+DD1786      Military Handbook 300                      8/1/    No         NAVY
+                                                       1996
+DD1789      Armed Forces Professional Entertainment    2/1/    No         ARMY
+            Evaluation                                 1986
+DD1790      Prepared Congressional Testimony Review    2/1/    No         WHS
+                                                       2020
+DD1791      Phased Provisioning Availability Schedule  3/1/    Yes        A&S
+                                                       1971
+DD1793      Determination of Asphalt Content           2/1/    No         ARMY
+                                                       1971
+DD1794      Grain-Size Analysis (Hydrometer Method)    12/1/   No         ARMY
+                                                       1999
+DD1795      Combined Mechanical Analysis               2/1/    No         ARMY
+            (Sedimentation Test)                       1971
+DD1796      Receipt for Unaccompanied Baggage          9/1/    No         A&S
+                                                       1998
+DD1797      Personal Property Counseling Checklist     9/1/    No         A&S
+                                                       1998
+DD1799      Member's Report on Carrier Performance -   9/1/    No         A&S
+            Mobile Homes                               1998
+DD1800      Mobile Home Inspection Record              9/1/    No         A&S
+                                                       1998
+DD1801      International Flight Plan, DoD             5/1/    No         AIR
+                                                       1987               FORCE
+DD1801C     International Flight Plan, DoD             5/21/   No         AIR
+            (Continuation)                             2019               FORCE
+DD1811      Pre-Award Survey of Contractor's/Carrier's 6/1/    No         ARMY
+            Facilities and Equipment                   1979
+DD1812      Warehouse Inspection Report                9/1/    No         A&S
+                                                       1998
+DD1814      Carrier Notice of Warning/Suspension       9/1/    No         A&S
+                                                       1998
+DD1821      Contractor Crewmember Record               8/1/    No         AIR
+                                                       1996               FORCE
+DD1823      Visit Authorization, Request for           3/1/    No         POL
+                                                       1988
+DD1823C     Visit Authorization, Request for           3/1/    No         POL
+            (Continuation)                             1988
+DD1826      Pest Control Certificate of Competency     3/1/    Yes        A&S
+                                                       1977
+DD1826-1    Pesticide Applicator                       11/1/   Yes        A&S
+                                                       1980
+DD1829      Record of Military Dog Physical            10/1/   No         ARMY
+            Examination                                1971
+DD1832      Revision/Reprint Notice                    10/1/   Yes        AIR
+                                                       1971               FORCE
+DD1833-Test Isolated Personnel Report (ISOPREP)        5/1/    No         JPRA
+(V2)                                                   2008
+DD1834      Military Working Dog Service Record        10/1/   No         AIR
+                                                       2017               FORCE
+DD1839      Baggage Identification                     9/1/    No         AIR
+                                                       1980               FORCE
+DD1840      Joint Statement of Loss or Damage At       1/1/    No         A&S
+            Delivery                                   1988
+DD1840R     Notice of Loss or Damage                   1/1/    No         A&S
+                                                       1988
+DD1841      Government Inspection Report               9/1/    No         A&S
+                                                       1998
+DD1842      Claim for Loss of or Damage to Personal    5/1/    No         ARMY
+            Property Incident to Service               2000
+DD1843      Demand on Carrier/Contractor               5/1/    No         ARMY
+                                                       2000
+DD1844      List of Property and Claim Analysis Chart  5/1/    No         ARMY
+                                                       2000
+DD1848      Sensitive Compartmented Information        1/1/    No         DIA
+            Debriefing Memorandum                      1983
+DD1853      Verification of Reserve Status for Travel  10/1/   No         A&S
+            Eligibility                                1999
+DD1857      Temporary Commercial Storage At Government 9/1/    No         A&S
+            Expense                                    1998
+DD1861      Contract Facilities Capital Cost of Money  8/1/    No         A&S
+                                                       2004
+DD1862      Cargo Code Sheet - MSC Sealift             8/1/    Yes        NAVY
+            Transportation Requirements                1977
+DD1863      Accessorial Services-Mobile Home           9/1/    No         A&S
+                                                       1998
+            Nomination for Appointment to the United   9/1/               AIR
+DD1870      States Military Academy, US Naval Academy, 2005    No         FORCE
+            US Air Force Academy 
+DD1896      DoD Fuel Identaplate                       3/1/    No         DLA
+                                                       1973
+DD1898      Energy Sale Slip                           7/1/    Yes        DLA
+                                                       2008
+DD1898-D    Alternate US DoD or Federal Civil Fuel     6/1/    No         DLA
+            Customer Billing Information               2010
+DD1898-E    Energy Sale Slip (Electronic)              1/1/    No         DLA
+                                                       2015
+            Alternate Foreign Government and           6/1/
+DD1898-F    Commercial Fuel Customer Billing           2010    No         DLA
+            Information
+DD1898-K    Energy Sales Slip - Korean                 7/29/   No         DLA
+                                                       2019
+DD1907      Signature and Tally Record                 10/1/   No         A&S
+                                                       2010
+DD1910      Clearance Request for Public Release of    4/1/    No         WHS
+            Department of Defense Information          2016
+DD1911      Materiel Courier Receipt                   4/1/    No         DTRA
+                                                       2010
+DD1918      Federal Wage System - Establishment        7/1/    No         P&R
+            Information                                2009
+DD1919      Federal Wage System - Wage Data            7/1/    No         P&R
+            Collection                                 2009
+DD1919C     Federal Wage System - Wage Data Collection 7/1/    No         P&R
+            (Continuation)                             2009
+DD1920      Alcohol Incident Report                    11/1/   No         ARMY
+                                                       2004
+DD1921      Cost Data Summary Report                   5/1/    No         CAPE
+                                                       2011
+DD1921-1    Functional Cost-Hour Report                5/1/    No         CAPE
+                                                       2011
+DD1921-2    Progress Curve Report                      5/1/    No         CAPE
+                                                       2011
+DD1921-3    Contractor Business Data Report            5/1/    No         CAPE
+                                                       2011
+DD1921-4    Contractor Sustainment Report              4/1/    No         CAPE
+                                                       2012
+DD1921-5    Sustainment Functional Cost-Hour Report    12/1/   No         CAPE
+                                                       2015
+DD1924      Surgical Checklist                         10/1/   No         AIR
+                                                       1993               FORCE
+DD1926      Explosive Ordnance Disposal Civil Support  9/1/    No         NAVY
+            Release and Reimbursement Agreement        1973
+DD1927      Film Can Label (Green)                     11/1/   Yes        DIA
+                                                       1973
+DD1928      Film Can Label (Red)                       11/1/   Yes        DIA
+                                                       1973
+DD1929      Film Can Label (Yellow)                    11/1/   Yes        DIA
+                                                       1973
+DD1933      Data Collector Identification, DoD         2/1/    Yes        P&R
+            (Stocked & Issued by OUSD(P&R))            2000
+            Geneva Conventions Identity Card for       7/1/
+DD1934      Medical and Religious Personnel Who Serve  1974    Yes        P&R
+            in or Accompany the Armed Forces 
+            Individual Case Report - Exercise of       4/1/
+DD1936      Criminal Jurisdiction by Foreign Tribunals 1974    No         ARMY
+            Over U.S. Personnel 
+DD1944      Equipment Certification - Type A           8/1/    Yes        AIR
+                                                       1975               FORCE
+DD1945      Defective Power Outlet                     6/1/    Yes        AIR
+                                                       1974               FORCE
+DD1947-1    Release Authorization for Military         9/1/    Yes        COMP
+            Earnings Information                       1982
+            LSAR Data Selection Sheet (part 1, p.      8/1/
+DD1949-1    1-5), (part 1, p. 6-9), (part 1, p.        1996    No         A&S
+            10-13), & (part 2)
+            Logistics Support Analysis Record (LSAR)
+            Data Requirements: 
+
+              • General Information, Pages 1 - 3
+                (Adobe PDF)
+              • Section 1, Pages 4 - 8 (Adobe PDF)     8/1/
+DD1949-3      • Section 2, Part 1, Pages 9 - 15 (Adobe 1992    No         A&S
+                PDF)
+              • Section 2, Part 1 Continued, Pages 16
+                - 22 (Adobe PDF)
+              • Section 2, Parts 2 and 3, Pages 23 -
+                27 (Adobe PDF)
+
+DD1952      Dosimeter Application and Record of        9/1/    No         ARMY
+            Occupational Radiation Exposure            2011
+DD1966      Record of Military Processing - Armed      12/1/   No         P&R
+            Forces of the United States                2018
+DD1970      Motor Equipment Utilization Record         11/1/   No         A&S
+                                                       1999
+DD1972      Joint Tactical Air Strike Request          5/20/   No         JOINT
+                                                       2020               STAFF
+DD1995      Visual Information (VI) Production Request 4/1/    No         ASD
+            and Report                                 1998               (PA)
+
+DD Home Issuances Forms Collections  Plain Language Twitter FAQ Contact Us
+Section 508 Privacy
