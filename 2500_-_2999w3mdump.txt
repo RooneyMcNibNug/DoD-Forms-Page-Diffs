@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 4/7/2021)
+DD Forms 2500-2999 (updated 4/13/2021)
 
 Form Availability
 
@@ -348,8 +348,8 @@ DD2654    Involuntary Allotment Notice and            12/1/   No         P&R
           Processing                                  1999
 DD2655    Complaint of Discrimination in the Federal  6/1/    No         WHS
           Government                                  2012
-DD2656    Data for Payment of Retired Personnel       10/11/  No         P&R
-                                                      2018
+DD2656    Data for Payment of Retired Personnel (     10/11/  No         P&R
+          Static Version)                             2018
 DD2656-1  Survivor Benefit Plan (SBP) Election        7/1/    No         P&R
           Statement for Former Spouse Coverage        2020
 DD2656-2  Survivor Benefit Plan (SBP) Termination     7/1/    No         P&R
