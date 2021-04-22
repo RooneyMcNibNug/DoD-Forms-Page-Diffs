@@ -389,17 +389,8 @@ DD2275-3  National Security Council Information/       3/1/    Yes        USD
           Confidential Cover                           1982               (I)
 DD2278    Application for Do It Yourself Move and      9/1/    No         A&S
           Counseling Checklist                         1998
-DD2282    Reinspection Decal Convention for Safe       10/1/
-(Black)   Containers (2008) (Stocked & Issued by OPR   2004    Yes        ARMY
-          (Dept of Army)) 
-DD2282    Reinspection Decal Convention for Safe       6/1/
-(Blue)    Containers (2011) (Stocked & Issued by       2007    Yes        ARMY
-          Department of the Army (SDDC) 
-DD2282    Reinspection Decal Convention for Safe       5/1/
-(BROWN)   Containers (2010) (Stocked & Issued by       2006    Yes        ARMY
-          Department of the Army (SDDC)) 
-DD2282    Reinspection Decal Convention for Safe       1/1/
-(Green)   Containers (2009) (Stocked & Issued by       2000    Yes        ARMY
+DD2282    Reinspection Decal Convention for Safe       4/21/
+(Yellow)  Containers (2024) (Stocked & Issued by       2021    Yes        ARMY
           Department of the Army (SDDC)) 
 DD2285    Invitational Travel Order (ITO) for          7/1/    No         DSCA
           International Military Student (IMS)         1995
