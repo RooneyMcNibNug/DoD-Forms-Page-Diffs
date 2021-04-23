@@ -308,8 +308,6 @@ DD1277         Cataloging Action Request               4/1/    No         DLA
                Certificate of Oversea Assignment to    5/1/
 DD1278         Support Application to File Petition    2000    No         P&R
                for Naturalization
-DD1285         Request For VA Compensation or Pension  5/1/    No         ARMY
-               Information                             1976
 DD1289         Prescription Form                       11/1/   Yes        DHA
                                                        1971
 DD1299         Application for Shipment and/or Storage 9/1/    No         A&S
