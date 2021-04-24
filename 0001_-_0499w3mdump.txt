@@ -255,8 +255,8 @@ DD250-1   Tanker/Barge Material Inspection and         11/1/   No         A&S
           Receiving Report                             1992
 DD250C    Material Inspection and Receiving Report -   11/1/   No         A&S
           Continuation Sheet                           1992
-          Department of Defense Contract Security      4/1/               USD
-DD254     Classification Specification (Instructions)  2018    No         (I)
+          Department of Defense Contract Security      4/1/               USD(I
+DD254     Classification Specification (Instructions)  2018    No         &S)
           *Administrative edits 1/29/2021
 DD256     Honorable Discharge Certificate              1/1/    Yes        AIR
                                                        1950               FORCE

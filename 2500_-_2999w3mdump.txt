@@ -179,8 +179,8 @@ formats. Here is a list of Forms Management POCs.
  Number                                               Edition Controlled
 (Download                    Title                     Date     (Y/N)     OPR
   PDF)
-DD2501    Courier Authorization                       3/1/    Yes        USD(I)
-                                                      1988
+DD2501    Courier Authorization                       3/1/    Yes        USD(I&
+                                                      1988               S)
 DD2504    Abandoned Vehicle Notice                    5/1/    No         ARMY
                                                       2000
 DD2505    Abandoned Vehicle Removal Authorization     5/1/    No         ARMY
@@ -613,22 +613,22 @@ DD2813    Department of Defense Active Duty/Reserve/  3/1/    No         DHA
           Guard/Civilian Forces Dental Examination    2017
 DD2815    Alternative Dispute Resolution (ADR) Report 5/1/    No         GC,
                                                       2016               DoD
-DD2816    Consent for Search and Seizure              10/1/   Yes        USD(I)
-                                                      2000
-DD2817    Evidence Custody Document                   9/30/   Yes        USD(I)
-                                                      2020
-DD2817-1  Evidence Custody/Property Tag               10/22/  Yes        USD(I)
-                                                      2020
-DD2818    Civilian Rights Advisement Form             10/1/   Yes        USD(I)
-                                                      2000
-DD2819    Affiliation Agreement                       10/1/   Yes        USD(I)
-                                                      2000
-DD2820    Military Rights Advisement Form             10/1/   Yes        USD(I)
-                                                      2000
-DD2823    Command Authorization for Search and        10/1/   Yes        USD(I)
-          Seizure                                     2000
-DD2824    Voluntary Sworn Statement                   10/1/   Yes        USD(I)
-                                                      2000
+DD2816    Consent for Search and Seizure              10/1/   Yes        USD(I&
+                                                      2000               S)
+DD2817    Evidence Custody Document                   9/30/   Yes        USD(I&
+                                                      2020               S)
+DD2817-1  Evidence Custody/Property Tag               10/22/  Yes        USD(I&
+                                                      2020               S)
+DD2818    Civilian Rights Advisement Form             10/1/   Yes        USD(I&
+                                                      2000               S)
+DD2819    Affiliation Agreement                       10/1/   Yes        USD(I&
+                                                      2000               S)
+DD2820    Military Rights Advisement Form             10/1/   Yes        USD(I&
+                                                      2000               S)
+DD2823    Command Authorization for Search and        10/1/   Yes        USD(I&
+          Seizure                                     2000               S)
+DD2824    Voluntary Sworn Statement                   10/1/   Yes        USD(I&
+                                                      2000               S)
 DD2825    Internal Receipt                            6/1/    No         A&S
                                                       2000
 DD2826    Trustee Report                              3/1/    No         DFAS
@@ -654,10 +654,10 @@ DD2833    Permission to Record and Reproduce Program  10/1/   No         ASD
           Commercial Broadcast Stations 
 DD2834    Veterinary Consultation Request             9/1/    No         ARMY
                                                       2002
-DD2835    Program Access Request                      12/1/   No         USD(I)
-                                                      2000
-DD2836    Special Access Program Indoctrination       12/1/   No         USD(I)
-          Agreement                                   2000
+DD2835    Program Access Request                      12/1/   No         USD(I&
+                                                      2000               S)
+DD2836    Special Access Program Indoctrination       12/1/   No         USD(I&
+          Agreement                                   2000               S)
 DD2837    Continued Health Care Benefit Program       8/30/   No         DHA
           (CHCBP) Application                         2020
 DD2839    Career Status Bonus Election                4/1/    No         P&R
@@ -795,8 +795,8 @@ DD2905    L) Workforce Position Requirements or       2005    No         A&S
           Tenure Waiver
 DD2906    Department of Defense Civilian Performance  3/1/    No         P&R
           Plan, Progress Review and Appraisal         2016
-DD2906D   Defense Civilian Intelligence Personnel     10/1/   No         USD(I)
-          System (DCIPS) Performance Appraisal        2011
+DD2906D   Defense Civilian Intelligence Personnel     10/1/   No         USD(I&
+          System (DCIPS) Performance Appraisal        2011               S)
 DD2907    Retired Pay Distribution Statement          5/1/    No         DFAS
                                                       2006
 DD2908    Propellants Delivery/Services Task Schedule 5/1/    No         DLA

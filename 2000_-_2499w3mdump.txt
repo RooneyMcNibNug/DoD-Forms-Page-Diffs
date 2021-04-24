@@ -185,8 +185,8 @@ DD2017    Route Order Amendment                        9/1/    No         A&S
                                                        2005
 DD2023    DoD Catalytic Converter Import Control       5/1/    Yes        ARMY
           Label                                        1976
-DD2024    DoD Security Classification Guide Data       7/1/    No         USD
-          Elements                                     1986               (I)
+DD2024    DoD Security Classification Guide Data       7/1/    No         USD(I
+          Elements                                     1986               &S)
 DD2026    Oil Analysis Request                         8/1/    No         NAVY
                                                        2014
 DD2030    Activity/Task List                           9/1/    No         P&R
@@ -381,12 +381,12 @@ DD2271    Decontamination Tag                          11/1/   Yes        ARMY
                                                        1982
 DD2273    Irregularities in Makeup and Dispatch of     5/1/    No         ARMY
           Mail                                         2000
-DD2275-1  National Security Council Information/Top    3/1/    Yes        USD
-          Secret Cover                                 1982               (I)
-DD2275-2  National Security Council Information/Secret 3/1/    Yes        USD
-          Cover                                        1982               (I)
-DD2275-3  National Security Council Information/       3/1/    Yes        USD
-          Confidential Cover                           1982               (I)
+DD2275-1  National Security Council Information/Top    3/1/    Yes        USD(I
+          Secret Cover                                 1982               &S)
+DD2275-2  National Security Council Information/Secret 3/1/    Yes        USD(I
+          Cover                                        1982               &S)
+DD2275-3  National Security Council Information/       3/1/    Yes        USD(I
+          Confidential Cover                           1982               &S)
 DD2278    Application for Do It Yourself Move and      9/1/    No         A&S
           Counseling Checklist                         1998
 DD2282    Reinspection Decal Convention for Safe       4/21/
