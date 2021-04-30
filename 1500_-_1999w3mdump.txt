@@ -430,8 +430,6 @@ DD1833-Test Isolated Personnel Report (ISOPREP)        5/1/    No         JPRA
 (V2)                                                   2008
 DD1834      Military Working Dog Service Record        10/1/   No         AIR
                                                        2017               FORCE
-DD1839      Baggage Identification                     9/1/    No         AIR
-                                                       1980               FORCE
 DD1840      Joint Statement of Loss or Damage At       1/1/    No         A&S
             Delivery                                   1988
 DD1840R     Notice of Loss or Damage                   1/1/    No         A&S
