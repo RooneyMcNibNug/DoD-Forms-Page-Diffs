@@ -847,8 +847,8 @@ DD2921    Physical Inventory Petroleum Products       12/1/   No         DLA
                                                       2008
 DD2921C   Physical Inventory Petroleum Products       6/1/    No         DLA
           (Continuation Sheet)                        2009
-DD2922    Forensic Laboratory Examination Request     7/1/    No         ARMY
-                                                      2006
+DD2922    Forensic Laboratory Examination Request     4/30/   No         ARMY
+                                                      2021
 DD2923    Privacy Act Data Cover Sheet                9/1/    No         DTRA
                                                       2010
 DD2924    Monthly Inventory Transactions Report       11/1/   No         DLA
@@ -908,14 +908,12 @@ DD2945    Post-Government Employment Advice Opinion   7/12/   No         GC,
           Request                                     2019               DoD
 DD2946    Department of Defense Telework Agreement    12/1/   No         P&R
                                                       2011
-DD2947    TRICARE Young Adult Application             9/1/    No         DHA
-                                                      2016
-DD2947-1  TRICARE Young Adult Application - 2018      9/1/    No         DHA
-          (EAST)                                      2016
-DD2947-2  TRICARE Young Adult Application - 2018      9/1/    No         DHA
-          (WEST)                                      2016
-DD2947-3  TRICARE Young Adult Application - 2018      9/1/    No         DHA
-          (OVERSEAS)                                  2016
+DD2947-1  TRICARE Young Adult Application - 2018      4/30/   No         DHA
+          (EAST)                                      2021
+DD2947-2  TRICARE Young Adult Application - 2018      4/30/   No         DHA
+          (WEST)                                      2021
+DD2947-3  TRICARE Young Adult Application - 2018      4/30/   No         DHA
+          (OVERSEAS)                                  2021
 DD2947-4  TRICARE Young Adult Application (NORTH)     9/1/    No         DHA
                                                       2016
 DD2947-5  TRICARE Young Adult Application (SOUTH)     9/1/    No         DHA

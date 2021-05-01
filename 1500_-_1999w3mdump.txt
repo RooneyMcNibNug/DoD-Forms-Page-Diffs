@@ -536,8 +536,8 @@ DD1949-3      • Section 2, Part 1, Pages 9 - 15 (Adobe 1992    No         A&S
               • Section 2, Parts 2 and 3, Pages 23 -
                 27 (Adobe PDF)
 
-DD1952      Dosimeter Application and Record of        9/1/    No         ARMY
-            Occupational Radiation Exposure            2011
+DD1952      Dosimeter Application and Record of        4/30/   No         ARMY
+            Occupational Radiation Exposure            2021
 DD1966      Record of Military Processing - Armed      12/1/   No         P&R
             Forces of the United States                2018
 DD1970      Motor Equipment Utilization Record         11/1/   No         A&S
