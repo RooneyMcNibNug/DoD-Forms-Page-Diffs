@@ -473,12 +473,12 @@ DD2388    DoD Mail Bag Label                           6/1/    Yes        A&S
                                                        1985
 DD2393    Destination Verification Inspection of       12/1/   No         DLA
           Standard/Variable Net Weight Items           1988
-DD2400    Civil Aircraft Certificate of Insurance      1/1/    No         AIR
-                                                       2008               FORCE
-DD2401    Civil Aircraft Landing Permit                1/1/    No         AIR
-                                                       2008               FORCE
-DD2402    Civil Aircraft Hold Harmless Agreement       1/1/    No         AIR
-                                                       2008               FORCE
+DD2400    Civil Aircraft Certificate of Insurance      5/21/   No         AIR
+                                                       2021               FORCE
+DD2401    Civil Aircraft Landing Permit                5/21/   No         AIR
+                                                       2021               FORCE
+DD2402    Civil Aircraft Hold Harmless Agreement       5/21/   No         AIR
+                                                       2021               FORCE
 DD2406    Miscellaneous Obligation Document            10/1/   No         ARMY
                                                        1985
 DD2408    Defense Distinguished Service Medal          3/1/    Yes        P&R
