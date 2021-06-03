@@ -849,8 +849,6 @@ DD2921C   Physical Inventory Petroleum Products       6/1/    No         DLA
           (Continuation Sheet)                        2009
 DD2922    Forensic Laboratory Examination Request     4/30/   No         ARMY
                                                       2021
-DD2923    Privacy Act Data Cover Sheet                9/1/    No         DTRA
-                                                      2010
 DD2924    Monthly Inventory Transactions Report       11/1/   No         DLA
           (Missile Propellants)                       2006
 DD2925    Missile Fuels/Propellants Inventory Summary 11/1/   No         DLA
