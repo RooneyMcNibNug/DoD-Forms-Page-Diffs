@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 6/1/2021)
+DD Forms 2000-2499 (updated 6/16/2021)
 
 Form Availability
 
@@ -347,8 +347,6 @@ DD2220    Department of Defense Registered Vehicle     5/1/    Yes        ARMY
                                                        2004
 DD2239    Medical Care and Transportation in the       6/1/    Yes        AIR
           Aeromedical Evacuation System, Consent for   1980               FORCE
-DD2241    Standard Alternate Item Referral/Reject      8/1/    No         DLA
-          Notification                                 1980
 DD2247    DoD Armed Forces Pest Management Board       11/1/   Yes        A&S
           Certificate of Office                        1980
 DD2248    DoD Armed Forces Pest Management Board       11/1/   Yes        A&S
