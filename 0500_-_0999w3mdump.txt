@@ -275,24 +275,6 @@ DD791     DoD In-Flight Issue Log                      12/1/   No         DLA
                                                        2002
 DD792     Nursing Service - Twenty-Four Hour Patient   1/1/    No         DHA
           Intake and Output Worksheet                  1974
-DD804     Recruiting Resources Summary Report          6/1/    No         P&R
-                                                       2000
-DD804-1   Enlisted Recruiting Manpower Data            6/1/    No         P&R
-                                                       2000
-DD804-2   Officer Recruiting Manpower Data             6/1/    No         P&R
-                                                       2000
-DD804-3   Medical Recruiting Manpower Data             6/1/    No         P&R
-                                                       2000
-DD804-4   Enlisted Recruiting Advertising Resources    6/1/    No         P&R
-                                                       2000
-DD804-5   Officer Recruiting Advertising Resources     6/1/    No         P&R
-                                                       2000
-DD804-6   Medical Recruiting Advertising Resources     6/1/    No         P&R
-                                                       2000
-DD804-7   Enlistment Examining Personnel Data          6/1/    No         P&R
-                                                       2000
-DD804-8   Enlistment Examining Support Costs           6/1/    No         P&R
-                                                       2000
 DD805     Storage Space Management Report              10/1/   No         A&S
                                                        1999
 DD818     DoD Issuance Coordination Response           8/1/    No         WHS
