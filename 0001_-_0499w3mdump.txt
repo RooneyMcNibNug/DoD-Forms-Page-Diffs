@@ -327,8 +327,6 @@ DD410     Requisition For Telephone Service            4/1/    No         ARMY
                                                        1972
 DD416     Coal, Coke, or Briquettes, Purchase Request  12/1/   No         DLA
           For                                          2008
-DD419     Move Request for Transportation and          12/1/   No         ARMY
-          Operations Division                          1997
 DD428     Communication Service Authorization          5/1/    No         A&S
                                                        1999
 DD441     Department of Defense Security Agreement     2/1/    No         DSS
