@@ -982,8 +982,9 @@ DD2977    Deliberate Risk Assessment Worksheet        11/30/  No         ARMY
                                                       2020
 DD2978    Deployment Mental Health Assessment         10/10/  No         DHA
                                                       2018
-DD2981    Department of Defense Child Care Services   10/26/  No         P&R
-          Programs                                    2018
+          Basic Criminal History and Statement of     10/26/
+DD2981    Admission (Department of Defense Child and  2018    No         P&R
+          Youth (C&Y) Programs)
 DD2982    Recruiter/Trainer Prohibited Activities     1/1/    No         P&R
           Acknowledgment                              2015
 DD2983    Recruit/Trainee Prohibited Activities       1/1/    No         P&R
