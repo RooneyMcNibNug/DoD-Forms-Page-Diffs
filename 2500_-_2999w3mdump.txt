@@ -218,12 +218,6 @@ DD2536    Request for Armed Forces Participation in   12/1/   No         ASD
           Public Events (Non- Aviation)               2016               (PA)
 DD2537    Visual Information Caption Sheet            2/1/    No         ASD
                                                       1994               (PA)
-DD2538    Voluntary Leave Transfer Program Leave      5/1/    No         WHS
-          Donor Application                           1989
-DD2539    Voluntary Leave Transfer Program Leave      5/1/    No         WHS
-          Recipient Application                       1989
-DD2540    Voluntary Leave Transfer Program Notice of  5/1/    No         WHS
-          Termination of Medical Emergency            1989
 DD2542    Certificate of Appreciation for Service in  5/1/    Yes        P&R
           the Armed Forces of the United States       2001
 DD2543    Government Furnished Material (GFM) Status  9/1/    No         A&S
