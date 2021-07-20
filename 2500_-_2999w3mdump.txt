@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 7/16/2021)
+DD Forms 2500-2999 (updated 7/19/2021)
 
 Form Availability
 
@@ -716,9 +716,9 @@ DD2870    Authorization for Disclosure of Medical or  12/1/   No         DHA
           Dental Information                          2003
 DD2871    Request to Restrict Medical and Dental      12/1/   No         DHA
           Information                                 2003
-DD2873    Military Protective Order (MPO)             2/1/    No         P&R
+DD2873    Military Protection Order (MPO)             2/1/    No         P&R
                                                       2020
-DD2873-1  Cancellation of Military Protective Order   1/1/    No         P&R
+DD2873-1  Cancellation of Military Protection Order   1/1/    No         P&R
           (MPO)                                       2020
 DD2874    Certificate to Operate Youth Program        7/1/    No         P&R
           (Stocked and Issued by OUSD(P&R))           2004
