@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 6/16/2021)
+DD Forms 2000-2499 (updated 8/5/2021)
 
 Form Availability
 
@@ -353,8 +353,6 @@ DD2248    DoD Armed Forces Pest Management Board       11/1/   Yes        A&S
           Certificate of Appreciation                  1980
 DD2249    DoD Building Pass Application (Stocked &     11/1/   Yes        PFPA
           Issued by WHS/PFPA)                          2005
-DD2251    Door Keys and Special Locks, Request for     4/1/    No         WHS
-                                                       1981
 DD2257    Designation/Termination MPC-FPC-COPE-PFO     5/1/    No         ARMY
                                                        2000
 DD2258    Temporary Mail Disposition Instructions      1/1/    No         ARMY
