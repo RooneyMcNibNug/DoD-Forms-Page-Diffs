@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 6/14/2021)
+DD Forms 3000-3499 (updated 8/9/2021)
 
 Form Availability
 
@@ -211,8 +211,8 @@ DD3019                                                 10/1/   No         DHA
 
 DD3020    Breaching Reconnaissance Record              2/1/    No         ARMY
                                                        2016
-DD3024    Annual Periodic Health Assessment            4/1/    Yes        DHA
-                                                       2016
+DD3024    Annual Periodic Health Assessment            8/9/    No         DHA
+                                                       2021
 DD3026-1  Software Development Report                  5/1/    No         CAPE
                                                        2018
 DD3026-2  Software Maintenance Report                  5/1/    No         CAPE
