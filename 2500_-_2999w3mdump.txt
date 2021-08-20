@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 7/26/2021)
+DD Forms 2500-2999 (updated 8/19/2021)
 
 Form Availability
 
@@ -898,8 +898,8 @@ DD2942-3  Promotion Statistics - Posthumous           2020    No         P&R
           Commission Report
 DD2945    Post-Government Employment Advice Opinion   7/12/   No         GC,
           Request                                     2019               DoD
-DD2946    Department of Defense Telework Agreement    12/1/   No         P&R
-                                                      2011
+DD2946    Department of Defense Telework Agreement    8/19/   No         P&R
+                                                      2021
 DD2947-1  TRICARE Young Adult Application - 2018      4/30/   No         DHA
           (EAST)                                      2021
 DD2947-2  TRICARE Young Adult Application - 2018      4/30/   No         DHA
