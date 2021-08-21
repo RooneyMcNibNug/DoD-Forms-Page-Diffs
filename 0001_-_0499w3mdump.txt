@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 8/17/2021)
+DD Forms 1-499 (updated 8/20/2021)
 
 Form Availability
 
@@ -273,8 +273,8 @@ DD285     Appointment of Military Postal Clerk, Unit   8/11/   No         ARMY
 DD293     Application for the Review of Discharge from 12/27/  No         P&R
           the Armed Forces of the United States        2019
           Application for a Review by the Physical
-          Disability Board of Review (PDBR) of the     1/1/
-DD294     Rating Awarded Accompanying a Medical        2009    No         P&R
+          Disability Board of Review (PDBR) of the     8/20/
+DD294     Rating Awarded Accompanying a Medical        2021    No         P&R
           Separation from the Armed Forces of the
           United States
 DD295     Application for the Evaluation of Learning   4/1/    No         P&R
