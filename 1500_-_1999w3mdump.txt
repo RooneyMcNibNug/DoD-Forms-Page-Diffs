@@ -336,8 +336,6 @@ DD1719      Voluntary Education Program Report, DoD    2/1/    No         P&R
                                                        2000
 DD1721      Space Test Program Flight Request          9/1/    No         AIR
                                                        2006               FORCE
-DD1721-1    Space Test Program Flight Request          9/1/    No         AIR
-            Executive Summary                          2006               FORCE
 DD1721-2    Space Test Program After Action Report     9/1/    No         AIR
                                                        2006               FORCE
 DD1722      Request for Trial Before Military Judge    10/1/   No         ARMY
