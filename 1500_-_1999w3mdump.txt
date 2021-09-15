@@ -330,8 +330,8 @@ DD1714      Product Verification Record                6/1/    No         ARMY
                                                        1969
 DD1716      Contract Data Package Recommendation/      12/1/   No         DLA
             Deficiency Report                          1977
-DD1718      Certification of Qualified Products        9/17/   No         R&E
-                                                       2018
+DD1718      Certification of Qualified Products        9/7/    No         R&E
+                                                       2021
 DD1719      Voluntary Education Program Report, DoD    2/1/    No         P&R
                                                        2000
 DD1721      Space Test Program Flight Request          9/1/    No         AIR
