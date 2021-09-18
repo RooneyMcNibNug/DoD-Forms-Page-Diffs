@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 8/5/2021)
+DD Forms 2000-2499 (updated 9/17/2021)
 
 Form Availability
 
@@ -383,8 +383,8 @@ DD2275-2  National Security Council Information/Secret 3/1/    Yes        USD(I
           Cover                                        1982               &S)
 DD2275-3  National Security Council Information/       3/1/    Yes        USD(I
           Confidential Cover                           1982               &S)
-DD2278    Application for Do It Yourself Move and      9/1/    No         A&S
-          Counseling Checklist                         1998
+DD2278    Application for Do It Yourself Move and      7/1/    No         A&S
+          Counseling Checklist                         2021
 DD2282    Reinspection Decal Convention for Safe       4/21/
 (Yellow)  Containers (2024) (Stocked & Issued by       2021    Yes        ARMY
           Department of the Army (SDDC)) 
