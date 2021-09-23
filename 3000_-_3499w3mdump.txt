@@ -1,7 +1,6 @@
 Skip to main content (Press Enter).
 Toggle navigation
-Logo: Washington Headquarters Services
- 
+Home Logo: Washington Headquarters Services
 Washington Headquarters Services
 Washington Headquarters Services
 Search
@@ -164,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 9/7/2021)
+DD Forms 3000-3499 (updated 9/22/2021)
 
 Form Availability
 
