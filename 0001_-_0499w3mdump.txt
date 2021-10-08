@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 10/5/2021)
+DD Forms 1-499 (updated 10/7/2021)
 
 Form Availability
 
@@ -201,8 +201,8 @@ DD67      Form Processing Action Request               5/1/    No         WHS
                                                        2016
 DD93      Record of Emergency Data                     1/1/    No         P&R
                                                        2008
-DD106     DoD Issuances Program Coordination           3/10/   No         WHS
-          Initiation (Sample)                          2020
+DD106     DoD Issuances Program Coordination           10/7/   No         WHS
+          Initiation (Sample)                          2021
 DD108     Application for Retired Pay Benefits         7/1/    No         ARMY
                                                        2002
 DD114     Military Pay Order                           12/1/   No         DFAS
