@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 9/29/2021)
+DD Forms 2500-2999 (updated 10/25/2021)
 
 Form Availability
 
@@ -688,8 +688,8 @@ DD2855    U.S. Military Customs and Border Clearance  9/1/    No         A&S
           Program                                     2020
 DD2856    DoD Semi-Annual Program Review/Facility     5/1/    No         ARMY
           Inspection Checklist                        2012
-DD2857    Family Subsistence Supplemental Allowance   5/1/    No         P&R
-          Application                                 2009
+DD2857    Family Supplemental Subsistence Allowance   5/1/    No         P&R
+                                                      2009
 DD2858    Visual Information Activity Profile         5/1/    No         ASD
                                                       2004               (PA)
 DD2860    Claim for Combat-Related Special            7/1/    No         P&R
