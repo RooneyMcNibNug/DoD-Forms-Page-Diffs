@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 10/27/2021)
+DD Forms 3000-3499 (updated 11/1/2021)
 
 Form Availability
 
@@ -360,6 +360,10 @@ DD3150    Contractor Personnel and Visitor             10/15/  No         P&R
           Certification of Vaccination                 2021
 DD3175    DoD Civilian Employee Certification of       10/15/  No         P&R
           Vaccination                                  2021
+DD3176    Request for a Medical Exemption or Delay to  10/29/  No         P&R
+          the COVID-19 Vaccination Requirement         2021
+DD3177    Request for a Religious Exemption to the     10/29/  No         P&R
+          COVID-19 Vaccination Requirement             2021
 
 DD Home Issuances Forms Collections  Plain Language Twitter FAQ Contact Us
 Section 508 Privacy
