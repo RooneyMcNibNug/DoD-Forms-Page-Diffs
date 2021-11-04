@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 11/2/2021)
+DD Forms 2500-2999 (updated 11/3/2021)
 
 Form Availability
 
@@ -602,8 +602,8 @@ DD2811    Report of Proceedings by Initial/Subsequent 11/1/   No         POL
           Board of Inquiry or Further Review Board    1999
 DD2812    Commander's Preliminary Assessment and      11/1/   No         POL
           Recommendation Regarding Missing Person     1999
-DD2813    Department of Defense Active Duty/Reserve/  3/1/    No         DHA
-          Guard/Civilian Forces Dental Examination    2017
+DD2813    Department of Defense Active Duty/Reserve/  11/3/   No         DHA
+          Guard/Civilian Forces Dental Examination    2021
 DD2815    Alternative Dispute Resolution (ADR) Report 5/1/    No         GC,
                                                       2016               DoD
 DD2816    Consent for Search and Seizure              10/1/   Yes        USD(I&
