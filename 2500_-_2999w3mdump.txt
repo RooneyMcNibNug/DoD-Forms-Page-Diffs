@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 11/11/2021)
+DD Forms 2500-2999 (updated 11/17/2021)
 
 Form Availability
 
@@ -364,7 +364,7 @@ DD2658    Returned and Undeliverable Check/Bond       8/1/    No         DFAS
           Record                                      1993
 DD2660    Statement of Claimant Requesting            8/1/    No         DFAS
           Recertified Check                           2015
-DD2662    Recertified Check Register                  2/1/    No         DFAS
+DD2662    Recertified Payment Register                2/1/    No         DFAS
                                                       2001
 DD2663    Foreign Currency Control Record             8/1/    No         DFAS
                                                       1993
