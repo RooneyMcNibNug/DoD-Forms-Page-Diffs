@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 500 - 999 (updated 11/19/2021)
+DD Forms 500 - 999 (updated 11/22/2021)
 
 Form Availability
 
@@ -196,8 +196,8 @@ DD518     Accident Identification Card                 10/1/   No         AIR
                                                        1978               FORCE
 DD551     Record of Interment                          8/1/    Yes        ARMY
                                                        1984
-DD553     Deserter/Absentee Wanted by the Armed Forces 3/1/    No         P&R
-                                                       2015
+DD553     Deserter/Absentee Wanted by the Armed Forces 11/22/  No         P&R
+                                                       2021
 DD553-1   Parole/Mandatory Supervised Release (MSR)    4/1/    No         P&R
           Violator Wanted By the Armed Forces          2013
 DD562     Request for Information Technology (IT)      2/1/    No         WHS
@@ -228,8 +228,8 @@ DD603-1   War Souvenir Registration/Authorization      5/1/    No         A&S
                                                        2007
 DD610     Government Furnished Equipment Requirement   8/1/    No         AIR
           Schedule                                     1996               FORCE
-DD616     Report of Return of Absentee                 12/1/   No         P&R
-                                                       1999
+DD616     Report of Return of Absentee                 11/22/  No         P&R
+                                                       2021
 DD619     Statement of Accessorial Services Performed  5/6/    No         A&S
                                                        2019
 DD626     Motor Vehicle Inspection (Transporting       10/1/   No         A&S
