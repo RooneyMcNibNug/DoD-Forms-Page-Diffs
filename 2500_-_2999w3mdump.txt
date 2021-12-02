@@ -54,6 +54,7 @@ Toggle navigation    Directives Home
           ☆ Helpful Tips
           ☆ Cancelled Issuances
             (DoD CAC required)
+            (Use Edge or Chrome)
           ☆  
           ☆ Issuance Types
           ☆ DoD Directives
@@ -163,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 11/29/2021)
+DD Forms 2500-2999 (updated 12/1/2021)
 
 Form Availability
 
