@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 12/1/2021)
+DD Forms 2500-2999 (updated 12/3/2021)
 
 Form Availability
 
@@ -796,8 +796,8 @@ DD2907    Retired Pay Distribution Statement          5/1/    No         DFAS
 DD2908    Propellants Delivery/Services Task Schedule 5/1/    No         DLA
           (PDST)                                      2006
           Victim Reporting Preference Statement 
-DD2910    (Accessible using Internet Explorer, Edge,  4/1/    No         P&R
-          Acrobat DC Reader or Acrobat for mobile     2020
+DD2910    (Accessible using Internet Explorer, Edge,  11/1/   No         P&R
+          Acrobat DC Reader or Acrobat for mobile     2021
           Android/Apple)
           Replacement of Lost DD Form 2910, Victim
           Reporting Preference Statement             
