@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 10/28/2021)
+DD Forms 1500 - 1999 (updated 12/7/2021)
 
 Form Availability
 
@@ -532,8 +532,8 @@ DD1949-3      • Section 2, Part 1, Pages 9 - 15 (Adobe 1992    No         A&S
 
 DD1952      Dosimeter Application and Record of        4/30/   No         ARMY
             Previous Occupational Radiation Exposure   2021
-DD1966      Record of Military Processing - Armed      12/1/   No         P&R
-            Forces of the United States                2018
+DD1966      Record of Military Processing - Armed      12/7/   No         P&R
+            Forces of the United States                2021
 DD1970      Motor Equipment Utilization Record         11/1/   No         A&S
                                                        1999
 DD1972      Joint Tactical Air Strike Request          5/20/   No         JOINT
