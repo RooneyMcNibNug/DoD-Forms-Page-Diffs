@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 12/7/2021)
+DD Forms 2500-2999 (updated 12/8/2021)
 
 Form Availability
 
@@ -590,8 +590,8 @@ DD2800    Suggestion Evaluation                       7/1/    No         WHS
                                                       1999
 DD2807-1  Report of Medical History                   10/29/  No         P&R
                                                       2018
-DD2807-2  Accessions Medical Prescreen Report         10/29/  No         P&R
-                                                      2018
+DD2807-2  Accessions Medical History Report           12/7/   No         P&R
+                                                      2021
 DD2808    Report of Medical Examination               7/15/   No         P&R
                                                       2019
           Agreement to be Signed by Person Authorized 11/1/
