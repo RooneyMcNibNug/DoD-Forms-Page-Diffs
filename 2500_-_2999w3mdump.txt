@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 12/17/2021)
+DD Forms 2500-2999 (updated 12/20/2021)
 
 Form Availability
 
@@ -594,9 +594,6 @@ DD2807-2  Accessions Medical History Report           12/7/   No         P&R
                                                       2021
 DD2808    Report of Medical Examination               7/15/   No         P&R
                                                       2019
-          Agreement to be Signed by Person Authorized 11/1/
-DD2809    to Direct Disposition (PADD) Prior to       1999    No         POL
-          Private DNA Testing 
 DD2810    Personnel Recovery Debriefing Statement     10/1/   No         POL
                                                       2006
 DD2811    Report of Proceedings by Initial/Subsequent 11/1/   No         POL
