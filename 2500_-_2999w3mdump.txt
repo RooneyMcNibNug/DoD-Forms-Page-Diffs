@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 12/21/2021)
+DD Forms 2500-2999 (updated 12/22/2021)
 
 Form Availability
 
@@ -625,7 +625,7 @@ DD2825    Internal Receipt                            6/1/    No         A&S
 DD2826    Trustee Report                              3/1/    No         DFAS
                                                       2007
 DD2827    Application for Trusteeship                 3/1/    No         DFAS
-                                                      2007
+                                                      2017
 DD2828    Physician Certification for Child           11/1/   No         DFAS
           Annuitant                                   2006
 DD2829    Customer Wait Time Report                   11/1/   No         A&S
