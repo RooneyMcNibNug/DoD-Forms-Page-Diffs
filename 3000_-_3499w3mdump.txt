@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 01/03/2022)
+DD Forms 3000-3499 (updated 01/05/2022)
 
 Form Availability
 
@@ -355,6 +355,19 @@ DD3117    Outstanding Service Members and Civilians    1/25/   No         P&R
           with Disabilities Award Nomination           2021
 DD3120    DoD Government Travel Charge Card (GTCC)     3/17/   No         P&R
           Statement of Understanding (SOU)             2021
+DD3121-1  Notice of Adoption of STRL Demonstration     1/5/    No         R&E
+          Project Flexibility                          2022
+DD3121-2  Notice of Minor Modification of STRL         1/5/    No         R&E
+          Demonstration Project Flexibility            2022
+          Request for Publication of STRL Personnel    1/5/
+DD3121-3  Demonstration Project New Flexibility        2022    No         R&E
+          Federal Register
+          Request for Publication of New STRL          1/5/
+DD3121-4  Personnel Demonstration Project Federal      2022    No         R&E
+          Register
+          Request for Publication of STRL Personnel    1/5/
+DD3121-5  Demonstration Project Omnibus Federal        2022    No         R&E
+          Register
 DD3128    Information Collection Request Coordination  3/25/   No         WHS
           Summary Sheet                                2021
 DD3134    Limited Access Authorization for Aliens and  8/18/   No         DCSA

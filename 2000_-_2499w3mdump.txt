@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 12/21/2021)
+DD Forms 2000-2499 (updated 1/5/2022)
 
 Form Availability
 
@@ -479,8 +479,8 @@ DD2406    Miscellaneous Obligation Document            10/1/   No         ARMY
                                                        1985
 DD2408    Defense Distinguished Service Medal          3/1/    Yes        P&R
           Certificate                                  2018
-DD2409    Defense Medal Citation                       3/1/    Yes        P&R
-                                                       2018
+DD2409    Defense Distinguished Service Medal Citation 1/5/    Yes        P&R
+                                                       2022
 DD2410    Defense Superior Service Medal Certificate   3/1/    Yes        P&R
                                                        2018
 DD2412    Defense Meritorious Service Medal            3/1/    Yes        P&R
