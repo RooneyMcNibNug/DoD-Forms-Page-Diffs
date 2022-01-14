@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 1/7/2022)
+DD Forms 1000-1499 (updated 1/13/2022)
 
 Form Availability
 
@@ -407,8 +407,6 @@ DD1354         Transfer and Acceptance of DoD Real     8/1/    No         A&S
                Property                                2013
 DD1363         Statement of Transactions and           12/1/   Yes        COMP
                Accountability (F. T. Accounts)         1961
-DD1370         Certificate of Enrollment on the Medal  6/1/    Yes        P&R
-               of Honor Roll                           2000
 DD1371         Consignee's Receipt for Delivery at     9/1/    No         AT&L
                Stopoff Unloading Point                 1998
 DD1372         Mail Manifest                           10/1/   Yes        ARMY
