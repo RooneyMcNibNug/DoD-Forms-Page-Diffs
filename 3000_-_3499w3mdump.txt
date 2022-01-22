@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 01/07/2022)
+DD Forms 3000-3499 (updated 01/21/2022)
 
 Form Availability
 
@@ -380,6 +380,8 @@ DD3176    Request for a Medical Exemption or Delay to  10/29/  No         P&R
           the COVID-19 Vaccination Requirement         2021
 DD3177    Request for a Religious Exemption to the     10/29/  No         P&R
           COVID-19 Vaccination Requirement             2021
+DD3179    Problematic Sexual Behavior Non-Clinical     1/21/   No         P&R
+          Referral Tool                                2022
 
 DD Home Issuances Forms Collections  Plain Language Twitter FAQ Contact Us
 Section 508 Privacy
