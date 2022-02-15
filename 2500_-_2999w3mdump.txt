@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 02/02/2022)
+DD Forms 2500-2999 (updated 02/14/2022)
 
 Form Availability
 
@@ -344,14 +344,14 @@ DD2655    Complaint of Discrimination in the Federal  6/1/    No         WHS
           Government                                  2012
 DD2656    Data for Payment of Retired Personnel (     10/11/  No         P&R
           Static Version)                             2018
-DD2656-1  Survivor Benefit Plan (SBP) Election        7/1/    No         P&R
-          Statement for Former Spouse Coverage        2020
+DD2656-1  Survivor Benefit Plan (SBP) Election        4/1/    No         P&R
+          Statement for Former Spouse Coverage        2009
 DD2656-2  Survivor Benefit Plan (SBP) Termination     7/1/    No         P&R
           Request                                     2020
-DD2656-5  Reserve Component Survivor Benefit Plan     7/1/    No         P&R
-          (RCSBP) Election Certificate                2020
-DD2656-6  Survivor Benefit Plan Election Change       7/1/    No         P&R
-          Certificate                                 2020
+DD2656-5  Reserve Component Survivor Benefit Plan     8/1/    No         P&R
+          (RCSBP) Election Certificate                2011
+DD2656-6  Survivor Benefit Plan Election Change       4/1/    No         P&R
+          Certificate                                 2009
 DD2656-7  Verification for Survivor Annuity           7/1/    No         P&R
                                                       2020
 DD2656-8  Survivor Benefit Plan (SBP) Automatic       7/1/    No         DFAS
