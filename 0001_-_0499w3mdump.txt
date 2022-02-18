@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 1/3/2022)
+DD Forms 1-499 (updated 2/17/2022)
 
 Form Availability
 
@@ -235,14 +235,12 @@ DD180     Item Name Collaboration Action Request       10/1/   No         DLA
                                                        2010
 DD200     Financial Liability Investigation of         7/1/    No         COMP
           Property Loss                                2009
-DD214     Certificate of Release or Discharge from     8/1/    Yes        P&R
-          Active Duty                                  2009
-DD214C    Certificate of Release or Discharge from     8/1/    Yes        P&R
-          Active Duty (Continuation Sheet)             2009
-DD214WS   Certificate of Release or Discharge from     8/1/    Yes        P&R
-          Active Duty (Worksheet)                      2009
-DD215     Correction to DD Form 214, Certificate of    8/1/    Yes        P&R
-          Release or Discharge from Active Duty        2009
+DD214     Certificate of Uniformed Service             2/17/   Yes        P&R
+                                                       2022
+DD214-1   Certificate of Uniformed Service, Reserve    2/17/   Yes        P&R
+          Component Addendum                           2022
+DD215     Correction to DD Form 214/214-1, Certificate 2/17/   Yes        P&R
+          of Uniformed Service                         2022
 DD218     Telephone Directory Alphabetical Section     7/1/    No         ARMY
           Change Order                                 1962
 DD218-1   Telephone Directory Classified Section       2/1/    No         ARMY
