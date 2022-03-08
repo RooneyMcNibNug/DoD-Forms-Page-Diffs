@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 1/13/2022)
+DD Forms 1000-1499 (updated 3/7/2022)
 
 Form Availability
 
@@ -310,8 +310,8 @@ DD1278         Support Application to File Petition    2000    No         P&R
                for Naturalization
 DD1289         Prescription Form                       11/1/   Yes        DHA
                                                        1971
-DD1299         Application for Shipment and/or Storage 9/1/    No         A&S
-               of Personal Property                    1998
+DD1299         Application for Shipment and/or Storage 3/7/    No         A&S
+               of Personal Property                    2022
 DD1300         Report of Casualty                      2/1/    No         P&R
                                                        2011
                Armed Services Vocational Aptitude      7/1/

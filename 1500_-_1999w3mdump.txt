@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 2/2/2022)
+DD Forms 1500 - 1999 (updated 3/7/2022)
 
 Form Availability
 
@@ -394,8 +394,8 @@ DD1795      Combined Mechanical Analysis               2/1/    No         ARMY
             (Sedimentation Test)                       1971
 DD1796      Receipt for Unaccompanied Baggage          9/1/    No         A&S
                                                        1998
-DD1797      Personal Property Counseling Checklist     9/1/    No         A&S
-                                                       1998
+DD1797      Personal Property Counseling Checklist     3/7/    No         A&S
+                                                       2022
 DD1799      Member's Report on Carrier Performance -   9/1/    No         A&S
             Mobile Homes                               1998
 DD1800      Mobile Home Inspection Record              9/1/    No         A&S
