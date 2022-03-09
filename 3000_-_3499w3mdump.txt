@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 03/01/2022)
+DD Forms 3000-3499 (updated 03/08/2022)
 
 Form Availability
 
@@ -326,7 +326,7 @@ DD3067-15 SMART Scholarship Revised Degree Completion  9/23/   No         R&E
           Plan                                         2019
 DD3073    Canine-Tactical Combat Casualty Card         7/28/   Yes        DHA
                                                        2020
-DD3074    Canine Resuscitation Card                    7/28/   No         DHA
+DD3074    Canine Treatment and Resuscitation Record    7/28/   No         DHA
                                                        2020
 DD3075    DLA Energy Disposition Request               8/3/    No         DLA
                                                        2020
