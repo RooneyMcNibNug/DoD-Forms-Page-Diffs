@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 02/23/2022)
+DD Forms 2500-2999 (updated 3/14/2022)
 
 Form Availability
 
@@ -193,8 +193,8 @@ DD2509    Military Equal Opportunity Assessment       1/1/    No         P&R
                                                       2003
 DD2511    Imagery Research Request, NACF              2/1/    No         DIA
                                                       1988
-DD2512    Bulk Fuel Stock Rotation Plan               3/1/    No         DLA
-                                                      1988
+DD2512    Bulk Fuel Stock Rotation Plan               3/14/   No         DLA
+                                                      2022
 DD2518    Fulfillment of DoD Mandatory Training       9/1/    No         A&S
           Requirement                                 1988
 DD2521    Hazardous Chemical Warning Label (8-1/2 X   10/1/   No         A&S
