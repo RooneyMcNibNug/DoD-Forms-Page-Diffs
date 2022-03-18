@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 3/16/2022)
+DD Forms 2500-2999 (updated 3/17/2022)
 
 Form Availability
 
@@ -342,8 +342,8 @@ DD2654    Involuntary Allotment Notice and            12/1/   No         P&R
           Processing                                  1999
 DD2655    Complaint of Discrimination in the Federal  6/1/    No         WHS
           Government                                  2012
-DD2656    Data for Payment of Retired Personnel (     10/11/  No         P&R
-          Static Version)                             2018
+DD2656    Data for Payment of Retired Personnel       3/17/   No         P&R
+                                                      2022
 DD2656-1  Survivor Benefit Plan (SBP) Election        4/1/    No         P&R
           Statement for Former Spouse Coverage        2009
 DD2656-2  Survivor Benefit Plan (SBP) Termination     7/1/    No         P&R
@@ -860,12 +860,12 @@ DD2930A   Adapted Privacy Impact Assessment (PIA)     8/1/    No         CIO,
                                                       2011               DoD
 DD2931    Chemical, Biological, Radiological, and     3/1/    No         A&S
           Nuclear (CBRN) Mission Critical Report      2016
-DD2932    National Language Service Corps (NLSC)      4/30/   No         P&R
-          Application                                 2019
-DD2933    National Language Service Corps (NLSC)      1/1/    No         P&R
-          Detailed Skills Self-Assessment             2016
-DD2934    National Language Service Corps (NLSC)      4/30/   No         P&R
-          Global Language Self-Assessment             2019
+DD2932    National Language Service Corps (NLSC)      3/17/   No         P&R
+          Application                                 2022
+DD2933    National Language Service Corps (NLSC)      3/17/   No         P&R
+          Detailed Skills Self-Assessment             2022
+DD2934    National Language Service Corps (NLSC)      3/17/   No         P&R
+          Global Language Self-Assessment             2022
 DD2936    Request for Approval of DoD Internal        4/1/    No         WHS
           Information Collection                      2014
 DD2936-1  Request for Sponsorship Transfer of DoD     4/1/    No         WHS
