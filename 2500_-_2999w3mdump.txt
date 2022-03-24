@@ -106,7 +106,7 @@ Toggle navigation    Directives Home
           ☆  
           ☆ Forms Policy
           ☆ Forms Management Program (DODM 7750.08)
-          ☆ Forms Management Program Procedure's Manual (DODI 7750.07-M)
+          ☆ Forms Management Program Procedure's Manual (DODI 7750.07)
           ☆  
       □ 
           ☆ Forms Guidance
@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 3/17/2022)
+DD Forms 2500-2999 (updated 3/23/2022)
 
 Form Availability
 
@@ -517,8 +517,8 @@ DD2755    Weight-Based Assessment of Military Postal  5/1/    No         A&S
           Service - Incoming                          1997
 DD2756    Weight-Based Assessment of Military Postal  5/1/    No         A&S
           Service - Outgoing                          1997
-DD2757    Welding Examination Record                  6/1/    No         NAVY
-                                                      1997
+DD2757    Welding Examination Record                  3/23/   No         NAVY
+                                                      2022
 DD2758    Welding Certification Card                  6/1/    No         NAVY
                                                       1997
 DD2759    Report of Other Transactions for Prototype  12/1/   No         A&S
