@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 3/29/2022)
+DD Forms 1-499 (updated 4/4/2022)
 
 Form Availability
 
@@ -223,8 +223,8 @@ DD139     Pay Adjustment Authorization                 5/1/    Yes        DFAS
           Application for Correction of Military       12/27/
 DD149     Record Under the Provisions of Title 10,     2019    No         P&R
           U.S. Code, Section 1552
-DD150     Special Measurements Blank for Special       2/1/    No         DLA
-          Measurement/Orthopedic Boots and Shoes       1991
+DD150     Special Measurements Blank for Special       4/4/    No         DLA
+          Measurement/Orthopedic Boots and Shoes       2022
 DD165     Shipment of Funds                            1/1/    No         DFAS
                                                        2000
 DD175     Flight Plan, Military                        5/1/    No         AIR
@@ -285,8 +285,8 @@ DD350     Individual Contracting Action Report         10/1/   No         A&S
                                                        2003
 DD355     Employee Suggestion                          7/1/    No         WHS
                                                        1999
-DD358     Measurement Blank - Special Sized Clothing   6/1/    Yes        DLA
-          for Men, Armed Forces                        1990
+DD358     Measurement Blank - Special Sized Clothing   4/4/    No         DLA
+          for Men, Armed Forces                        2022
 DD361     Transportation Discrepancy Report (TDR)      6/1/    No         ARMY
                                                        2006
 DD361C    Transportation Discrepancy Report (TDR)      1/1/    No         ARMY
@@ -313,12 +313,6 @@ DD370     Request for Reference                        4/5/    No         P&R
                                                        2021
 DD372     Request for Verification of Birth            7/28/   No         P&R
                                                        2020
-DD375     Production Progress Report                   3/1/    No         A&S
-                                                       2000
-DD375-2   Delay in Delivery                            5/1/    No         A&S
-                                                       1989
-DD375C    Production Progress Report (Continuation)    3/1/    No         A&S
-                                                       2000
 DD397     Claim Certification and Voucher for Death    10/21/  No         DFAS
           Gratuity Payment                             2019
 DD410     Requisition For Telephone Service            4/1/    No         ARMY

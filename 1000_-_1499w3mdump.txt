@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 3/7/2022)
+DD Forms 1000-1499 (updated 4/4/2022)
 
 Form Availability
 
@@ -191,27 +191,27 @@ DD1077         Collection Point Register of Deceased   8/1/    No         P&R
                Personnel                               2015
 DD1079         Disinterment Register from Temporary    8/1/    No         P&R
                Interment Sites                         2015
-DD1081         Statement of Agent Officer's Account    3/1/     No        DFAS
+DD1081         Statement of Agent Officer's Account    3/1/    No         DFAS
                                                        2017
-DD1084         Bond Issuance Schedule, U.S. Savings    12/1/    No        ARMY
+DD1084         Bond Issuance Schedule, U.S. Savings    12/1/   No         ARMY
                Bonds - Series E                        1966
-DD1084C        Bond Issuance Schedule, U.S. Savings    12/1/    No        ARMY
+DD1084C        Bond Issuance Schedule, U.S. Savings    12/1/   No         ARMY
                Bonds - Series E (Continuation Sheet)   1966
 DD1085         Domestic Freight Routing Request and    11/1/   No         A&S
                Order                                   2007
 DD1096         Military Pay and Allowance Claim        10/1/   No         ARMY
                Voucher                                 1957
-DD1111         Armed Forces Measurement Blank -        3/1/     No        DLA
-               Special Sized Clothing for Women        1990
+DD1111         Armed Forces Measurement Blank -        4/4/    No         DLA
+               Special Sized Clothing for Women        2022
 DD1115         Mail Room Sign                          3/1/    No         ARMY
                                                        1956
-DD1118         Unit Mail Clerk's Receipt for Funds and 3/1/     No        ARMY
+DD1118         Unit Mail Clerk's Receipt for Funds and 3/1/    No         ARMY
                Purchase Record                         1956
 DD1131         Cash Collection Voucher                 12/1/   No         DFAS
                                                        2003
 DD1138-1       Inventory Report of Principal or        9/1/    No         A&S
                Secondary Items                         1999
-DD1141         Record of Occupational Exposure to      5/1/     Yes       DHA
+DD1141         Record of Occupational Exposure to      5/1/    Yes        DHA
                Ionizing Radiation                      1967
 DD1149         Requisition and Invoice/Shipping        1/1/    No         A&S
                Document                                2016
@@ -256,7 +256,7 @@ DD1207         Grain Size Distribution Graph-Aggregate 12/1/   No         ARMY
                Gradation Chart                         1999
 DD1208         Specific Gravity Tests                  12/1/   No         ARMY
                                                        1999
-DD1209         Liquid- and Plastic-Limits              12/1/    No        ARMY
+DD1209         Liquid- and Plastic-Limits              12/1/   No         ARMY
                Determination                           1999
 DD1210         Laboratory Compaction Characteristics   12/1/   No         ARMY
                of Soil (Compaction Test)               1999
@@ -357,9 +357,9 @@ DD1304-5RG     The ASVAB Career Exploration Program,   1/1/    Yes        P&R
                Recruiter Guide                         2003
 DD1304-5WB     Exploring Careers: the ASVAB Career     7/1/    Yes        P&R
                Exploration Guide                       2002
-DD1309         Model or Type Designation Card (Card    4/1/    Yes        AT&L
+DD1309         Model or Type Designation Card (Card    4/1/    Yes        A&S
                Code D)                                 1960
-DD1310         Part and Drawing Number Card (Card Code 4/1/    Yes        AT&L
+DD1310         Part and Drawing Number Card (Card Code 4/1/    Yes        A&S
                E)                                      1960
 DD1327         Pickup and Transfer Request             7/1/    Yes        ARMY
                                                        1960
