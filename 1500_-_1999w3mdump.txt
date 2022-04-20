@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 4/13/2022)
+DD Forms 1500 - 1999 (updated 4/19/2022)
 
 Form Availability
 
@@ -420,7 +420,7 @@ DD1829      Record of Military Dog Physical            10/1/   No         ARMY
             Examination                                1971
 DD1832      Revision/Reprint Notice                    10/1/   Yes        AIR
                                                        1971               FORCE
-DD1833      Isolated Personnel Report (ISOPREP)        4/13/   No         JPRA
+DD1833      Isolated Personnel Report (ISOPREP)        4/13/   Yes        JPRA
                                                        2022
 DD1834      Military Working Dog Service Record        10/1/   No         AIR
                                                        2017               FORCE
