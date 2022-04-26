@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 4/19/2022)
+DD Forms 2500-2999 (updated 4/25/2022)
 
 Form Availability
 
@@ -336,8 +336,8 @@ DD2648    Eform for Service Members Separating,       2019    Yes        P&R
           (REFRAD)
 DD2652    Application for Department of Defense Child 10/13/  No         P&R
           Care Fees                                   2020
-DD2653    Involuntary Allotment Application           11/1/   No         P&R
-                                                      2007
+DD2653    Involuntary Allotment Application           4/25/   No         P&R
+                                                      2022
 DD2654    Involuntary Allotment Notice and            12/1/   No         P&R
           Processing                                  1999
 DD2655    Complaint of Discrimination in the Federal  6/1/    No         WHS
