@@ -165,7 +165,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 5/11/2022)
+DD Forms 1500 - 1999 (updated 5/18/2022)
 
 Form Availability
 
@@ -196,8 +196,8 @@ DD1503      Message Correction Notice                  2/1/    No         ARMY
                                                        1979
 DD1523      Military Family Housing Justification      11/1/   No         A&S
                                                        1990
-DD1532      Pest Management Report                     2/25/   No         A&S
-                                                       2019
+DD1532      Pest Management Report                     5/18/   No         A&S
+                                                       2022
 DD1544      Cash Meal Payment Book                     5/1/    Yes        ARMY
                                                        1976
 DD1547      Record of Weighted Guidelines Application  4/24/   No         A&S
