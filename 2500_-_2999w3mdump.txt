@@ -165,7 +165,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 5/23/2022)
+DD Forms 2500-2999 (updated 5/25/2022)
 
 Form Availability
 
@@ -898,8 +898,8 @@ DD2942-2  Promotion Statistics - Promotions by Race,  2020    No         P&R
           Commissioned Officer Selection and          9/14/
 DD2942-3  Promotion Statistics - Posthumous           2020    No         P&R
           Commission Report
-DD2945    Post-Government Employment Advice Opinion   7/12/   No         GC,
-          Request                                     2019               DoD
+DD2945    Post-Government Employment Advice Opinion   5/25/   No         GC,
+          Request                                     2022               DoD
 DD2946    Department of Defense Telework Agreement    8/19/   No         P&R
                                                       2021
 DD2947-1  TRICARE Young Adult Application - 2018      4/30/   No         DHA
