@@ -139,7 +139,7 @@ Toggle navigation    Directives Home
           ☆ Overview
           ☆ Surveys
           ☆ Training
-          ☆ IMCO Resources
+          ☆ PRA Resources
       □ 
           ☆ Internal
           ☆ Internal Overview
@@ -166,7 +166,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 500 - 999 (updated 6/1/2022)
+DD Forms 500 - 999 (updated 6/16/2022)
 
 Form Availability
 
