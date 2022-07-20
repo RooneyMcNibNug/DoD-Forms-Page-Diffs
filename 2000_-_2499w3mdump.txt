@@ -166,7 +166,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 7/14/2022)
+DD Forms 2000-2499 (updated 7/19/2022)
 
 Form Availability
 
@@ -293,11 +293,11 @@ DD2130-14 KC-135 Load Plan                             9/1/    No         A&S
                                                        1998
 DD2130-15 C-130J-30 Load Plan                          6/1/    No         A&S
                                                        2016
-DD2130C   Aircraft Cargo Manifest Continuation         9/1/    No         A&S
+DD2130C   Aircraft Load Plan Continuation              9/1/    No         A&S
                                                        1998
 DD2131    Passenger Manifest                           8/19/   No         A&S
                                                        2019
-DD2133    Joint Airlift Inspection Record              6/1/    No         A&S
+DD2133    Joint Airlift Inspection Record/Checklist    6/1/    No         A&S
                                                        2013
 DD2138    Request for Transfer of Outpatient Records   1/1/    No         AIR
                                                        1978               FORCE
