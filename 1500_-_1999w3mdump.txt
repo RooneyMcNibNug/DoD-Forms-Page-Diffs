@@ -166,7 +166,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 7/22/2022)
+DD Forms 1500 - 1999 (updated 7/28/2022)
 
 Form Availability
 
@@ -360,20 +360,20 @@ DD1747      Status of Housing Availability             9/1/    No         A&S
                                                        1993
 DD1748      Joint Airdrop Inspection Record            3/1/    No         ARMY
             (Platforms)                                2019
-DD1748-1    Joint Airdrop Inspection Record            3/1/    No         ARMY
-            (Containers)                               2019
+DD1748-1    Joint Airdrop Inspection Record (CDS/CEP/  3/1/    No         ARMY
+            LCLA)                                      2019
 DD1748-2    Airdrop Malfunction Report                 3/1/    No         ARMY
             (Personnel-Cargo)                          2019
-DD1748-3    JOINT AIRDROP SUMMARY REPORT               11/1/   No         ARMY 
+DD1748-3    Joint Airdrop Summary Report               11/1/   No         ARMY 
                                                        1997
-DD1748-4    Joint Airdrop Inspection Record (CDS/LCLA) 3/1/    No         ARMY
-                                                       2019
-DD1748-5    Joint Airdrop Inspection Record            3/1/    No         ARMY
-            (JPADS-Precision Airdrop)                  2019
+DD1748-4    Joint Airdrop Inspection Record (CRRC/     3/1/    No         ARMY
+            MCADS)                                     2019
+DD1748-5    Joint Airdrop Inspection Record (JPADS -   3/1/    No         ARMY
+            Gravity)                                   2019
 DD1748-6    Joint Airdrop Inspection Record (DRAS)     3/1/    No         ARMY
                                                        2019
-DD1748-7    Joint Airdrop Inspection record            3/1/    No         ARMY
-            (JPAS-Precision Airdrop)                   2019
+DD1748-7    Joint Airdrop Inspection record (XCDS/     3/1/    No         ARMY
+            HSCDS)                                     2019
 DD1748-8    Joint Airdrop Inspection Record            3/1/    No         ARMY
             (JPADS-Extracted)                          2019 
 DD1750      Packing List                               9/1/    No         ARMY
