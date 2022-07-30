@@ -166,7 +166,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 7/28/2022)
+DD Forms 2500-2999 (updated 7/29/2022)
 
 Form Availability
 
@@ -932,9 +932,9 @@ DD2953    Partners Program Application (Civilian      2021    No         ODA&M
           Vietnam War Commemoration Commemorative     1/28/
 DD2954    Partners Program Application (Military      2021    No         ODA&M
           Installations only)
-DD2956    Vietnam War Commemoration Commemorative     7/28/   Yes        ODA&M
+DD2956    Vietnam War Commemoration Commemorative     7/28/   No         ODA&M
           Events                                      2022
-DD2957    Vietnam War Commemoration After-Action      7/28/   Yes        ODA&M
+DD2957    Vietnam War Commemoration After-Action      7/28/   No         ODA&M
           Report                                      2022
 DD2959    Breach of Personally Identifiable           1/25/   No         DPCLTD
           Information (PII) Report                    2019
