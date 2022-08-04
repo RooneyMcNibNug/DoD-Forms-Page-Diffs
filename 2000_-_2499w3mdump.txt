@@ -166,7 +166,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 8/1/2022)
+DD Forms 2000-2499 (updated 8/3/2022)
 
 Form Availability
 
@@ -367,7 +367,7 @@ DD2261    Registered Mail - Balance and Inventory      5/1/    No         ARMY
                                                        2000
 DD2262    Receptacle Record                            6/1/    No         ARMY
                                                        2000
-DD2263    Mailing Address/Combination Record           1/1/    No         ARMY
+DD2263    Mailing Address/Combination Notice           1/1/    No         ARMY
                                                        1982
 DD2266    Hometown News Release Information            6/1/    No         AIR
                                                        1995               FORCE
