@@ -166,7 +166,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 7/29/2022)
+DD Forms 3000-3499 (updated 8/4/2022)
 
 Form Availability
 
@@ -279,9 +279,9 @@ DD3048    Disposition of Organs Retained for Extended  1/31/   No         P&R
           Examination                                  2019
 DD3049    Advanced Restorative Art of Remains          1/31/   No         P&R
                                                        2019
-          Election for Air Transportation of Remains   1/31/
-DD3050    of Casualties Dying in a Theater of Combat   2019    No         P&R
-          Operations
+          Election Air Transportation of Remains of    1/31/
+DD3050    Casualties Dying Overseas and Returned       2019    No         P&R
+          Through Dover Air Force Base
 DD3054    Exceptional Family Member Program (EFMP)     3/18/   No         P&R
           Family Needs Assessment                      2019
 DD3056    Search and Seizure Warrant Pursuant to 18    1/9/    No         ARMY
