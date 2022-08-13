@@ -166,7 +166,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 8/9/2022)
+DD Forms 1000-1499 (updated 8/12/2022)
 
 Form Availability
 
@@ -219,8 +219,8 @@ DD1149         Requisition and Invoice/Shipping        1/1/    No         A&S
                Document                                2016
 DD1149C        Requisition and Invoice/Shipping        1/1/    No         A&S
                Document (Continuation Sheet)           2016
-DD1150         Issue or Turn-In, Request For           12/1/   No         WHS
-                                                       2011
+DD1150         Request for Issue / Transfer / Turn-in  8/12/   No         WHS
+                                                       2022
 DD1155         Order for Supplies or Services          12/1/   No         A&S
                                                        2001
 DD1155C-1      Order for Supplies or Services          1/1/    No         A&S
