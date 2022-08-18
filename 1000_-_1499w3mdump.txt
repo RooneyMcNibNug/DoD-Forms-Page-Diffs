@@ -166,7 +166,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 8/12/2022)
+DD Forms 1000-1499 (updated 8/17/2022)
 
 Form Availability
 
@@ -405,8 +405,8 @@ DD1351-5       Quarters and/or Mess, Government        7/1/    No         DFAS
                                                        1999
 DD1351-6       Multiple Payments List                  6/1/    No         DFAS
                                                        1993
-DD1354         Transfer and Acceptance of DoD Real     8/1/    No         A&S
-               Property                                2013
+DD1354         Transfer and Acceptance of DoD Real     8/17/   No         A&S
+               Property                                2022
 DD1363         Statement of Transactions and           12/1/   Yes        COMP
                Accountability (F. T. Accounts)         1961
 DD1371         Consignee's Receipt for Delivery at     9/1/    No         AT&L
