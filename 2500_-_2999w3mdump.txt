@@ -166,7 +166,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 8/19/2022)
+DD Forms 2500-2999 (updated 8/22/2022)
 
 Form Availability
 
@@ -272,8 +272,6 @@ DD2578    DoD Bone Marrow Donor Program Intent to     5/1/    Yes        DHA
           Donate Bone Marrow                          1991
 DD2579    Small Business Coordination Record          8/1/    No         A&S
                                                       2015
-DD2585    Repatriation Processing Center Processing   9/1/    No         P&R
-          Sheet                                       2014
 DD2586    Verification of Military Experience and     1/1/    No         P&R
           Training                                    2010
 DD2587    Department of Defense Acquisition Corps -   7/1/    No         P&R
