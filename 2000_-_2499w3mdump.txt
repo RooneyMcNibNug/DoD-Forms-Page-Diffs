@@ -166,7 +166,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 8/22/2022)
+DD Forms 2000-2499 (updated 8/24/2022)
 
 Form Availability
 
@@ -515,104 +515,6 @@ DD2482    Venom Extract Prescription                   3/1/    Yes        ARMY
           DoD Medical Examination Review Board         3/1/               AIR
 DD2489    (DoDMERB) Farnsworth Lantern & Red/Green     2008    No         FORCE
           Color Vision Tests 
-DD2490-1  Network Planning and Configuration Data -    2/1/    No         ARMY
-          Subscriber List                              1987
-DD2490-2  Network Planning and Configuration Data -    2/1/    No         ARMY
-          Trunk Group Cluster List                     1987
-DD2490-3  Network Planning and Configuration Data -    2/1/    No         ARMY
-          Loop Terminations                            1987
-DD2490-4  Network Planning and Configuration Data -    2/1/    No         ARMY
-          Trunk Terminations                           1987
-DD2490-5  Network Planning and Configuration Data -    2/1/    No         ARMY
-          Circuit Card Inventory                       1987
-DD2490-6  Network Planning and Configuration Data -    2/1/    No         ARMY
-          Matrix Strapping                             1987
-DD2490-7  Network Planning and Configuration Data -    2/1/    No         ARMY
-          Modem/Clock Strapping                        1987
-DD2490-8  Network Planning and Configuration Data -    2/1/    No         ARMY
-          MUX/DEMUX Strapping                          1987
-DD2490-9  Network Planning and Configuration Data -    2/1/    No         ARMY
-          Normal Wideband LTU                          1987
-DD2490-10 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Type II Modem                                1987
-DD2490-11 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Trunk Signaling Buffer B                     1987
-DD2490-12 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Switch Memory Control                        1987
-DD2490-13 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Loop Clock Selector                          1987
-DD2490-14 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Diphase Loop Modem A                         1987
-          Network Planning and Configuration Data -    2/1/
-DD2490-15 Switch Initialization and Classmark          1987    No         ARMY
-          Worksheet 
-          Network Planning and Configuration Data -    2/1/
-DD2490-16 Conference Bridge and Call Service Position  1987    No         ARMY
-          Worksheet 
-DD2490-17 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Loop Key Generator Worksheet                 1987
-DD2490-18 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Intermatrix Unit Worksheet (Type 98)         1987
-DD2490-19 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Signaling Equipment Worksheet                1987
-DD2490-20 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Analog Loop and Trunk Worksheet              1987
-DD2490-21 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Digital Loop and Trunk Worksheet             1987
-DD2490-22 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Digital Transmission Group Worksheet         1987
-DD2490-23 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Trunk Group Cluster Worksheet                1987
-DD2490-24 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Essential User Bypass Worksheet              1987
-DD2490-25 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Assign Key Location Worksheet                1987
-DD2490-26 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Net Rekeying Worksheet                       1987
-DD2490-27 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Commercial Network Routing Worksheet         1987
-DD2490-28 Network Planning and Configuration Data -    2/1/    No         ARMY
-          NYX Routing Worksheet                        1987
-DD2490-29 Network Planning and Configuration Data - PR 2/1/    No         ARMY
-          Routing Worksheet                            1987
-DD2490-30 Network Planning and Configuration Data -    2/1/    No         ARMY
-          NNX Routing Worksheet                        1987
-DD2490-31 Network Planning and Configuration Data -    2/1/    No         ARMY
-          NNXX Routing Worksheet                       1987
-DD2490-32 Network Planning and Configuration Data -    2/1/    No         ARMY
-          XXX Routing Worksheet                        1987
-DD2490-33 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Alternate Area Routing Worksheet             1987
-DD2490-34 Network Planning and Configuration Data - SL 2/1/    No         ARMY
-          Routing Worksheet                            1987
-DD2490-35 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Common Pool Compressed Dial Worksheet        1987
-DD2490-36 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Mixed Directory Routing Worksheet            1987
-DD2490-37 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Individual Compressed Dial Worksheet         1987
-DD2490-38 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Preprogrammed Conference Worksheet           1987
-DD2490-39 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Digit Editing Worksheet                      1987
-DD2490-40 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Call Inhibit Lists Worksheet                 1987
-DD2490-41 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Secondary Traffic Channels Worksheet         1987
-DD2490-42 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Zone Restriction Worksheet                   1987
-DD2490-43 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Assign Received Bypass Worksheet             1987
-          Network Planning and Configuration Data -    2/1/
-DD2490-44 Assign, Accommodate, and Restore Received    1987    No         ARMY
-          Bypass Worksheet 
-          Network Planning and Configuration Data -    2/1/
-DD2490-45 Assign Frequency for Network Reporting       1987    No         ARMY
-          Worksheet 
-DD2490-46 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Thresholds Worksheet                         1987
-DD2490-47 Network Planning and Configuration Data -    2/1/    No         ARMY
-          Traffic Metering Worksheet                   1987
           Department of Defense Armed Forces Pest      2/1/
 DD2491    Management Board Accreditation of            1987    No         A&S
           Competency 
