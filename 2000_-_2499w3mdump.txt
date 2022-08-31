@@ -1,3 +1,15 @@
+An official website of the United States government
+Here's how you know
+
+Official websites use .mil
+
+A .mil website belongs to an official U.S. Department of Defense organization
+in the United States.
+
+Secure .mil websites use HTTPS
+
+A lock ( ) or https:// means you’ve safely connected to the .mil website. Share
+sensitive information only on official, secure websites.
 Skip to main content (Press Enter).
 Toggle navigation
 Home Logo: Washington Headquarters Services
@@ -166,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 8/24/2022)
+DD Forms 2000-2499 (updated 8/30/2022)
 
 Form Availability
 
@@ -441,8 +453,6 @@ DD2345    Militarily Critical Technical Data Agreement 5/30/   No         DLA
                                                        2019
 DD2349    NOTAM Control Log                            8/1/    No         AIR
                                                        1990               FORCE
-DD2350    DoD Military Affiliate Radio System (MARS)   2/1/    Yes        AIR
-          Disaster Support Identification Card         1985               FORCE
 DD2351    DoD Medical Examination Review Board         3/1/    No         AIR
           (DoDMERB) Report of Medical Examination      2008               FORCE
 DD2357    Hazardous Component Safety Data Statement    4/1/    No         A&S
@@ -538,4 +548,4 @@ DD2499    Health Care Provider Action Report           2/1/    No         DHA
 
 DD Home Issuances Forms Collections  Plain Language Twitter FAQ Contact Us
 Section 508 Privacy
-Hosted by Defense Media Activity - WEB.mil
+Hosted by Defense Media Activity - WEB.mil Veterans Crisis Line

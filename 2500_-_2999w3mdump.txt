@@ -1,3 +1,15 @@
+An official website of the United States government
+Here's how you know
+
+Official websites use .mil
+
+A .mil website belongs to an official U.S. Department of Defense organization
+in the United States.
+
+Secure .mil websites use HTTPS
+
+A lock ( ) or https:// means you’ve safely connected to the .mil website. Share
+sensitive information only on official, secure websites.
 Skip to main content (Press Enter).
 Toggle navigation
 Home Logo: Washington Headquarters Services
@@ -166,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 8/24/2022)
+DD Forms 2500-2999 (updated 8/30/2022)
 
 Form Availability
 
@@ -1008,4 +1020,4 @@ DD2996    Department of Defense Suicide Event Report  3/1/    No         DHA
 
 DD Home Issuances Forms Collections  Plain Language Twitter FAQ Contact Us
 Section 508 Privacy
-Hosted by Defense Media Activity - WEB.mil
+Hosted by Defense Media Activity - WEB.mil Veterans Crisis Line
