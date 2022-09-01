@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 8/30/2022)
+DD Forms 2000-2499 (updated 8/31/2022)
 
 Form Availability
 
@@ -337,10 +337,6 @@ DD2167    Job Phase Calculation Sheet                  11/1/   Yes        NAVY
 DD2168    Survivor of Member of Group Certified to     3/19/   No         P&R
           Have Performed Active Duty with the Armed    2010
           Forces of the U.S. 
-DD2169    Packaging Instruction, Special               6/1/    No         NAVY
-                                                       1997
-DD2169C   Packaging Instruction, Special (Continuation 6/1/    No         NAVY
-          Sheet)                                       1997
 DD2201    Dental Procedures and Services Report        10/1/   Yes        DHA
                                                        1979
 DD2208    Rabies Vaccination Certificate               5/1/    No         ARMY
