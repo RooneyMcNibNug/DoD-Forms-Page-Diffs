@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 9/9/2022)
+DD Forms 2000-2499 (updated 9/19/2022)
 
 Form Availability
 
@@ -450,8 +450,6 @@ DD2345    Militarily Critical Technical Data Agreement 5/30/   No         DLA
                                                        2019
 DD2349    NOTAM Control Log                            8/1/    No         AIR
                                                        1990               FORCE
-DD2351    DoD Medical Examination Review Board         3/1/    No         AIR
-          (DoDMERB) Report of Medical Examination      2008               FORCE
 DD2357    Hazardous Component Safety Data Statement    4/1/    No         A&S
           (HCSDS)                                      1999
           DoD Expeditionary Civilian Agreement:        8/1/
@@ -519,14 +517,9 @@ DD2481    Request for Recovery of Debt Due the United  4/1/    No         DFAS
           States by Salary Offset                      2006
 DD2482    Venom Extract Prescription                   3/1/    Yes        ARMY
                                                        1986
-          DoD Medical Examination Review Board         3/1/               AIR
-DD2489    (DoDMERB) Farnsworth Lantern & Red/Green     2008    No         FORCE
-          Color Vision Tests 
           Department of Defense Armed Forces Pest      2/1/
 DD2491    Management Board Accreditation of            1987    No         A&S
           Competency 
-DD2492    DoD Medical Examination Review Board         3/1/    No         AIR
-          (DoDMERB) Report of Medical History          2008               FORCE
 DD2493-1  Asbestos Exposure Part I - Initial Medical   1/1/    No         A&S
           Questionnaire                                2000
 DD2493-2  Asbestos Exposure Part II - Periodic Medical 1/1/    No         A&S
