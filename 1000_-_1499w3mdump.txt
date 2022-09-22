@@ -303,7 +303,7 @@ DD1237         Shell Egg Inspection                    4/1/    No         DLA
 DD1249         Airlift Request - SAAM or JCS Exercise  7/1/    No         AIR
                                                        1981               FORCE
                Uniformed Services Medical Treatment    7/1/
-DD1251         Facility Nonavailability Statement      1991    Yes        DHA
+DD1251         Facility Nonavailability Statement      1991    Yes        P&R
                (NAS)
                U.S. Customs and Border Protection      2/1/
 DD1252         (CBP) Declaration for Personal Property 2006    No         A&S
