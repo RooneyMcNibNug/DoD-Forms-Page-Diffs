@@ -225,8 +225,6 @@ DD1131         Cash Collection Voucher                 12/1/   No         DFAS
                                                        2003
 DD1138-1       Inventory Report of Principal or        9/1/    No         A&S
                Secondary Items                         1999
-DD1141         Record of Occupational Exposure to      5/1/    Yes        DHA
-               Ionizing Radiation                      1967
 DD1149         Requisition and Invoice/Shipping        1/1/    No         A&S
                Document                                2016
 DD1149C        Requisition and Invoice/Shipping        1/1/    No         A&S
