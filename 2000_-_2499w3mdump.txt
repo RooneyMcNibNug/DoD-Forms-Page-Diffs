@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 9/27/2022)
+DD Forms 2000-2499 (updated 9/28/2022)
 
 Form Availability
 
@@ -511,8 +511,8 @@ DD2477-2  Shelf-Life Extension Notice (5" X 3")        4/1/    No         DLA
                                                        1999
 DD2477-3  Shelf-Life Extension Notice (3" X 1")        4/1/    No         DLA
                                                        1999
-DD2479    Barge Ullage                                 2/1/    Yes        DLA
-                                                       1986
+DD2479    Barge Ullage                                 9/28/   Yes        DLA
+                                                       2022
 DD2481    Request for Recovery of Debt Due the United  4/1/    No         DFAS
           States by Salary Offset                      2006
 DD2482    Venom Extract Prescription                   3/1/    Yes        ARMY
