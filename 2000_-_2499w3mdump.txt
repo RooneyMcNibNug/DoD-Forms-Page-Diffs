@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 9/28/2022)
+DD Forms 2000-2499 (updated 9/30/2022)
 
 Form Availability
 
@@ -446,8 +446,8 @@ DD2343    Veterinary Health Record                     8/1/    No         ARMY
                                                        2013
 DD2344    Veterinary Treatment Record                  11/1/   No         ARMY
                                                        1984
-DD2345    Militarily Critical Technical Data Agreement 5/30/   No         DLA
-                                                       2019
+DD2345    Militarily Critical Technical Data Agreement 10/1/   No         DLA
+                                                       2022
 DD2349    NOTAM Control Log                            8/1/    No         AIR
                                                        1990               FORCE
 DD2357    Hazardous Component Safety Data Statement    4/1/    No         A&S
@@ -511,7 +511,7 @@ DD2477-2  Shelf-Life Extension Notice (5" X 3")        4/1/    No         DLA
                                                        1999
 DD2477-3  Shelf-Life Extension Notice (3" X 1")        4/1/    No         DLA
                                                        1999
-DD2479    Barge Ullage                                 9/28/   Yes        DLA
+DD2479    Barge Ullage                                 9/30/   No         DLA
                                                        2022
 DD2481    Request for Recovery of Debt Due the United  4/1/    No         DFAS
           States by Salary Offset                      2006
