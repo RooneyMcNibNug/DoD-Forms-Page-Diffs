@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 10/14/2022)
+DD Forms 1000-1499 (updated 10/20/2022)
 
 Form Availability
 
@@ -244,10 +244,6 @@ DD1164         Service Order For Personal Property     9/1/    No         A&S
                                                        1998
 DD1172-2       Application for Identification Card/    4/24/   No         P&R
                DEERS Enrollment                        2020
-DD1173         Uniformed Services Identification and   3/1/    Yes        P&R
-               Privilege Card                          1961
-DD1173-1       Department of Defense Guard and Reserve 7/1/    Yes        P&R
-               Family Member Identification Card       1989
 DD1173-1S      United States Uniformed Services        10/1/
 (PRIV)         Identification and Privilege Card       1993    Yes        P&R
                (Reserve Dependent) (Red)
