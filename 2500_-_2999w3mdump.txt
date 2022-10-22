@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 10/20/2022)
+DD Forms 2500-2999 (updated 10/21/2022)
 
 Form Availability
 
@@ -438,12 +438,12 @@ DD2697    Report of Medical Assessment                2/1/    No         DHA
                                                       1995
 DD2698    Application for Transitional Compensation   2/27/   No         P&R
                                                       2019
-DD2701    Initial Information for Victims and         3/1/    No         P&R
-          Witnesses of Crime                          2016
-DD2702    Court-Martial Information for Victims and   3/1/    No         P&R
-          Witnesses of Crime                          2016
-DD2703    Post-Trial Information for Victims and      3/1/    No         P&R
-          Witnesses of Crime                          2016
+DD2701    Initial Information for Victims and         10/21/  No         P&R
+          Witnesses of Crime                          2022
+DD2702    Court-Martial Information for Victims and   10/21/  No         P&R
+          Witnesses of Crime                          2022
+DD2703    Post-Trial Information for Victims and      10/21/  No         P&R
+          Witnesses of Crime                          2022
 DD2704    Victim/Witness Certification and Election   3/1/    No         P&R
           Concerning Prisoner Status                  2013
 DD2705    Notification to Victim/Witness of Prisoner  3/1/    No         P&R
