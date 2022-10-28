@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 500 - 999 (updated 10/26/2022)
+DD Forms 500 - 999 (updated 10/27/2022)
 
 Form Availability
 
@@ -262,10 +262,6 @@ DD689     Individual Sick Slip                         8/1/    No         ARMY
           Application for Priority Rating for          5/1/
 DD691     Production or Construction Equipment,        2005    No         A&S
           Department of Defense
-DD707     Deposits, Report of                          3/1/    No         DECA
-                                                       1953
-DD708     Inventory Adjustment Monetary Account        8/1/    No         DECA
-                                                       1986
 DD714     Meal Card                                    10/1/   Yes        ARMY
                                                        1981
           Receipt for Unused Transportation Requests   11/1/
