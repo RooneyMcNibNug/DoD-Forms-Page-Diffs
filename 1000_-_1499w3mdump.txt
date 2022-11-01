@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 10/28/2022)
+DD Forms 1000-1499 (updated 10/31/2022)
 
 Form Availability
 
@@ -254,8 +254,8 @@ DD1191         Medical Oxygen Equipment, Warning Tag   10/1/   Yes        DHA
                For Medical Equipment                   1956
 DD1199         Pentagon Reservation Parking Permit     3/1/    Yes        WHS
                Application                             2019
-DD1200         Parking Permit Replacement/Re-Use of    3/1/    Yes        WHS
-               Space Request, Pentagon                 2002
+DD1200         Pentagon Reservation Parking Permit     3/1/    Yes        WHS
+               Replacement/Re-Use of Space Allocation  2002
 DD1205         Soil Moisture-Content Determination     12/1/   No         ARMY
                                                        1999
 DD1206         Grain-Size Analysis (Sieve Method)      12/1/   No         ARMY
