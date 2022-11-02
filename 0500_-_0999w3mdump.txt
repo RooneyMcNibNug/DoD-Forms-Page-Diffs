@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 500 - 999 (updated 10/27/2022)
+DD Forms 500 - 999 (updated 11/1/2022)
 
 Form Availability
 
@@ -193,10 +193,10 @@ formats. Here is a list of Forms Management POCs.
  Number                                                Edition Controlled
 (Download                    Title                      Date     (Y/N)     OPR
   PDF)
-DD503     Health Assessment Certificate for            3/1/    No         P&R
-          Segregation                                  2013
-DD504     Request and Receipt for Health and Comfort   3/1/    No         P&R
-          Supplies                                     2013
+DD503     Health Assessment Certificate for            11/1/   No         P&R
+          Segregation                                  2022
+DD504     Request and Receipt for Health and Comfort   11/1/   No         P&R
+          Supplies                                     2022
 DD506     Daily Strength Record of Prisoners           3/1/    No         P&R
                                                        2013
 DD509     Inspection Record of Prisoner in Segregation 3/1/    No         P&R

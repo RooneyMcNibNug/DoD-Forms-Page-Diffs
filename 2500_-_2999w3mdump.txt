@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 10/26/2022)
+DD Forms 2500-2999 (updated 11/1/2022)
 
 Form Availability
 
@@ -270,7 +270,7 @@ DD2564    Annual Freedom of Information Act Report    9/14/   No         WHS
                                                       2018
 DD2566    DoD Assistance Award Action Report          9/1/    No         A&S
                                                       1998
-DD2569    Third Party Collection Program/Medical      8/1/    No         DHA
+DD2569    Third Party Collection Program/Medical      11/1/   No         DHA
           Services Account/Other Health Insurance     2022
 DD2570    Third Party Collection Program - Report on  6/1/    No         DHA
           Program Results                             2001
@@ -456,10 +456,10 @@ DD2707-1  Department of Defense Report of Result of   3/1/    No         P&R
           Trial                                       2013
 DD2708    Receipt for Pre-Trial/Post Trial Prisoner   3/1/    No         P&R
           or Detained Person                          2013
-DD2710    Prisoner Background Summary                 3/1/    No         P&R
-                                                      2013
-DD2710-1  Prisoner Sentence Computation               3/1/    No         P&R
-                                                      2013
+DD2710    Prisoner Background Summary                 11/1/   No         P&R
+                                                      2022
+DD2710-1  Prisoner Sentence Computation               11/1/   No         P&R
+                                                      2022
 DD2711    Initial Custody Classification              3/1/    No         P&R
                                                       2013
 DD2711-1  Custody Reclassification                    3/1/    No         P&R

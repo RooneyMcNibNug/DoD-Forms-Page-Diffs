@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 10/27/2022)
+DD Forms 1-499 (updated 11/1/2022)
 
 Form Availability
 
@@ -377,8 +377,8 @@ DD493     Extract of Military Records of Previous      10/1/   No         ARMY
           Convictions                                  1984
 DD494     Court-Martial Data Sheet                     2/1/    No         ARMY
                                                        2017
-DD499     Prisoner's Mail and Correspondence Record    3/1/    No         P&R
-                                                       2013
+DD499     Prisoner's Mail and Correspondence Record    11/1/   No         P&R
+                                                       2022
 
 DD Home Issuances Forms Collections  Plain Language Twitter FAQ Contact Us
 Section 508 Privacy
