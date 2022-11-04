@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 500 - 999 (updated 11/1/2022)
+DD Forms 500 - 999 (updated 11/3/2022)
 
 Form Availability
 
@@ -197,16 +197,16 @@ DD503     Health Assessment Certificate for            11/1/   No         P&R
           Segregation                                  2022
 DD504     Request and Receipt for Health and Comfort   11/1/   No         P&R
           Supplies                                     2022
-DD506     Daily Strength Record of Prisoners           3/1/    No         P&R
-                                                       2013
-DD509     Inspection Record of Prisoner in Segregation 3/1/    No         P&R
-                                                       2013
-DD510     Prisoner Request                             3/1/    No         P&R
-                                                       2013
-DD512     Installation Custody Agreement               3/1/    No         P&R
-                                                       2013
-DD515     Roster of Prisoners                          3/1/    No         P&R
-                                                       2013
+DD506     Daily Strength Record of Prisoners           11/3/   No         P&R
+                                                       2022
+DD509     Inspection Record of Prisoner in Segregation 11/3/   No         P&R
+                                                       2022
+DD510     Prisoner Request                             11/3/   No         P&R
+                                                       2022
+DD512     Installation Custody Agreement               11/3/   No         P&R
+                                                       2022
+DD515     Roster of Prisoners                          11/3/   No         P&R
+                                                       2022
 DD518     Accident Identification Card                 10/1/   No         AIR
                                                        1978               FORCE
 DD551     Record of Interment                          8/1/    Yes        ARMY
