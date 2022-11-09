@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 11/7/2022)
+DD Forms 2500-2999 (updated 11/8/2022)
 
 Form Availability
 
@@ -450,8 +450,8 @@ DD2705    Notification to Victim/Witness of Prisoner  3/1/    No         P&R
           Status                                      2013
 DD2706    Annual Report on Victim and Witness         3/1/    No         P&R
           Assistance                                  2013
-DD2707    Confinement Order                           3/1/    No         P&R
-                                                      2013
+DD2707    Confinement Order                           11/8/   No         P&R
+                                                      2022
 DD2707-1  Department of Defense Report of Result of   3/1/    No         P&R
           Trial                                       2013
 DD2708    Receipt for Pretrial/Post-Trial Prisoner or 11/3/   No         P&R
