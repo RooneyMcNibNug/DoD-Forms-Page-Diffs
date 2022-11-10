@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 10/24/2022)
+DD Forms 3000-3499 (updated 11/9/2022)
 
 Form Availability
 
@@ -361,8 +361,8 @@ DD3110    Routine Immunization Screening Form:         3/11/   No         DHA
           Pediatric                                    2020
 DD3111    Routine Immunization Screening Form: Adult   3/11/   No         DHA
                                                        2020
-DD3112    Personnel Accountability and Assessment      3/23/   No         ASD
-          Notification for a Public Health Emergency   2021               (HA)
+DD3112    Personnel Accountability and Assessment      11/9/   No         ASD
+          Notification for a Public Health Emergency   2022               (HA)
 DD3114    Department of Defense Uniform Command        1/3/    No         P&R
           Disposition Report                           2022
 DD3117    Outstanding Service Members and Civilians    1/25/   No         P&R
