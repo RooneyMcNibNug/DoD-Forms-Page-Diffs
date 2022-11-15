@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 11/9/2022)
+DD Forms 1500 - 1999 (updated 11/14/2022)
 
 Form Availability
 
@@ -463,9 +463,6 @@ DD1862      Cargo Code Sheet - MSC Sealift             8/1/    Yes        NAVY
             Transportation Requirements                1977
 DD1863      Accessorial Services-Mobile Home           9/1/    No         A&S
                                                        1998
-            Nomination for Appointment to the United   9/1/               AIR
-DD1870      States Military Academy, US Naval Academy, 2005    No         FORCE
-            US Air Force Academy 
 DD1896      DoD Fuel Identaplate                       3/1/    No         DLA
                                                        1973
 DD1898      Energy Sale Slip                           7/1/    Yes        DLA
