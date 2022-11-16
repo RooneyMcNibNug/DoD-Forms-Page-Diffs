@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 11/14/2022)
+DD Forms 2500-2999 (updated 11/15/2022)
 
 Form Availability
 
@@ -464,26 +464,26 @@ DD2711    Initial Custody Classification              11/3/   No         P&R
                                                       2022
 DD2711-1  Custody Reclassification                    11/3/   No         P&R
                                                       2022
-DD2712    Prisoner Evaluation                         3/1/    No         P&R
-                                                      2013
-DD2713    Prisoner Observation Report                 3/1/    No         P&R
-                                                      2013
-DD2714    Prisoner Disciplinary Report/Action         3/1/    No         P&R
-                                                      2013
-DD2715    Clemency/Parole Submission                  3/1/    No         P&R
-                                                      2013
-DD2715-1  Disposition Board Recommendation            3/1/    No         P&R
-                                                      2013
+DD2712    Prisoner Evaluation                         11/15/  No         P&R
+                                                      2022
+DD2713    Prisoner Observation Report                 11/15/  No         P&R
+                                                      2022
+DD2714    Prisoner Disciplinary Report/Action         11/15/  No         P&R
+                                                      2022
+DD2715    Clemency/Parole Submission                  11/15/  No         P&R
+                                                      2022
+DD2715-1  Disposition Board Recommendation            11/15/  No         P&R
+                                                      2022
 DD2715-2  Prisoner Summary Data                       11/10/  No         P&R
                                                       2022
-DD2715-3  Prisoner Restoration/Return to Duty,        3/1/    No         P&R
-          Clemency and Parole Statement               2013
-DD2716    Parole Acknowledgement Letter               3/1/    No         P&R
-                                                      2013
+DD2715-3  Prisoner Restoration/Return to Duty,        11/15/  No         P&R
+          Clemency and Parole Statement               2022
+DD2716    Parole Acknowledgement Letter               11/15/  No         P&R
+                                                      2022
 DD2716-1  Department of Defense Certificate of        11/10/  No         P&R
           Supervised Release                          2022
-DD2717    Department of Defense Voluntary/Involuntary 3/1/    No         P&R
-          Appellate Leave Action                      2013
+DD2717    Department of Defense Voluntary/Involuntary 11/15/  No         P&R
+          Appellate Leave Action                      2022
 DD2718    Prisoner Release Order                      11/10/  No         P&R
                                                       2022
 DD2719    Correctional Facility Continuation Sheet    11/10/  No         P&R
