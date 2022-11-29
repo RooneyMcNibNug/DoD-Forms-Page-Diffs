@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 11/18/2022)
+DD Forms 1-499 (updated 11/28/2022)
 
 Form Availability
 
@@ -221,8 +221,8 @@ DD93      Record of Emergency Data                     1/1/    No         P&R
                                                        2008
 DD106     DoD Issuances Program Coordination           10/27/  No         WHS
           Initiation (Sample)                          2022
-DD108     Application for Retired Pay Benefits         7/1/    No         ARMY
-                                                       2002
+DD108     Application for Retired Pay Benefits         11/28/  No         ARMY
+                                                       2022
 DD114     Military Pay Order                           12/1/   No         DFAS
                                                        2017
 DD117     Pay Voucher, Military                        9/1/    No         DFAS
@@ -346,8 +346,8 @@ DD448     Military Interdepartmental Purchase Request  6/1/    No         A&S
                                                        1972
 DD448-2   Acceptance of MIPR                           7/1/    Yes        A&S
                                                        1971
-DD453     Subpoena                                     3/14/   No         ARMY
-                                                       2019
+DD453     Subpoena to Testify and/or Produce or Permit 3/14/   No         ARMY
+          Inspection of Items in a Court Martial       2019
 DD453-1   Travel Order                                 8/1/    No         ARMY
                                                        1984
 DD454     Warrant of Attachment                        1/14/   No         ARMY
