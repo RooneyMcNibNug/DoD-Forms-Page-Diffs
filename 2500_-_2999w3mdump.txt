@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 11/30/2022)
+DD Forms 2500-2999 (updated 12/1/2022)
 
 Form Availability
 
@@ -578,8 +578,8 @@ DD2789    Waiver/Remission of Indebtedness            6/21/   No         DFAS
           Custodianship Certificate to Support Claim  3/1/
 DD2790    on Behalf of Minor Children of Deceased     2017    No         DFAS
           Members of the Armed Forces 
-          Notice of Release/Acknowledgement of        3/1/
-DD2791    Convicted Sex Offender Registration         2013    No         P&R
+          Notice of Release/Acknowledgement of        12/1/              USD(I&
+DD2791    Convicted Sex Offender Registration         2022    No         S)
           Requirements 
 DD2792    Family Member Medical Summary               1/25/   No         P&R
                                                       2021
