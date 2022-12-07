@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 12/5/2022)
+DD Forms 1-499 (updated 12/6/2022)
 
 Form Availability
 
@@ -191,7 +191,8 @@ formats. Here is a list of Forms Management POCs.
 *Controlled forms are not authorized for publication on public-facing
 websites.  Please contact the OPR to request a copy.
 
-.PDF versions of forms use Adobe Reader^™.  Download Adobe Reader™
+If you have trouble accessing any forms, contact us at:
+whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 
  Number                                                Edition Controlled
 (Download                    Title                      Date     (Y/N)     OPR

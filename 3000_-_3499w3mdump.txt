@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 11/18/2022)
+DD Forms 3000-3499 (updated 12/6/2022)
 
 Form Availability
 
@@ -188,7 +188,8 @@ electronic format, please contact your own Military Service or DoD Component
 Forms Management Officer. Cancelled forms are not available in electronic
 formats. Here is a list of Forms Management POCs.
 
-.PDF versions of forms use Adobe Reader^™. Download Adobe Reader™
+If you have trouble accessing any forms, contact us at:  
+whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 
  Number                                                Edition Controlled
 (Download                    Title                      Date     (Y/N)     OPR
