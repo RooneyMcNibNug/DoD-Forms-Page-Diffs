@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 12/6/2022)
+DD Forms 2000-2499 (updated 01/11/2023)
 
 Form Availability
 
@@ -404,8 +404,8 @@ DD2285    Invitational Travel Order (ITO) for          7/1/    No         DSCA
           for Official Use Only, Department of         5/1/               DoD
 DD2286    Defense, Office of Inspector General         2006    No         OIG
           (Stocked and Issued by DoDIG)
-          Request for Appointment or Renewal of        9/1/
-DD2292    Appointment of Expert or Consultant or       2022    No         WHS
+          Request for Appointment or Renewal of        1/11/
+DD2292    Appointment of Expert or Consultant or       2023    No         WHS
           Advisory Board Member
 DD2293    Application for Former Spouse Payments from  4/1/    No         DFAS
           Retired Pay                                  2018

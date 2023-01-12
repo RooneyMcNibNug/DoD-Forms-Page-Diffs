@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 1/3/2023)
+DD Forms 3000-3499 (updated 1/11/2023)
 
 Form Availability
 
@@ -272,12 +272,12 @@ DD3041    Requirements Checklist for Internal Use      2017    No         A&S
           Software (IUS)
 DD3042    Accountable Property System of Records       6/1/    No         A&S
           (APSR) Equipment Requirements Checklist      2017
-DD3043-1  TRICARE Select Enrollment, Disenrollment,    9/30/   No         DHA
-          and Change Form (EAST)                       2021
-DD3043-2  TRICARE Select Enrollment, Disenrollment,    9/30/   No         DHA
-          and Change Form (WEST)                       2021
-DD3043-3  TRICARE Select Enrollment, Disenrollment,    9/30/   No         DHA
-          and Change Form (OVERSEAS)                   2021
+DD3043-1  TRICARE Select Enrollment, Disenrollment,    1/11/   No         DHA
+          and Change Form (EAST)                       2023
+DD3043-2  TRICARE Select Enrollment, Disenrollment,    1/11/   No         DHA
+          and Change Form (WEST)                       2023
+DD3043-3  TRICARE Select Enrollment, Disenrollment,    1/11/   No         DHA
+          and Change Form (OVERSEAS)                   2023
 DD3044    Pre-Embarkation Certificate of Disinsection  6/20/   No         A&S
                                                        2019
 DD3045    Statement of Disposition of Military Remains 1/31/   No         P&R

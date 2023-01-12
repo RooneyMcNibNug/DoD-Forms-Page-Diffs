@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 1/5/2023)
+DD Forms 2500-2999 (updated 1/11/2023)
 
 Form Availability
 
@@ -914,12 +914,12 @@ DD2945    Post-Government Employment Advice Opinion   5/25/   No         GC,
           Request                                     2022               DoD
 DD2946    Department of Defense Telework Agreement    8/19/   No         P&R
                                                       2021
-DD2947-1  TRICARE Young Adult Application - 2018      4/30/   No         DHA
-          (EAST)                                      2021
-DD2947-2  TRICARE Young Adult Application - 2018      4/30/   No         DHA
-          (WEST)                                      2021
-DD2947-3  TRICARE Young Adult Application - 2018      4/30/   No         DHA
-          (OVERSEAS)                                  2021
+DD2947-1  TRICARE Young Adult Application (EAST)      1/11/   No         DHA
+                                                      2023
+DD2947-2  TRICARE Young Adult Application (WEST)      1/11/   No         DHA
+                                                      2023
+DD2947-3  TRICARE Young Adult Application (OVERSEAS)  1/11/   No         DHA
+                                                      2023
           Special Compensation for Assistance with    5/6/
 DD2948    Activities of Daily Living (SCAADL)         2019    No         DHA
           Eligibility
