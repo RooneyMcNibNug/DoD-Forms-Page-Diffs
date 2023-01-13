@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 12/14/2022)
+DD Forms 1000-1499 (updated 1/12/2023)
 
 Form Availability
 
@@ -300,11 +300,11 @@ DD1249         Airlift Request - SAAM or JCS Exercise  7/1/    No         AIR
                Uniformed Services Medical Treatment    7/1/
 DD1251         Facility Nonavailability Statement      1991    Yes        P&R
                (NAS)
-               U.S. Customs and Border Protection      2/1/
-DD1252         (CBP) Declaration for Personal Property 2006    No         A&S
+               U.S. Customs and Border Protection      1/12/
+DD1252         (CBP) Declaration for Personal Property 2023    No         A&S
                Shipments - Part I
-               U.S. Customs and Border Protection      2/1/
-DD1252-1       (CBP) Declaration for Personal Property 2006    No         A&S
+               U.S. Customs and Border Protection      1/12/
+DD1252-1       (CBP) Declaration for Personal Property 2023    No         A&S
                Shipments - Part II
 DD1262         Administrative Service Request          10/1/   No         ARMY
                                                        1992
