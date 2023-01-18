@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 01/03/2023)
+DD Forms 1-499 (updated 01/17/2023)
 
 Form Availability
 
@@ -238,8 +238,8 @@ DD137-7   Dependency Statement - Ward of a Court (     3/1/    No         DFAS
           Instructions)                                2018
 DD139     Pay Adjustment Authorization                 5/1/    Yes        DFAS
                                                        1953
-          Application for Correction of Military       12/27/
-DD149     Record Under the Provisions of Title 10,     2019    No         P&R
+          Application for Correction of Military       1/17/
+DD149     Record Under the Provisions of Title 10,     2023    No         P&R
           U.S. Code, Section 1552
 DD150     Special Measurements Blank for Special       4/4/    No         DLA
           Measurement/Orthopedic Boots and Shoes       2022

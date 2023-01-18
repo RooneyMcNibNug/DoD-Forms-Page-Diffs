@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 1/5/2023)
+DD Forms 1500 - 1999 (updated 1/17/2023)
 
 Form Availability
 
@@ -355,10 +355,6 @@ DD1721-2    Space Test Program After Action Report     9/1/    No         AIR
                                                        2006               FORCE
 DD1722      Request for Trial Before Military Judge    10/1/   No         ARMY
             Alone                                      1984
-DD1723      Flow Process Chart                         9/1/    No         P&R
-                                                       1976
-DD1724      Work Distribution Chart                    9/1/    No         P&R
-                                                       1976
 DD1740      Food Inspection Stamp Record               1/1/    No         ARMY
                                                        2000
 DD1741      Military Working Animal Immunization       6/1/    No         ARMY
