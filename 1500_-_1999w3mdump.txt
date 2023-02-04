@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 1/27/2023)
+DD Forms 1500 - 1999 (updated 2/3/2023)
 
 Form Availability
 
@@ -421,8 +421,8 @@ DD1812      Warehouse Inspection Report                9/1/    No         A&S
                                                        1998
 DD1814      Carrier Notice of Warning/Suspension       9/1/    No         A&S
                                                        1998
-DD1821      Contractor Crewmember Record               8/1/    No         AIR
-                                                       1996               FORCE
+DD1821      Contractor Crewmember Flight Summary       2/3/    No         DCMA
+                                                       2023
 DD1826      Pest Control Certificate of Competency     3/1/    Yes        A&S
                                                        1977
 DD1826-1    Pesticide Applicator                       11/1/   Yes        A&S
