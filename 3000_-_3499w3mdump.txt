@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 2/9/2023)
+DD Forms 3000-3499 (updated 2/13/2023)
 
 Form Availability
 
@@ -191,210 +191,261 @@ formats. Here is a list of Forms Management POCs.
 If you have trouble accessing any forms, contact us at:  
 whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 
- Number                                                Edition Controlled
-(Download                    Title                      Date     (Y/N)     OPR
+ Number                                           Edition Controlled
+(Download                  Title                   Date     (Y/N)       OPR
   PDF)
-DD3005    Application for Surrogate Association for    4/23/   No         P&R
-          DoD Self-Service (DS) Logon                  2019
-DD3007    Hasty Protective Row Minefield Record        12/1/   No         ARMY
-                                                       2015
-DD3008    Explosive Hazards Clearance Report           12/1/   No         ARMY
-                                                       2015
-DD3009    Route Classification                         2/1/    No         ARMY
-                                                       2016
-DD3010    Road Reconnaissance Report                   2/1/    No         ARMY
-                                                       2016
-DD3011    Bridge Reconnaissance Report                 2/1/    No         ARMY
-                                                       2016
-DD3012    Tunnel Reconnaissance Report                 2/1/    No         ARMY
-                                                       2016
-DD3013    Ford Reconnaissance Report                   2/1/    No         ARMY
-                                                       2016
-DD3014    Ferry Reconnaissance Report                  2/1/    No         ARMY
-                                                       2016
-DD3015    Engineer Reconnaissance Report               2/1/    No         ARMY
-                                                       2016
-DD3016    River Reconnaissance Report                  2/1/    No         ARMY
-                                                       2016
-DD3017    Explosive Hazards Survey Report              12/1/   No         ARMY
-                                                       2015
-DD3018    Phased Retirement Request and Agreement      6/1/    No         P&R
-                                                       2016
+DD3005    Application for Surrogate Association   4/23/   No         P&R
+          for DoD Self-Service (DS) Logon         2019
+DD3007    Hasty Protective Row Minefield Record   12/1/   No         ARMY
+                                                  2015
+DD3008    Explosive Hazards Clearance Report      12/1/   No         ARMY
+                                                  2015
+DD3009    Route Classification                    2/1/    No         ARMY
+                                                  2016
+DD3010    Road Reconnaissance Report              2/1/    No         ARMY
+                                                  2016
+DD3011    Bridge Reconnaissance Report            2/1/    No         ARMY
+                                                  2016
+DD3012    Tunnel Reconnaissance Report            2/1/    No         ARMY
+                                                  2016
+DD3013    Ford Reconnaissance Report              2/1/    No         ARMY
+                                                  2016
+DD3014    Ferry Reconnaissance Report             2/1/    No         ARMY
+                                                  2016
+DD3015    Engineer Reconnaissance Report          2/1/    No         ARMY
+                                                  2016
+DD3016    River Reconnaissance Report             2/1/    No         ARMY
+                                                  2016
+DD3017    Explosive Hazards Survey Report         12/1/   No         ARMY
+                                                  2015
+DD3018    Phased Retirement Request and Agreement 6/1/    No         P&R
+                                                  2016
           Resuscitation Record
-DD3019                                                 10/1/   No         DHA
-            • Download Instructions                    2015
+DD3019                                            10/1/   No         DHA
+            • Download Instructions               2015
 
-DD3020    Breaching Reconnaissance Record              2/1/    No         ARMY
-                                                       2016
-DD3024    Annual Periodic Health Assessment            8/9/    No         DHA
-                                                       2021
-DD3026-1  Software Development Report                  10/18/  No         CAPE
-                                                       2022
-DD3026-2  Software Maintenance Report                  10/18/  No         CAPE
-                                                       2022
-DD3026-3   Enterprise Resource Planning Software       10/18/  No         CAPE
-          Resources Data Report                        2022
-DD3027    Vietnam War 50th Commemoration Certificate   7/28/   No         OCMO
-          of Honor: In Memory of                       2022
-DD3028    Vietnam War 50th Commemoration Certificate   7/28/   No         OCMO
-          of Honor: Former Vietnam War-Era POW         2022
-DD3029    Vietnam War 50th Commemoration Certificate   7/28/   No         OCMO
-          of Honor: Unaccounted For                    2022
-DD3030    Corporate Services Provider Application for  8/1/    No         DHA
-          TRICARE Provider Status                      2016
-DD3031    Department of Defense Senior Executive       10/1/   No         P&R
-          Service Probation Period                     2016
-DD3032    Department of Defense Pathways Recent        10/1/   No         P&R
-          Graduates Program Participant Agreement      2016
-DD3033    Department of Defense Pathways Internship    10/1/   No         P&R
-          Program Participant Agreement                2016
-          Department of Defense Pathways Program       10/1/
-DD3034    Presidential Management Fellows (PMF)        2016    No         P&R
+DD3020    Breaching Reconnaissance Record         2/1/    No         ARMY
+                                                  2016
+DD3024    Annual Periodic Health Assessment       8/9/    No         DHA
+                                                  2021
+DD3026-1  Software Development Report             10/18/  No         CAPE
+                                                  2022
+DD3026-2  Software Maintenance Report             10/18/  No         CAPE
+                                                  2022
+DD3026-3   Enterprise Resource Planning Software  10/18/  No         CAPE
+          Resources Data Report                   2022
+DD3027    Vietnam War 50th Commemoration          7/28/   No         OCMO
+          Certificate of Honor: In Memory of      2022
+          Vietnam War 50th Commemoration          7/28/
+DD3028    Certificate of Honor: Former Vietnam    2022    No         OCMO
+          War-Era POW
+DD3029    Vietnam War 50th Commemoration          7/28/   No         OCMO
+          Certificate of Honor: Unaccounted For   2022
+DD3030    Corporate Services Provider Application 8/1/    No         DHA
+          for TRICARE Provider Status             2016
+DD3031    Department of Defense Senior Executive  10/1/   No         P&R
+          Service Probation Period                2016
+DD3032    Department of Defense Pathways Recent   10/1/   No         P&R
+          Graduates Program Participant Agreement 2016
+          Department of Defense Pathways          10/1/
+DD3033    Internship Program Participant          2016    No         P&R
+          Agreement
+          Department of Defense Pathways Program  10/1/
+DD3034    Presidential Management Fellows (PMF)   2016    No         P&R
           Program Participant Agreement
-DD3035-1  Cold Chain Management Shipping Label for     6/1/    Yes        DLA
-          Refrigerated Items                           2017
-DD3035-2  Cold Chain Management Shipping Label for     6/1/    Yes        DLA
-          Hybrid Items                                 2017
-DD3035-3  Cold Chain Mgmt Shipping Label for           6/1/    Yes        DLA
-          Controlled Rm Temp Items                     2017
-DD3035-4  Cold Chain Management Shipping Label for     6/1/    Yes        DLA
-          Freezer Items                                2017
-DD3036    Effective Downwind Message Worksheet         1/1/    No         ARMY
-                                                       2017
-DD3037    Detailed Nuclear Fallout Prediction          1/1/    No         ARMY
-          Worksheet - Surface Burst                    2017
-DD3038    Radiological Data Sheet - Route or Course    1/1/    No         ARMY
-          Leg Technique                                2017
-DD3039    Nuclear Data Sheet - Monitoring or Point     1/1/    No         ARMY
-          Technique                                    2017
-          Accountable Property System of Record (APSR) 3/1/
-DD3041    Requirements Checklist for Internal Use      2017    No         A&S
-          Software (IUS)
-DD3042    Accountable Property System of Records       6/1/    No         A&S
-          (APSR) Equipment Requirements Checklist      2017
-DD3043-1  TRICARE Select Enrollment, Disenrollment,    1/11/   No         DHA
-          and Change Form (EAST)                       2023
-DD3043-2  TRICARE Select Enrollment, Disenrollment,    1/11/   No         DHA
-          and Change Form (WEST)                       2023
-DD3043-3  TRICARE Select Enrollment, Disenrollment,    1/11/   No         DHA
-          and Change Form (OVERSEAS)                   2023
-DD3044    Pre-Embarkation Certificate of Disinsection  6/20/   No         A&S
-                                                       2019
-DD3045    Statement of Disposition of Military Remains 1/31/   No         P&R
-                                                       2019
-          Disposition of Remains Election Statement    1/31/
-DD3046    Initial Notification of Identified Partial   2019    No         P&R
-          Remains
-          Disposition of Remains Election Statement    1/31/
-DD3047    Notification of Subsequently Identified      2019    No         P&R
-          Partial Remains
-DD3048    Disposition of Organs Retained for Extended  1/31/   No         P&R
-          Examination                                  2019
-DD3049    Advanced Restorative Art of Remains          1/31/   No         P&R
-                                                       2019
-          Election Air Transportation of Remains of    1/31/
-DD3050    Casualties Dying Overseas and Returned       2019    No         P&R
-          Through Dover Air Force Base
-DD3051    Limited Remaining Useful Life Component      12/28/  No         ARMY
-          Removed Prior to Failure Tag-Materiel        2022
-DD3054    Exceptional Family Member Program (EFMP)     3/18/   No         P&R
-          Family Needs Assessment                      2019
-DD3056    Search and Seizure Warrant Pursuant to 18    1/9/    No         ARMY
-          U.S.C. § 2703                                2019
-DD3057    Application for Search and Seizure Warrant   3/14/   No         ARMY 
-          Pursuant to 18 U.S.C. § 2703                 2019
-DD3058    Department of Defense Consent to Conduct     10/11/  No         P&R
-          Installation Records Check (IRC)             2019
-DD3059    Military Working Dog Handler Certificate of  2/23/   No         P&R
-          Commendation                                 2019
-DD3062    Request For Flight Approval                  9/21/   No         USD
-                                                       2020               (P)
-DD3065    Atomic Veterans Service Certificate          5/1/    Yes        P&R
-                                                       2019
-DD3067-1  SMART Scholarship Award Length Change        9/23/   No         R&E
-          Approval                                     2019
-DD3067-2  SMART Scholarship Educational Work Plan      1/13/   No         R&E
-                                                       2023
-DD3067-3  SMART Scholarship Foreign Travel             9/23/   No         R&E
-          Notification                                 2019
-DD3067-4  SMART Scholarship Recruitment Internship     1/13/   No         R&E
-          Report                                       2023
-DD3067-5  SMART Scholarship Media Release              1/13/   No         R&E
-                                                       2023
-DD3067-6  SMART Scholarship Participant Information    9/23/   No         R&E
-          Verification                                 2019
-DD3067-7  SMART Scholarship Phase 1 Annual Report      1/13/   No         R&E
-                                                       2023
-DD3067-8  SMART Scholarship Recruitment Internship     1/13/   No         R&E
-          Request                                      2023
-DD3067-9  SMART Scholarship Recruitment Site Visit     1/13/   No         R&E
-          Request                                      2023
-DD3067-10 SMART Scholarship Retention Summer Schedule  9/23/   No         R&E
-                                                       2019
-DD3067-11 SMART Scholarship Service Agreement          1/13/   No         R&E
-          Amendment Request                            2023
-DD3067-12 SMART Scholarship Service Agreement          1/17/   No         R&E
-                                                       2023
-DD3067-13 SMART Scholarship Site Visit Report for      1/13/   No         R&E
-          Recruitment Awardees                         2023
-DD3067-14 SMART Scholarship Notice of Withdrawal       9/23/   No         R&E
-                                                       2019
-DD3067-15 SMART Scholarship Revised Degree Completion  1/13/   No         R&E
-          Plan                                         2023
-DD3073    Canine-Tactical Combat Casualty Card         7/28/   Yes        DHA
-                                                       2020
-DD3074    Canine Treatment and Resuscitation Record    7/28/   No         DHA
-                                                       2020
-DD3075    DLA Energy Disposition Request               8/3/    No         DLA
-                                                       2020
-DD3076-1  Military Working Dog (MWD) Adoption          10/9/   No         AIR
-          Suitability Checklist                        2019               FORCE
-DD3076-3  Military Working Dog (MWD) Bite Muzzle Test  10/9/   No         AIR
-          Assessment                                   2019               FORCE
-DD3076-4  Military Working Dog (MWD) Disposition       10/9/   No         AIR
-          Checklist                                    2019               FORCE
-DD3076-5  Military Working Dog (MWD) Covenant Not to   10/9/   No         AIR
-          Sue with Indemnity Agreement (Adoption)      2019               FORCE
-          Military Working Dog (MWD) Covenant Not to   10/9/              AIR
-DD3076-6  Sue with Indemnity Agreement (Law            2019    No         FORCE
+DD3035-1  Cold Chain Management Shipping Label    6/1/    Yes        DLA
+          for Refrigerated Items                  2017
+DD3035-2  Cold Chain Management Shipping Label    6/1/    Yes        DLA
+          for Hybrid Items                        2017
+DD3035-3  Cold Chain Mgmt Shipping Label for      6/1/    Yes        DLA
+          Controlled Rm Temp Items                2017
+DD3035-4  Cold Chain Management Shipping Label    6/1/    Yes        DLA
+          for Freezer Items                       2017
+DD3036    Effective Downwind Message Worksheet    1/1/    No         ARMY
+                                                  2017
+DD3037    Detailed Nuclear Fallout Prediction     1/1/    No         ARMY
+          Worksheet - Surface Burst               2017
+DD3038    Radiological Data Sheet - Route or      1/1/    No         ARMY
+          Course Leg Technique                    2017
+DD3039    Nuclear Data Sheet - Monitoring or      1/1/    No         ARMY
+          Point Technique                         2017
+          Accountable Property System of Record   3/1/
+DD3041    (APSR) Requirements Checklist for       2017    No         A&S
+          Internal Use Software (IUS)
+DD3042    Accountable Property System of Records  6/1/    No         A&S
+          (APSR) Equipment Requirements Checklist 2017
+DD3043-1  TRICARE Select Enrollment,              1/11/   No         DHA
+          Disenrollment, and Change Form (EAST)   2023
+DD3043-2  TRICARE Select Enrollment,              1/11/   No         DHA
+          Disenrollment, and Change Form (WEST)   2023
+          TRICARE Select Enrollment,              1/11/
+DD3043-3  Disenrollment, and Change Form          2023    No         DHA
+          (OVERSEAS)
+DD3044    Pre-Embarkation Certificate of          6/20/   No         A&S
+          Disinsection                            2019
+DD3045    Statement of Disposition of Military    1/31/   No         P&R
+          Remains                                 2019
+          Disposition of Remains Election         1/31/
+DD3046    Statement Initial Notification of       2019    No         P&R
+          Identified Partial Remains
+          Disposition of Remains Election         1/31/
+DD3047    Statement Notification of Subsequently  2019    No         P&R
+          Identified Partial Remains
+DD3048    Disposition of Organs Retained for      1/31/   No         P&R
+          Extended Examination                    2019
+DD3049    Advanced Restorative Art of Remains     1/31/   No         P&R
+                                                  2019
+          Election Air Transportation of Remains  1/31/
+DD3050    of Casualties Dying Overseas and        2019    No         P&R
+          Returned Through Dover Air Force Base
+DD3051    Limited Remaining Useful Life Component 12/28/  No         ARMY
+          Removed Prior to Failure Tag-Materiel   2022
+DD3054    Exceptional Family Member Program       3/18/   No         P&R
+          (EFMP) Family Needs Assessment          2019
+DD3056    Search and Seizure Warrant Pursuant to  1/9/    No         ARMY
+          18 U.S.C. § 2703                        2019
+DD3057    Application for Search and Seizure      3/14/   No         ARMY 
+          Warrant Pursuant to 18 U.S.C. § 2703    2019
+          Department of Defense Consent to        10/11/
+DD3058    Conduct Installation Records Check      2019    No         P&R
+          (IRC)
+DD3059    Military Working Dog Handler            2/23/   No         P&R
+          Certificate of Commendation             2019
+DD3062    Request For Flight Approval             9/21/   No         USD(P)
+                                                  2020
+DD3065    Atomic Veterans Service Certificate     5/1/    Yes        P&R
+                                                  2019
+DD3067-1  SMART Scholarship Award Length Change   9/23/   No         R&E
+          Approval                                2019
+DD3067-2  SMART Scholarship Educational Work Plan 1/13/   No         R&E
+                                                  2023
+DD3067-3  SMART Scholarship Foreign Travel        9/23/   No         R&E
+          Notification                            2019
+DD3067-4  SMART Scholarship Recruitment           1/13/   No         R&E
+          Internship Report                       2023
+DD3067-5  SMART Scholarship Media Release         1/13/   No         R&E
+                                                  2023
+DD3067-6  SMART Scholarship Participant           9/23/   No         R&E
+          Information Verification                2019
+DD3067-7  SMART Scholarship Phase 1 Annual Report 1/13/   No         R&E
+                                                  2023
+DD3067-8  SMART Scholarship Recruitment           1/13/   No         R&E
+          Internship Request                      2023
+DD3067-9  SMART Scholarship Recruitment Site      1/13/   No         R&E
+          Visit Request                           2023
+DD3067-10 SMART Scholarship Retention Summer      9/23/   No         R&E
+          Schedule                                2019
+DD3067-11 SMART Scholarship Service Agreement     1/13/   No         R&E
+          Amendment Request                       2023
+DD3067-12 SMART Scholarship Service Agreement     1/17/   No         R&E
+                                                  2023
+DD3067-13 SMART Scholarship Site Visit Report for 1/13/   No         R&E
+          Recruitment Awardees                    2023
+DD3067-14 SMART Scholarship Notice of Withdrawal  9/23/   No         R&E
+                                                  2019
+DD3067-15 SMART Scholarship Revised Degree        1/13/   No         R&E
+          Completion Plan                         2023
+DD3073    Canine-Tactical Combat Casualty Card    7/28/   Yes        DHA
+                                                  2020
+DD3074    Canine Treatment and Resuscitation      7/28/   No         DHA
+          Record                                  2020
+DD3075    DLA Energy Disposition Request          8/3/    No         DLA
+                                                  2020
+DD3076-1  Military Working Dog (MWD) Adoption     10/9/   No         AIR FORCE
+          Suitability Checklist                   2019
+DD3076-3  Military Working Dog (MWD) Bite Muzzle  10/9/   No         AIR FORCE
+          Test Assessment                         2019
+DD3076-4  Military Working Dog (MWD) Disposition  10/9/   No         AIR FORCE
+          Checklist                               2019
+          Military Working Dog (MWD) Covenant Not 10/9/
+DD3076-5  to Sue with Indemnity Agreement         2019    No         AIR FORCE
+          (Adoption)
+          Military Working Dog (MWD) Covenant Not 10/9/
+DD3076-6  to Sue with Indemnity Agreement (Law    2019    No         AIR FORCE
           Enforcement Agency (LEA))
-DD3108    CBRN Sample Documentation and Chain of       10/13/  No         ARMY
-          Custody                                      2020
-DD3110    Routine Immunization Screening Form:         3/11/   No         DHA
-          Pediatric                                    2020
-DD3111    Routine Immunization Screening Form: Adult   3/11/   No         DHA
-                                                       2020
-DD3112    Personnel Accountability and Assessment      11/9/   No         ASD
-          Notification for a Public Health Emergency   2022               (HA)
-DD3114    Department of Defense Uniform Command        1/3/    No         P&R
-          Disposition Report                           2022
-DD3117    Outstanding Service Members and Civilians    1/25/   No         P&R
-          with Disabilities Award Nomination           2021
-DD3120    DoD Government Travel Charge Card (GTCC)     3/17/   No         P&R
-          Statement of Understanding (SOU)             2021
-DD3121-1  Notice of Adoption of STRL Demonstration     1/5/    No         R&E
-          Project Flexibility                          2022
-DD3121-2  Notice of Minor Modification of STRL         1/5/    No         R&E
-          Demonstration Project Flexibility            2022
-          Request for Publication of STRL Personnel    1/5/
-DD3121-3  Demonstration Project New Flexibility        2022    No         R&E
+DD3108    CBRN Sample Documentation and Chain of  10/13/  No         ARMY
+          Custody                                 2020
+DD3110    Routine Immunization Screening Form:    3/11/   No         DHA
+          Pediatric                               2020
+DD3111    Routine Immunization Screening Form:    3/11/   No         DHA
+          Adult                                   2020
+          Personnel Accountability and Assessment 11/9/
+DD3112    Notification for a Public Health        2022    No         ASD(HA)
+          Emergency
+DD3114    Department of Defense Uniform Command   1/3/    No         P&R
+          Disposition Report                      2022
+          Outstanding Service Members and         1/25/
+DD3117    Civilians with Disabilities Award       2021    No         P&R
+          Nomination
+DD3120    DoD Government Travel Charge Card       3/17/   No         P&R
+          (GTCC) Statement of Understanding (SOU) 2021
+DD3121-1  Notice of Adoption of STRL              1/5/    No         R&E
+          Demonstration Project Flexibility       2022
+DD3121-2  Notice of Minor Modification of STRL    1/5/    No         R&E
+          Demonstration Project Flexibility       2022
+          Request for Publication of STRL         1/5/
+DD3121-3  Personnel Demonstration Project New     2022    No         R&E
+          Flexibility Federal Register
+          Request for Publication of New STRL     1/5/
+DD3121-4  Personnel Demonstration Project Federal 2022    No         R&E
+          Register
+          Request for Publication of STRL         1/5/
+DD3121-5  Personnel Demonstration Project Omnibus 2022    No         R&E
           Federal Register
-          Request for Publication of New STRL          1/5/
-DD3121-4  Personnel Demonstration Project Federal      2022    No         R&E
-          Register
-          Request for Publication of STRL Personnel    1/5/
-DD3121-5  Demonstration Project Omnibus Federal        2022    No         R&E
-          Register
-DD3128    Information Collection Request Coordination  3/25/   No         WHS
-          Summary Sheet                                2021
-DD3134    Limited Access Authorization for Aliens and  8/18/   No         DCSA
-          Foreign Nationals                            2021
-DD3150    Contractor Personnel and Visitor             4/5/    No         P&R
-          Certification of Vaccination                 2022
-DD3179    Problematic Sexual Behavior Non-Clinical     1/21/   No         P&R
-          Referral Tool                                2022
-DD3180    Legion of Merit (LOM) Certificate for        2/9/    Yes        P&R
-          Foreign Personnel                            2022
+DD3128    Information Collection Request          3/25/   No         WHS
+          Coordination Summary Sheet              2021
+DD3134    Limited Access Authorization for Aliens 8/18/   No         DCSA
+          and Foreign Nationals                   2021
+DD3150    Contractor Personnel and Visitor        4/5/    No         P&R
+          Certification of Vaccination            2022
+DD3151    Entitlement Extension Request           2/13/   No         USTRANSCOM
+                                                  2023
+DD3152    Privately Owned Firearms (POF)          2/13/   No         USTRANSCOM
+          Information Worksheet                   2023
+          Claims for Full Replacement Value (FRV) 2/13/
+DD3153    Coverage Counseling Checklist and       2023    No         USTRANSCOM
+          Member/Employee Information
+DD3154    Quarantined Pest Self-Inspection        2/13/   No         USTRANSCOM
+          Checklist                               2023
+          Home of Record/Place Where I Last       2/13/
+DD3155    Entered Active Duty Transportation      2023    No         USTRANSCOM
+          Entitlement Counseling Authority
+DD3156    Home of Selection Travel and            2/13/   No         USTRANSCOM
+          Transportation Entitlement Authority    2023
+DD3157    Household Goods (HHG) Moving Checklist  2/13/   No         USTRANSCOM
+                                                  2023
+DD3158    List of Food Items for Import into the  2/13/   No         USTRANSCOM
+          United States                           2023
+DD3159    Motorcycle/Dirt Bike Information        2/13/   No         USTRANSCOM
+          Worksheet                               2023
+DD3160    Non-Temporary Storage (NTS) Release     2/13/   No         USTRANSCOM
+          Form                                    2023
+DD3161    Non-Temporary Storage/Outbound Shipment 2/13/   No         USTRANSCOM
+          Change Request                          2023
+DD3162    Personal Property Pre-Counseling        2/13/   No         USTRANSCOM
+          Worksheet                               2023
+DD3163    Privately Owned Vehicle (POV) Shipping  2/13/   No         USTRANSCOM
+          Counseling Form                         2023
+DD3164    Privately Owned Vehicle (POV) Storage   2/13/   No         USTRANSCOM
+          Counseling Form                         2023
+DD3165    Privately Owned Vehicle (POV) Storage   2/13/   No         USTRANSCOM
+          Authorization Letter                    2023
+DD3166    Personally-Procured Move (PPM)          2/13/   No         USTRANSCOM
+          Checklist and Expense Certification     2023
+DD3167    Releasing Agent Authorization Statement 2/13/   No         USTRANSCOM
+                                                  2023
+DD3168    Customer/Spouse Professional Books,     2/13/   No         USTRANSCOM
+          Papers, & Equipment (PB&E) Worksheet    2023
+DD3169    Shipping Alcoholic Beverages            2/13/   No         USTRANSCOM
+                                                  2023
+DD3170    Shipper's Certification for Shipment    2/13/   No         USTRANSCOM
+                                                  2023
+DD3178    Boat/Personal Watercraft Counseling &   2/13/   No         USTRANSCOM
+          Information Sheet                       2023
+DD3179    Problematic Sexual Behavior             1/21/   No         P&R
+          Non-Clinical Referral Tool              2022
+DD3180    Legion of Merit (LOM) Certificate for   2/9/    Yes        P&R
+          Foreign Personnel                       2022
 
 DD Home Issuances Forms Collections  Plain Language Twitter FAQ Contact Us
 Section 508 Privacy
