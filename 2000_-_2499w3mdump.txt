@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 01/31/2023)
+DD Forms 2000-2499 (updated 2/17/2023)
 
 Form Availability
 
@@ -357,9 +357,6 @@ DD2282    Reinspection Decal Convention for Safe       4/21/
           Department of the Army (SDDC)) 
 DD2285    Invitational Travel Order (ITO) for          7/1/    No         DSCA
           International Military Student (IMS)         1995
-          for Official Use Only, Department of         5/1/               DoD
-DD2286    Defense, Office of Inspector General         2006    No         OIG
-          (Stocked and Issued by DoDIG)
           Request for Appointment or Renewal of        1/11/
 DD2292    Appointment of Expert or Consultant or       2023    No         WHS
           Advisory Board Member
