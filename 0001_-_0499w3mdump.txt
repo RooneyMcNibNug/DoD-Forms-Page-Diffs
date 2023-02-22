@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 2/15/2023)
+DD Forms 1-499 (updated 2/21/2023)
 
 Form Availability
 
@@ -218,8 +218,8 @@ DD61      Request For Nomenclature                     8/1/    No         ARMY
                                                        1996
 DD67      Form Processing Action Request               5/1/    No         WHS
                                                        2016
-DD93      Record of Emergency Data                     1/1/    No         P&R
-                                                       2008
+DD93      Record of Emergency Data                     2/21/   No         P&R
+                                                       2023
 DD106     DoD Issuances Program Coordination           10/27/  No         WHS
           Initiation (Sample)                          2022
 DD108     Application for Retired Pay Benefits         11/28/  No         ARMY
