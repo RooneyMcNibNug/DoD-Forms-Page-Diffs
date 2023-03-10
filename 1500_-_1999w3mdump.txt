@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 3/7/2023)
+DD Forms 1500 - 1999 (updated 3/9/2023)
 
 Form Availability
 
@@ -393,8 +393,8 @@ DD1786      Military Handbook 300                      8/1/    No         NAVY
                                                        1996
 DD1789      Armed Forces Professional Entertainment    2/1/    No         ARMY
             Evaluation                                 1986
-DD1790      Prepared Congressional Testimony Review    2/1/    No         WHS
-                                                       2020
+DD1790      Congressional Review                       4/18/   No         WHS
+                                                       2016
 DD1791      Phased Provisioning Availability Schedule  3/1/    Yes        A&S
                                                        1971
 DD1793      Determination of Asphalt Content           2/1/    No         ARMY
