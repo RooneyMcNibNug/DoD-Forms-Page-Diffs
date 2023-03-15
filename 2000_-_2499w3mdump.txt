@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 3/10/2023
+DD Forms 2000-2499 (updated 3/14/2023)
 
 Form Availability
 
@@ -318,8 +318,8 @@ DD2247    DoD Armed Forces Pest Management Board       11/1/   Yes        A&S
           Certificate of Office                        1980
 DD2248    DoD Armed Forces Pest Management Board       11/1/   Yes        A&S
           Certificate of Appreciation                  1980
-DD2249    DoD Building Pass Application (Stocked &     11/1/   Yes        PFPA
-          Issued by WHS/PFPA)                          2005
+DD2249    Pentagon Facilities Access Enrollment Form   3/14/   Yes        PFPA
+                                                       2023
 DD2257    Designation/Termination MPC-FPC-COPE-PFO     5/1/    No         ARMY
                                                        2000
 DD2258    Temporary Mail Disposition Instructions      1/1/    No         ARMY
