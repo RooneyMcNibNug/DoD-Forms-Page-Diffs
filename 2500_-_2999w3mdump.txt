@@ -50,6 +50,7 @@ Search Executive Services Directorate: [                    ] Search
       □ OSD Declassification Programs
       □ OSD Records & Information Management
       □ Privacy Program
+  • Testing
 
 DoD Forms Management Program
 
@@ -178,7 +179,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 3/16/2023)
+DD Forms 2500-2999 (updated 3/21/2023)
 
 Form Availability
 
@@ -536,8 +537,8 @@ DD2758    Welding Certification Card                  6/1/    No         NAVY
                                                       1997
 DD2759    Report of Other Transactions for Prototype  12/1/   No         A&S
           Projects                                    2000
-DD2760    Qualification to Possess Firearms or        12/1/   No         P&R
-          Ammunition                                  2002
+DD2760    Qualification to Possess Firearms or        3/21/   No         USD(I&
+          Ammunition                                  2023               S)
 DD2761    Personal Check Cashing Agreement            4/1/    No         DFAS
                                                       2007
           United States DoD/Uniformed Services        4/1/
