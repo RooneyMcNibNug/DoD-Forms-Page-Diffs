@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 3/28/2023)
+DD Forms 2500-2999 (updated 3/30/2023)
 
 Form Availability
 
@@ -776,7 +776,7 @@ DD2894    Designation of Beneficiary Information      3/1/    No         DFAS
                                                       2005
 DD2896    TRICARE Reserve Select (TRS) Request Form   7/1/    Yes        DHA
                                                       2006
-DD2896-1  Reserve Component Health Coverage Request   7/1/    No         DHA
+DD2896-1  Reserve Component Health Coverage Request   7/1/    Yes        DHA
           (Stocked and Issued by ODHA/TMA)            2010
 DD2897    Former Spouse Distribution Statement        5/1/    No         DFAS
                                                       2006
