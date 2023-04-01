@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 3/30/2023)
+DD Forms 2500-2999 (updated 3/31/2023)
 
 Form Availability
 
@@ -194,8 +194,8 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
  Number                                               Edition Controlled
 (Download                    Title                     Date     (Y/N)     OPR
   PDF)
-DD2501    Courier Authorization                       3/1/    Yes        USD(I&
-                                                      1988               S)
+DD2501    Courier Authorization                       3/31/   Yes        USD(I&
+                                                      2023               S)
 DD2504    Abandoned Vehicle Notice                    5/1/    No         ARMY
                                                       2000
 DD2505    Abandoned Vehicle Removal Authorization     5/1/    No         ARMY
