@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 3/9/2023)
+DD Forms 1500 - 1999 (updated 4/6/2023)
 
 Form Availability
 
@@ -456,8 +456,6 @@ DD1857      Temporary Commercial Storage At Government 9/1/    No         A&S
             Expense                                    1998
 DD1861      Contract Facilities Capital Cost of Money  8/1/    No         A&S
                                                        2004
-DD1862      Cargo Code Sheet - MSC Sealift             8/1/    Yes        NAVY
-            Transportation Requirements                1977
 DD1863      Accessorial Services-Mobile Home           9/1/    No         A&S
                                                        1998
 DD1896      DoD Fuel Identaplate                       3/1/    No         DLA
