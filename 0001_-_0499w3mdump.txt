@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 2/22/2023)
+DD Forms 1-499 (updated 4/7/2023)
 
 Form Availability
 
@@ -309,7 +309,7 @@ DD361     Transportation Discrepancy Report (TDR)      6/1/    No         ARMY
                                                        2006
 DD361C    Transportation Discrepancy Report (TDR)      1/1/    No         ARMY
           (Continuation Sheet)                         2007
-DD362     Statement of Charges/Cash Collection Voucher 7/1/    Yes        ARMY
+DD362     Statement of Charges/Cash Collection Voucher 7/1/    No         ARMY
                                                        1993
 DD363     Certificate of Retirement                    1/1/    Yes        NAVY
                                                        1999
