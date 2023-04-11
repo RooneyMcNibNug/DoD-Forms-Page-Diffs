@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 4/7/2023)
+DD Forms 2500-2999 (updated 4/10/2023)
 
 Form Availability
 
@@ -332,11 +332,11 @@ DD2636    Defense Certificate to Operate the (Stocked 2014    No         P&R
           & Issued by OUSD(P&R)) 
 DD2641    Trafficability Test Data                    8/1/    No         ARMY
                                                       1993
-DD2642    CHAMPUS Claim Patient's Request for Medical 11/30/  No         DHA
-          Payment                                     2018
+DD2642    TRICARE DoD/CHAMPUS Medical Claim Patient's 11/30/  No         DHA
+          Request for Medical Payment                 2018
 DD2643    High Cost Foreign Lease                     9/1/    No         A&S
                                                       1993
-DD2645    Voter Registration Information              5/20/   No         P&R
+DD2645    Voter Registration Information              5/1/    No         P&R
                                                       2020
 DD2646    School Age Care Program Annual Summary of   12/1/   No         P&R
           Operations, Department of Defense           2002
@@ -367,7 +367,7 @@ DD2656-6  Survivor Benefit Plan Election Change       4/1/    No         P&R
           Certificate                                 2009
 DD2656-7  Verification for Survivor Annuity           7/1/    No         P&R
                                                       2020
-DD2656-8  Survivor Benefit Plan (SBP) Automatic       7/1/    No         DFAS
+DD2656-8  Survivor Benefit Plan (SBP) Automatic       7/1/    No         P&R
           Coverage Fact Sheet                         2020
           Survivor Benefit Plan (SBP) / Reserve       7/1/
 DD2656-10 Component (RC) SBP Request for Deemed       2020    No         P&R
@@ -453,7 +453,7 @@ DD2705    Notification to Victim/Witness of Prisoner  3/2/    No         P&R
           Status                                      2023
 DD2706    Annual Report on Victim and Witness         3/1/    No         P&R
           Assistance                                  2013
-DD2707    Confinement Order                           11/8/   No         P&R
+DD2707    Confinement Order                           11/1/   No         P&R
                                                       2022
 DD2707-1  Department of Defense Report of Result of   3/1/    No         P&R
           Trial                                       2013
@@ -507,7 +507,7 @@ DD2734/4  Contract Performance Report, Format 4 -     4/1/    No         A&S
           Staffing                                    2005
 DD2734/5  Contract Performance Report, Format 5 -     4/1/    No         A&S
           Explanations and Problem Analyses           2005
-DD2737    Industrial Capabilities Questionnaire; (    9/10/   No         A&S
+DD2737    Industrial Capabilities Questionnaire; (    9/1/    No         A&S
           Instructions)                               2018
 DD2740    Based Reuse Status (Stocked and Issued by   7/1/    No         A&S
           OUSD(AT&L))                                 2019
@@ -584,9 +584,9 @@ DD2790    on Behalf of Minor Children of Deceased     2017    No         DFAS
           Notice of Release/Acknowledgement of        3/1/               USD(I&
 DD2791    Convicted Sex Offender Registration         2013    No         S)
           Requirements 
-DD2792    Family Member Medical Summary               1/25/   No         P&R
+DD2792    Family Member Medical Summary               1/1/    No         P&R
                                                       2021
-DD2792-1  Early Intervention / Special Education      1/25/   No         P&R
+DD2792-1  Early Intervention / Special Education      1/1/    No         P&R
           Summary                                     2021
           Volunteer Agreement for Appropriated Fund   3/1/
 DD2793    Activities & Non Appropriated Fund          2018    No         P&R
@@ -664,7 +664,7 @@ DD2835    Program Access Request                      12/1/   No         USD(I&
                                                       2000               S)
 DD2836    Special Access Program Indoctrination       12/1/   No         USD(I&
           Agreement                                   2000               S)
-DD2837    Continued Health Care Benefit Program       8/30/   No         DHA
+DD2837    Continued Health Care Benefit Program       8/1/    No         DHA
           (CHCBP) Application                         2020
 DD2839    Career Status Bonus Election                4/1/    No         P&R
                                                       2009
