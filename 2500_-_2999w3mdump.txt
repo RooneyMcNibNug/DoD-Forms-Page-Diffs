@@ -120,7 +120,7 @@ Toggle navigation    Directives Home
           ☆  
           ☆ Forms Policy
           ☆ Forms Management Program (DODM 7750.08)
-          ☆ Forms Management Program Procedure's Manual (DODI 7750.07)
+          ☆ DoD Forms Management Program (DODI 7750.07)
           ☆  
       □ 
           ☆ Forms Guidance
@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 4/10/2023)
+DD Forms 2500-2999 (updated 4/11/2023)
 
 Form Availability
 
@@ -377,7 +377,7 @@ DD2657    Daily Statement of Accountability           8/1/    No         DFAS
 DD2658    Returned and Undeliverable Check/Bond       8/1/    No         DFAS
           Record                                      1993
 DD2660    Statement of Claimant Requesting            8/1/    No         DFAS
-          Recertified Check                           2015
+          Replacement Check                           2015
 DD2662    Recertified Payment Register                2/1/    No         DFAS
                                                       2001
 DD2663    Foreign Currency Control Record             8/1/    No         DFAS
@@ -690,7 +690,7 @@ DD2847    Contractor Performance Assessment Report    9/1/    No         AIR
 DD2848    Contractor Performance Assessment Report    9/1/    No         AIR
           (CPAR) - Systems                            2002               FORCE
 DD2851    Request to Correct Thrift Savings Plan      12/1/   No         DFAS
-          Agency Error                                2017
+          (TSP) Agency Error                          2017
 DD2852    Patient Movement Event/Near Miss Report     2/1/    No         A&S
                                                       2011
 DD2853    TRICARE Plus Enrollment Application         7/20/   No         DHA
@@ -721,9 +721,8 @@ DD2867    Income Tax Adjustment Certificate           6/1/    No         DFAS
                                                       2012
 DD2868    Request for Withholding State Tax           12/1/   No         DFAS
                                                       2003
-          Defense Finance and Account Service         12/1/
-DD2869    1099-MISC Tax Reporting Program System      2007    No         DFAS
-          Access Request
+DD2869    Defense Finance and Account Service 1099    12/1/   No         DFAS
+          Tax Reporting Program System Access Form    2007
 DD2870    Authorization for Disclosure of Medical or  12/1/   No         DHA
           Dental Information                          2003
 DD2871    Request to Restrict Medical and Dental      12/1/   No         DHA
