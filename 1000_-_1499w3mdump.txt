@@ -200,12 +200,12 @@ DD1074         Questionnaire of Local Inhabitants      7/1/    No         ARMY
                Chain of Custody for Transportation of  8/1/
 DD1075         Remains and Personal Effects of         2015    No         P&R
                Deceased Personnel 
-DD1076         Record of Personal Effects of Believed  8/1/    No         P&R
-               To Be (BTB) Deceased                    2015
+DD1076         Military Operations Record of Personal  8/1/    No         P&R
+               Effects of Deceased Personnel           2015
 DD1077         Collection Point Register of Deceased   8/1/    No         P&R
                Personnel                               2015
-DD1079         Disinterment Register from Temporary    8/1/    No         P&R
-               Interment Sites                         2015
+DD1079         Interment/Disinterment Register         8/1/    No         P&R
+                                                       2015
 DD1081         Statement of Agent Officer's Account    3/1/    No         DFAS
                                                        2017
 DD1084         Bond Issuance Schedule, U.S. Savings    12/1/   No         ARMY
@@ -416,13 +416,13 @@ DD1354         Transfer and Acceptance of DoD Real     8/17/   No         A&S
                Property                                2022
 DD1363         Statement of Transactions and           12/1/   Yes        COMP
                Accountability (F. T. Accounts)         1961
-DD1371         Consignee's Receipt for Delivery at     9/1/    No         AT&L
+DD1371         Consignee's Receipt for Delivery at     9/1/    No         A&S
                Stopoff Unloading Point                 1998
 DD1372         Mail Manifest                           10/1/   Yes        ARMY
                                                        1971
 DD1375         Request for Payment of Funeral and/or   11/22/  No         P&R
                Interment Expenses                      2019
-DD1380         Tactical Combat Casualty Care (TCCC)    6/1/    No         DHA
+DD1380         Tactical Combat Casualty Care (TCCC)    6/1/    No         P&R
                Card (Instructions)                     2014
 DD1381         Air Transportation Agreement            7/1/    No         AIR
                                                        1962               FORCE

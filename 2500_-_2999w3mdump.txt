@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 4/11/2023)
+DD Forms 2500-2999 (updated 4/12/2023)
 
 Form Availability
 
@@ -227,11 +227,11 @@ DD2526    Case Abstract for Malpractice Claims        2/1/    No         DHA
           Statement of Personal Injury - Possible     3/1/
 DD2527    Third Party Liability, Defense Health       2020    No         DHA
           Agency
-DD2535    Request for Military Aerial Support         1/18/   No         ASD
+DD2535    Request for Military Aerial Support         1/18/   No         ATSD
                                                       2023               (PA)
-DD2536    Request for Armed Forces Participation in   1/18/   No         ASD
+DD2536    Request for Armed Forces Participation in   1/18/   No         ATSD
           Public Events (Non- Aviation)               2023               (PA)
-DD2537    Visual Information Caption Sheet            2/1/    No         ASD
+DD2537    Visual Information Caption Sheet            2/1/    No         ATSD
                                                       1994               (PA)
 DD2542    Certificate of Appreciation for Service in  5/1/    Yes        P&R
           the Armed Forces of the United States       2001
@@ -241,8 +241,8 @@ DD2544    Diving Log                                  11/1/   No         NAVY
                                                       1989
 DD2551    Workload Management System for Nursing -    2/1/    No         DHA
           General Worksheet                           1992
-DD2554-1  Product Drawings and Associated Lists       12/1/   No         A&S
-                                                      1989
+DD2554-1  TDP Option Selection Worksheet Product      12/1/   No         A&S
+          Drawings and Associated Lists               1989
 DD2554-2  Conceptual Design Drawings and Associated   12/1/   No         A&S
           Lists                                       1989
 DD2554-3  Developmental Design Drawings and           12/1/   No         A&S
@@ -376,6 +376,8 @@ DD2657    Daily Statement of Accountability           8/1/    No         DFAS
                                                       1993
 DD2658    Returned and Undeliverable Check/Bond       8/1/    No         DFAS
           Record                                      1993
+DD2659    Voucher Control Log                         8/1/    No         DFAS
+                                                      1993
 DD2660    Statement of Claimant Requesting            8/1/    No         DFAS
           Replacement Check                           2015
 DD2662    Recertified Payment Register                2/1/    No         DFAS
@@ -750,7 +752,7 @@ DD2878    Department of Defense Youth Program         7/1/    No         P&R
           Inspection Checklist                        2004
 DD2881    NATO Secret (Label)                         5/1/    No         POL
                                                       2004
-DD2883    Government Travel Charge Card Alternate     1/22/   No         P&R
+DD2883    Government Travel Charge Card Alternate     1/1/    No         P&R
           Credit Worthiness Evaluation                2020
 DD2884    DoD Youth Program Annual Summary of         7/1/    No         P&R
           Operations                                  2004
@@ -779,7 +781,7 @@ DD2896-1  Reserve Component Health Coverage Request   7/1/    Yes        DHA
           (Stocked and Issued by ODHA/TMA)            2010
 DD2897    Former Spouse Distribution Statement        5/1/    No         DFAS
                                                       2006
-DD2898    Department of Defense Senior Professional   8/1/    No          
+DD2898    Department of Defense Senior Professional   8/1/    No         P&R
           Pay and Performance Appraisal               2009
 DD2899    Department of Defense Executive Pay and     8/1/    No         P&R
           Performance Appraisal                       2009
@@ -899,16 +901,16 @@ DD2939    NF-6 Performance Manegement System          8/1/    No         P&R
 DD2940    Supporting Contingency Operations and       2009    No         P&R
           Certain National Emergency Response
           Operations
-          Statement of Irrevocable Election of        1/1/
-DD2941    Educational Assistance Benefits Based on    2009    No         P&R
+          Statement of Irrevocable Election of        1/1/               USD(I&
+DD2941    Educational Assistance Benefits Based on    2009    No         S)
           Qualifying for Educational Assistance
-          Commissioned Officer Selection and          9/14/
+          Commissioned Officer Selection and          9/1/
 DD2942-1  Promotion Statistics - Promotions by        2020    No         P&R
           Competitive Category
-          Commissioned Officer Selection and          9/14/
+          Commissioned Officer Selection and          9/1/
 DD2942-2  Promotion Statistics - Promotions by Race,  2020    No         P&R
           Gender, and Ethnicity
-          Commissioned Officer Selection and          9/14/
+          Commissioned Officer Selection and          9/1/
 DD2942-3  Promotion Statistics - Posthumous           2020    No         P&R
           Commission Report
 DD2945    Post-Government Employment Advice Opinion   5/25/   No         GC,
@@ -921,15 +923,15 @@ DD2947-2  TRICARE Young Adult Application (WEST)      1/11/   No         DHA
                                                       2023
 DD2947-3  TRICARE Young Adult Application (OVERSEAS)  1/11/   No         DHA
                                                       2023
-          Special Compensation for Assistance with    5/6/
-DD2948    Activities of Daily Living (SCAADL)         2019    No         DHA
-          Eligibility
+          Application for Special Compensation for    5/6/
+DD2948    Assistance with Activities of Daily Living  2019    No         DHA
+          (SCAADL)
 DD2949    Joint Inspector General Action Request      9/1/    No         DoD
                                                       2011               OIG
-          Department of Defense Sexual Assault        1/15/
+          Department of Defense Sexual Assault        1/1/
 DD2950    Advocate Certification Program (D-SAACP)    2020    No         P&R
           Application Packet for New Applicants
-          Department of Defense Sexual Assault        1/15/
+          Department of Defense Sexual Assault        1/1/
 DD2950-1  Advocate Certification Program (D-SAACP)    2020    No         P&R
           Application Packet for Renewal Applicants
           Initial Report of Suspected Child Sexual    6/1/
@@ -938,15 +940,15 @@ DD2951    Abuse in a DoD Operated or Sponsored        2012    No         P&R
           Closeout Report of Suspected Child Sexual   6/1/
 DD2952    Abuse in DoD Operated or Sponsored          2012    No         P&R
           Activities
-          Vietnam War Commemoration Commemorative     1/28/
+          Vietnam War Commemoration Commemorative     1/1/
 DD2953    Partners Program Application (Civilian      2021    No         ODA&M
           Organizations only)
-          Vietnam War Commemoration Commemorative     1/28/
+          Vietnam War Commemoration Commemorative     1/1/
 DD2954    Partners Program Application (Military      2021    No         ODA&M
           Installations only)
-DD2956    Vietnam War Commemoration Commemorative     7/28/   No         ODA&M
-          Events                                      2022
-DD2957    Vietnam War Commemoration After-Action      7/28/   No         ODA&M
+DD2956    Vietnam War Commemoration Commemorative     7/1/    No         ODA&M
+          Events Request                              2022
+DD2957    Vietnam War Commemoration After-Action      7/1/    No         ODA&M
           Report                                      2022
 DD2959    Breach of Personally Identifiable           1/25/   No         DPCLTD
           Information (PII) Report                    2019
@@ -965,9 +967,9 @@ DD2964    Security Cooperation Education and Training 7/1/    No         ARMY
           (SCET) Team Request Form                    2013
 DD2965    Defense Sexual Assault Incident Database    9/2/    No         P&R
           (DSAID) Data                                2020
-DD2966    Shelf Life Expired Material                 1/26/   No         DLA
+DD2966    Shelf Life Expired Material                 1/1/    No         DLA
                                                       2021
-DD2967    Domestic Abuse Victim Reporting Option      4/15/   No         P&R
+DD2967    Domestic Abuse Victim Reporting Option      4/1/    No         P&R
           Statement                                   2022
 DD2970    Application for Temporary Food              2/27/   No         ARMY
           Establishment                               2019
@@ -983,7 +985,7 @@ DD2975    Temporary Food Event Coordinator's          11/1/   No         ARMY
           Application                                 2013
 DD2976    Servicemembers' Group Life Insurance (SGLI) 6/1/    No         P&R
           Online Enrollment System (SOES)             2016
-DD2977    Deliberate Risk Assessment Worksheet        11/30/  No         ARMY
+DD2977    Deliberate Risk Assessment Worksheet        11/1/   No         ARMY
                                                       2020
 DD2978    Deployment Mental Health Assessment         7/1/    No         DHA
                                                       2022

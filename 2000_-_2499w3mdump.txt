@@ -292,7 +292,7 @@ DD2167    Job Phase Calculation Sheet                  11/1/   Yes        NAVY
                                                        1978
           Application for Discharge of Member or
 DD2168    Survivor of Member of Group Certified to     3/19/   No         P&R
-          Have Performed Active Duty with the Armed    2010
+          Have Performed Active Duty with the Armed    2021
           Forces of the U.S. 
 DD2201    Dental Procedures and Services Report        10/1/   Yes        DHA
                                                        1979
@@ -471,8 +471,8 @@ DD2481    Request for Recovery of Debt Due the United  4/1/    No         DFAS
           States by Salary Offset                      2006
 DD2482    Venom Extract Prescription                   3/1/    Yes        ARMY
                                                        1986
-          Department of Defense Armed Forces Pest      2/1/
-DD2491    Management Board Accreditation of            1987    No         A&S
+          Department of Defense Armed Forces Pest      11/1/
+DD2491    Management Board Accreditation of            2002    No         A&S
           Competency 
 DD2493-1  Asbestos Exposure Part I - Initial Medical   1/1/    No         A&S
           Questionnaire                                2000

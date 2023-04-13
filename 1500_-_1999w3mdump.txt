@@ -257,7 +257,7 @@ DD1597      Contract Closeout Check-List               4/1/    No         A&S
 DD1598      Contract Termination Status Report         1/1/    No         A&S
                                                        2001
 DD1607      Application For Homeowners Assistance      4/28/   No         A&S
-                                                       2022
+            Program                                    2022
 DD1610      Request and Authorization for TDY Travel   5/1/    No         P&R
             of DoD Personnel                           2003
 DD1613      Pilot's Compass Correction Card            7/1/    Yes        ARMY
@@ -345,7 +345,7 @@ DD1714      Product Verification Record                6/1/    No         ARMY
                                                        1969
 DD1716      Contract Data Package Recommendation/      12/1/   No         DLA
             Deficiency Report                          1977
-DD1718      Certification of Qualified Products        9/7/    No         R&E
+DD1718      Certification of Qualified Products        9/7/    No         DLA
                                                        2021
 DD1719      Voluntary Education Program Report, DoD    2/1/    No         P&R
                                                        2000
@@ -432,7 +432,7 @@ DD1829      Record of Military Dog Physical            10/1/   No         ARMY
 DD1832      Revision/Reprint Notice                    10/1/   Yes        AIR
                                                        1971               FORCE
             Isolated Personnel Report (ISOPREP) (CAC   4/13/
-DD1833      enabled, for a copy of the form, contact:  2022    Yes        JPRA
+DD1833      enabled, for a copy of the form, contact:  2022    Yes        JCS
             127.WG.PRMS.Mail.Org@us.af.mil)
 DD1834      Military Working Dog Service Record        10/1/   No         AIR
                                                        2017               FORCE

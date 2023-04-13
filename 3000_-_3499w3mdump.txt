@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 4/3/2023)
+DD Forms 3000-3499 (updated 4/12/2023)
 
 Form Availability
 
@@ -218,7 +218,7 @@ DD3016    River Reconnaissance Report             2/1/    No         ARMY
                                                   2016
 DD3017    Explosive Hazards Survey Report         12/1/   No         ARMY
                                                   2015
-DD3018    Phased Retirement Request and Agreement 6/1/    No         P&R
+DD3018    Phased Retirement Request and Agreement 6/1/    No         ARMY
                                                   2016
           Resuscitation Record
 DD3019                                            10/1/   No         DHA
@@ -234,12 +234,12 @@ DD3026-2  Software Maintenance Report             10/18/  No         CAPE
                                                   2022
 DD3026-3   Enterprise Resource Planning Software  10/18/  No         CAPE
           Resources Data Report                   2022
-DD3027    Vietnam War 50th Commemoration          7/28/   No         OCMO
+DD3027    Vietnam War 50th Commemoration          7/1/    No         ODA&M
           Certificate of Honor: In Memory of      2022
-          Vietnam War 50th Commemoration          7/28/
-DD3028    Certificate of Honor: Former Vietnam    2022    No         OCMO
-          War-Era POW
-DD3029    Vietnam War 50th Commemoration          7/28/   No         OCMO
+          Vietnam War 50th Commemoration          7/1/
+DD3028    Certificate of Honor: Former Vietnam    2022    No         ODA&M
+          War POW
+DD3029    Vietnam War 50th Commemoration          7/1/    No         ODA&M
           Certificate of Honor: Unaccounted For   2022
 DD3030    Corporate Services Provider Application 8/1/    No         DHA
           for TRICARE Provider Status             2016
@@ -281,7 +281,7 @@ DD3043-2  TRICARE Select Enrollment,              1/11/   No         DHA
           TRICARE Select Enrollment,              1/11/
 DD3043-3  Disenrollment, and Change Form          2023    No         DHA
           (OVERSEAS)
-DD3044    Pre-Embarkation Certificate of          6/20/   No         A&S
+DD3044    Pre-Embarkation Certificate of          6/1/    No         A&S
           Disinsection                            2019
 DD3045    Statement of Disposition of Military    1/31/   No         P&R
           Remains                                 2019
@@ -315,7 +315,7 @@ DD3062    Request For Flight Approval             9/21/   No         USD(P)
                                                   2020
 DD3065    Atomic Veterans Service Certificate     5/1/    Yes        P&R
                                                   2019
-DD3067-1  SMART Scholarship Award Length Change   9/23/   No         R&E
+DD3067-1  SMART Scholarship Award Length Change   9/1/    No         R&E
           Approval                                2019
 DD3067-2  SMART Scholarship Educational Work Plan 1/13/   No         R&E
                                                   2023
@@ -345,13 +345,13 @@ DD3067-14 SMART Scholarship Notice of Withdrawal  9/23/   No         R&E
                                                   2019
 DD3067-15 SMART Scholarship Revised Degree        1/13/   No         R&E
           Completion Plan                         2023
-DD3073    Canine-Tactical Combat Casualty Card    7/28/   Yes        DHA
+DD3073    Canine-Tactical Combat Casualty Card    7/1/    Yes        DHA
                                                   2020
-DD3074    Canine Treatment and Resuscitation      7/28/   No         DHA
+DD3074    Canine Treatment and Resuscitation      7/1/    No         DHA
           Record                                  2020
-DD3075    DLA Energy Disposition Request          8/3/    No         DLA
+DD3075    DLA Energy Disposition Request          7/1/    No         DLA
                                                   2020
-DD3076-1  Military Working Dog (MWD) Adoption     10/9/   No         AIR FORCE
+DD3076-1  Military Working Dog (MWD) Adoption     10/1/   No         AIR FORCE
           Suitability Checklist                   2019
 DD3076-3  Military Working Dog (MWD) Bite Muzzle  10/9/   No         AIR FORCE
           Test Assessment                         2019

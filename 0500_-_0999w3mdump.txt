@@ -260,9 +260,9 @@ DD675     Receipt for Records and Patients Property    10/1/   No         DHA
                                                        1974
 DD689     Individual Sick Slip                         8/1/    No         ARMY
                                                        2017
-          Application for Priority Rating for          5/1/
-DD691     Production or Construction Equipment,        2005    No         A&S
-          Department of Defense
+          Department of Defense Application for        5/1/
+DD691     Priority Rating for Production or            2005    No         A&S
+          Construction Equipment
 DD714     Meal Card                                    10/1/   Yes        ARMY
                                                        1981
           Receipt for Unused Transportation Requests   11/1/
@@ -292,7 +292,7 @@ DD818     DoD Issuance Coordination Response           8/1/    No         WHS
                                                        2016
 DD818-1   Consolidated DoD Issuance Comment Matrix     8/1/    No         WHS
                                                        2016
-DD827     Arrears in Pay, Application For              3/1/    No         DFAS
+DD827     Application for Arrears in Pay               3/1/    No         DFAS
                                                        1985
 DD843     Requisition For< Printing and Binding        7/1/    No         WHS
           Service                                      1955
