@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 4/12/2023)
+DD Forms 2500-2999 (updated 4/13/2023)
 
 Form Availability
 
@@ -950,7 +950,7 @@ DD2956    Vietnam War Commemoration Commemorative     7/1/    No         ODA&M
           Events Request                              2022
 DD2957    Vietnam War Commemoration After-Action      7/1/    No         ODA&M
           Report                                      2022
-DD2959    Breach of Personally Identifiable           1/25/   No         DPCLTD
+DD2959    Breach of Personally Identifiable           1/1/    No         DPCLTD
           Information (PII) Report                    2019
 DD2960    DoD Plain Writing Act Compliance            4/1/    No         WHS
                                                       2013
@@ -1017,8 +1017,8 @@ DD2993    Environmental Baseline Survey (EBS)         9/1/    No         ARMY
           Checklist                                   2022
 DD2994    Environmental Baseline Survey (EBS) Report  9/1/    No         ARMY
                                                       2022
-DD2995    Environmental Site Closure Survey           8/1/    No         ARMY
-                                                      2015
+DD2995    Environmental Site Closure Survey (ESCS)    4/13/   No         ARMY
+                                                      2023
 DD2996    Department of Defense Suicide Event Report  3/1/    No         DHA
                                                       2015
 
