@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 500 - 999 (updated 1/3/2023)
+DD Forms 500 - 999 (updated 4/14/2023)
 
 Form Availability
 
@@ -246,7 +246,7 @@ DD610     Government Furnished Equipment Requirement   8/1/    No         AIR
           Schedule                                     1996               FORCE
 DD616     Report of Return of Absentee                 11/22/  No         P&R
                                                        2021
-DD619     Statement of Accessorial Services Performed  5/6/    No         A&S
+DD619     Statement of Accessorial Services Performed  5/1/    No         A&S
                                                        2019
 DD626     Motor Vehicle Inspection (Transporting       10/1/   No         A&S
           Hazardous Material)                          2011
@@ -280,7 +280,7 @@ DD788     Private Vehicle Shipping Document for        9/1/    No         A&S
           Automobile                                   1998
 DD788-1   Private Vehicle Shipping Document for Van    9/1/    No         A&S
                                                        1998
-DD788-2   PrivateVehicle Shipping Document for         9/1/    No         A&S
+DD788-2   Private Vehicle Shipping Document for        9/1/    No         A&S
           Motorcycle                                   1998
 DD791     DoD In-Flight Issue Log                      12/1/   No         DLA
                                                        2002

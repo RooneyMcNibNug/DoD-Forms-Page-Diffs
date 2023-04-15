@@ -212,9 +212,9 @@ DD2058-1  State Income Tax Exemption Test Certificate  1/1/    No         DFAS
                                                        2018
 DD2058-2  Native American State Income Tax Withholding 1/1/    No         DFAS
           Exemption Certificate                        2018
-DD2060    Foreign Military Sales (FMS) Obligational    3/1/    No         COMP
+DD2060    Foreign Military Sales (FMS) Obligational    3/1/    No         DFAS
           Authority                                    1979
-DD2061    Foreign Military Sales (FMS) Planning        3/1/    No         COMP
+DD2061    Foreign Military Sales (FMS) Planning        3/1/    No         DFAS
           Directive                                    1979
 DD2062    Record of Preparation and Disposition of     4/1/    No         P&R
           Remains (Outside CONUS)                      1984
@@ -291,7 +291,7 @@ DD2165    Conductivity and Ground Monitor Test Record  11/1/   Yes        NAVY
 DD2167    Job Phase Calculation Sheet                  11/1/   Yes        NAVY
                                                        1978
           Application for Discharge of Member or
-DD2168    Survivor of Member of Group Certified to     3/19/   No         P&R
+DD2168    Survivor of Member of Group Certified to     3/1/    No         P&R
           Have Performed Active Duty with the Armed    2021
           Forces of the U.S. 
 DD2201    Dental Procedures and Services Report        10/1/   Yes        DHA
@@ -357,7 +357,7 @@ DD2282    Reinspection Decal Convention for Safe       4/21/
           Department of the Army (SDDC)) 
 DD2285    Invitational Travel Order (ITO) for          7/1/    No         DSCA
           International Military Student (IMS)         1995
-          Request for Appointment or Renewal of        1/11/
+          Request for Appointment or Renewal of        1/1/
 DD2292    Appointment of Expert or Consultant or       2023    No         WHS
           Advisory Board Member
 DD2293    Application for Former Spouse Payments from  4/1/    No         DFAS
@@ -374,7 +374,7 @@ DD2327C   Aircraft Utilization Plan, Unit              2/1/    No         ARMY
           (Continuation)                               1984
 DD2328    Aircraft Utilization Summary                 3/1/    No         ARMY
                                                        1989
-DD2329    Record of Trial by Summary Court-Martial     4/10/   No         ARMY
+DD2329    Record of Trial by Summary Court-Martial     4/1/    No         ARMY
                                                        2020
           Waiver/Withdrawal of Appellate Rights in     1/14/
 DD2330    General and Special Courts-Martial Subject   2019    No         ARMY

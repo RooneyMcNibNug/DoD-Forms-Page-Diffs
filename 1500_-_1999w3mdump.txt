@@ -210,7 +210,7 @@ DD1503      Message Correction Notice                  2/1/    No         ARMY
                                                        1979
 DD1523      Military Family Housing Justification      11/1/   No         A&S
                                                        1990
-DD1532      Pest Management Report                     5/18/   No         A&S
+DD1532      Pest Management Maintenance Record         5/18/   No         A&S
                                                        2022
 DD1544      Cash Meal Payment Book                     5/1/    Yes        ARMY
                                                        1976
@@ -519,7 +519,7 @@ DD1944      Equipment Certification - Type A           8/1/    Yes        AIR
                                                        1975               FORCE
 DD1945      Defective Power Outlet                     6/1/    Yes        AIR
                                                        1974               FORCE
-DD1947-1    Release Authorization for Military         9/1/    Yes        COMP
+DD1947-1    Release Authorization for Military         9/1/    Yes        DFAS
             Earnings Information                       1982
             LSAR Data Selection Sheet (part 1, p.      8/1/
 DD1949-1    1-5), (part 1, p. 6-9), (part 1, p.        1996    No         A&S

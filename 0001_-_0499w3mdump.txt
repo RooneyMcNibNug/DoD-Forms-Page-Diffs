@@ -206,7 +206,7 @@ DD2S      United States Uniformed Services             1/1/    Yes        P&R
 (RESRET)  Identification Card (Reserve Retired) (Red)  1993
 DD2S(RET) United States Uniformed Services             1/1/    Yes        P&R
           Identification Card (Retired) (Blue)         1993
-DD3       Application for Gold Star Lapel Button       8/29/   No         P&R
+DD3       Application for Gold Star Lapel Button       8/01/   No         P&R
                                                        2020
 DD4       Enlistment/Reenlistment Document Armed       5/1/    No         P&R
           Forces of the United States                  2020
@@ -234,8 +234,8 @@ DD137-5   Dependency Statement - Incapacitated Child   3/1/    No         DFAS
           Over Age 21 (Instructions)                   2018
 DD137-6   Dependency Statement - Full Time Student 21  3/1/    No         DFAS
           - 22 Years of Age (Instructions)             2018
-DD137-7   Dependency Statement - Ward of a Court (     3/1/    No         DFAS
-          Instructions)                                2018
+DD137-7   Parent's Dependency Affidavit                3/1/    No         DFAS
+          (English-Spanish)                            2018
 DD139     Pay Adjustment Authorization                 5/1/    Yes        DFAS
                                                        1953
           Application for Correction of Military       1/17/
@@ -276,15 +276,15 @@ DD254     Classification Specification (Instructions)  2018    No         DCSA
           *Administrative edits 1/29/2021
 DD256     Honorable Discharge Certificate              1/1/    Yes        AIR
                                                        1950               FORCE
-DD261     Investigation, Report of - Line of Duty and  3/25/   No         ARMY
-          Misconduct Status                            2021
+DD261     Investigation, Report of Investigation -     3/25/   No         ARMY
+          Line of Duty and Misconduct Status           2021
 DD281     Voucher for Emergency or Extraordinary       1/1/    No         DFAS
           Expense Expenditures                         2000
 DD281A    Voucher for Emergency or Extraordinary       1/1/    No         DFAS
           Expense Expenditures - Memorandum            2000
 DD282     DoD Printing Requisition/Order               4/1/    No         WHS
                                                        1971
-DD285     Appointment of Military Postal Clerk, Unit   8/11/   No         ARMY
+DD285     Appointment of Military Postal Clerk, Unit   8/1/    No         ARMY
           Mail Clerk or Mail Orderly                   2019
 DD293     Application for the Review of Discharge from 2/8/    No         P&R
           the Armed Forces of the United States        2023
