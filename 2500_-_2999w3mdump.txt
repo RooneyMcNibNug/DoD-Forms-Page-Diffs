@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 4/17/2023)
+DD Forms 2500-2999 (updated 4/20/2023)
 
 Form Availability
 
@@ -844,8 +844,8 @@ DD2914    Record of Receipts of Missile Propellants   11/1/   No         DLA
                                                       2006
 DD2915    Propellant Servicing Unit Record            11/1/   No         DLA
                                                       2006
-DD2916    Forecast of Sales Requirements - Missile    11/1/   No         DLA
-          Propellants and Pressurants                 2006
+DD2916    Forecast of Requirements for Aerospace      4/20/   No         DLA
+          Energy Propellants and Pressurants          2023
 DD2917    Physical Inventory (Fuels/Missile           11/1/   No         DLA
           Propellants)                                2006
 DD2918    National Security Personnel System (NSPS)   7/1/    No         P&R

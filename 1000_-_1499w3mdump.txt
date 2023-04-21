@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 4/18/2023)
+DD Forms 1000-1499 (updated 4/20/2023)
 
 Form Availability
 
@@ -342,7 +342,7 @@ DD1304-25B-ETB Armed Services Vocational Aptitude      1/1/    Yes        P&R
 DD1304-26A-ETB Armed Services Vocational Aptitude      1/1/    Yes        P&R
                Battery (ASVAB) Test Booklet, Form 26A  2002
 DD1304-26B-ETB Armed Services Vocational Aptitude      1/1/    Yes        P&R
-               Battery (ASVAB) Test Booklet            2002
+               Battery (ASVAB) Test Booklet, Form 26B  2002
 DD1304-27A-ETB Armed Services Vocational Aptitude      1/1/    Yes        P&R
                Battery (ASVAB) Test Booklet, Form 27A  2002
 DD1304-27B-ETB Armed Services Vocational Aptitude      1/1/    Yes        P&R
