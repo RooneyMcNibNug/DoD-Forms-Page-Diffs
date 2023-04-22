@@ -983,7 +983,7 @@ DD2974    Tactical Kitchen Food Sanitation Inspection 11/1/   No         ARMY
                                                       2013
 DD2975    Temporary Food Event Coordinator's          11/1/   No         ARMY
           Application                                 2013
-DD2976    Servicemembers' Group Life Insurance (SGLI) 6/1/    No         P&R
+DD2976    Servicemembers' Group Life Insurance (SGLI) 6/1/    Yes        P&R
           Online Enrollment System (SOES)             2016
 DD2977    Deliberate Risk Assessment Worksheet        11/1/   No         ARMY
                                                       2020
