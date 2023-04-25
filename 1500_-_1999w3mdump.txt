@@ -46,6 +46,7 @@ Search Executive Services Directorate: [                    ] Search
       □ DOPSR Contact Information
   • FOIA
   • Directives
+      □ SPM_Placeholder
   • Records/Declass
       □ OSD Declassification Programs
       □ OSD Records & Information Management
@@ -178,7 +179,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 4/6/2023)
+DD Forms 1500 - 1999 (updated 4/24/2023)
 
 Form Availability
 
@@ -296,7 +297,7 @@ DD1654      Evaluation of Transportation Cost Factors  4/1/    No         A&S
                                                        1999
 DD1659      Application for U.S. Government Shipping   9/1/    No         A&S
             Documentation/Instructions                 2007
-DD1660      Management Systems Summary List            3/1/    Yes        COMP
+DD1660      Management Systems Summary List            3/1/    Yes        DFAS
                                                        1971
 DD1671      Reweigh of Personal Property               9/1/    No         A&S
                                                        1998

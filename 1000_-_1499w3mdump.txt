@@ -46,6 +46,7 @@ Search Executive Services Directorate: [                    ] Search
       □ DOPSR Contact Information
   • FOIA
   • Directives
+      □ SPM_Placeholder
   • Records/Declass
       □ OSD Declassification Programs
       □ OSD Records & Information Management
@@ -178,7 +179,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 4/20/2023)
+DD Forms 1000-1499 (updated 4/24/2023)
 
 Form Availability
 
@@ -438,13 +439,13 @@ DD1387         Military Shipment Label                 7/1/    No         A&S
                                                        1999
 DD1387-2       Special Handling Data/Certification     11/1/   No         A&S
                                                        2004
-DD1390         FY ____ Military Construction Program   7/1/    No         COMP
+DD1390         FY ____ Military Construction Program   7/1/    No         DFAS
                                                        1999
-DD1390S        FY ____ Guard and Reserve Military      5/1/    No         COMP
+DD1390S        FY ____ Guard and Reserve Military      5/1/    No         DFAS
                Construction                            1978
-DD1391         FY ____ Military Construction Project   7/1/    No         COMP
+DD1391         FY ____ Military Construction Project   7/1/    No         DFAS
                Data                                    1999
-DD1391C        FY ____ Military Construction Project   7/1/    No         COMP
+DD1391C        FY ____ Military Construction Project   7/1/    No         DFAS
                Data (Continuation)                     1999
 DD1392         Data Message Form                       8/1/    No         ARMY
                                                        1962

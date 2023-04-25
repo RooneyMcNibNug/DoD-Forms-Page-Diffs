@@ -46,6 +46,7 @@ Search Executive Services Directorate: [                    ] Search
       □ DOPSR Contact Information
   • FOIA
   • Directives
+      □ SPM_Placeholder
   • Records/Declass
       □ OSD Declassification Programs
       □ OSD Records & Information Management
@@ -178,7 +179,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 4/20/2023)
+DD Forms 2500-2999 (updated 4/24/2023)
 
 Form Availability
 
@@ -564,7 +565,7 @@ DD2772    Contract Discrepancy Report                 9/1/    No         A&S
                                                       1998
 DD2773    Report of Contractor Services               9/1/    No         A&S
                                                       1998
-DD2774    Cold War Certificate of Recognition         7/1/    No         P&R
+DD2774    Cold War Certificate of Recognition         7/1/    Yes        P&R
                                                       2001
 DD2775    Pallet Identifier                           9/1/    No         A&S
                                                       1998
