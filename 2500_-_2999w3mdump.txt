@@ -46,7 +46,6 @@ Search Executive Services Directorate: [                    ] Search
       □ DOPSR Contact Information
   • FOIA
   • Directives
-      □ SPM_Placeholder
   • Records/Declass
       □ OSD Declassification Programs
       □ OSD Records & Information Management
@@ -234,7 +233,7 @@ DD2536    Request for Armed Forces Participation in   1/18/   No         ATSD
           Public Events (Non- Aviation)               2023               (PA)
 DD2537    Visual Information Caption Sheet            2/1/    No         ATSD
                                                       1994               (PA)
-DD2542    Certificate of Appreciation for Service in  5/1/    Yes        P&R
+DD2542    Certificate of Appreciation for Service in  5/1/    Yes        ARMY
           the Armed Forces of the United States       2001
 DD2543    Government Furnished Material (GFM) Status  9/1/    No         A&S
           Report                                      1999
