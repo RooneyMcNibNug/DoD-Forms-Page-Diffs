@@ -178,7 +178,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 4/25/2023)
+DD Forms 2500-2999 (updated 5/2/2023)
 
 Form Availability
 
@@ -233,7 +233,7 @@ DD2536    Request for Armed Forces Participation in   1/18/   No         ATSD
           Public Events (Non- Aviation)               2023               (PA)
 DD2537    Visual Information Caption Sheet            2/1/    No         ATSD
                                                       1994               (PA)
-DD2542    Certificate of Appreciation for Service in  5/1/    Yes        ARMY
+DD2542    Certificate of Appreciation for Service in  5/1/    Yes        P&R
           the Armed Forces of the United States       2001
 DD2543    Government Furnished Material (GFM) Status  9/1/    No         A&S
           Report                                      1999
