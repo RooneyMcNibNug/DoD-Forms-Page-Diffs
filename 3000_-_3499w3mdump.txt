@@ -87,12 +87,8 @@ Toggle navigation    Directives Home
           ☆ Clearing Changes
           ☆  
           ☆ Training
-          ☆ Training Classes
-          ☆ DD 818/818-1 Training Video
-          ☆ New Template Training Video
-          ☆ Plain Language Training Video
-          ☆ Issuance Process Summary Training Video 
-          ☆ ODA&M Processing Training Video
+          ☆ Training Classes Page
+          ☆ Available Training Videos
   • DoD Forms
       □ 
           ☆ Forms Home

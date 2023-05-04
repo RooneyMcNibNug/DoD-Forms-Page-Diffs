@@ -87,12 +87,8 @@ Toggle navigation    Directives Home
           ☆ Clearing Changes
           ☆  
           ☆ Training
-          ☆ Training Classes
-          ☆ DD 818/818-1 Training Video
-          ☆ New Template Training Video
-          ☆ Plain Language Training Video
-          ☆ Issuance Process Summary Training Video 
-          ☆ ODA&M Processing Training Video
+          ☆ Training Classes Page
+          ☆ Available Training Videos
   • DoD Forms
       □ 
           ☆ Forms Home
@@ -178,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 5/2/2023)
+DD Forms 2500-2999 (updated 5/3/2023)
 
 Form Availability
 
@@ -233,7 +229,7 @@ DD2536    Request for Armed Forces Participation in   1/18/   No         ATSD
           Public Events (Non- Aviation)               2023               (PA)
 DD2537    Visual Information Caption Sheet            2/1/    No         ATSD
                                                       1994               (PA)
-DD2542    Certificate of Appreciation for Service in  5/1/    Yes        P&R
+DD2542    Certificate of Appreciation for Service in  5/1/    Yes        ARMY
           the Armed Forces of the United States       2001
 DD2543    Government Furnished Material (GFM) Status  9/1/    No         A&S
           Report                                      1999
@@ -1001,7 +997,7 @@ DD2984    Component Privacy and Civil Liberties       8/9/    No         ODA&M
           DoD Sexual Assault Prevention and Response  2/1/
 DD2985    Office (SAPRO) Request for SAPRO's          2018    No         P&R
           Assistance
-DD2985-1  DoD Sexual Assault Prevention And Response  1/1/    Yes        P&R
+DD2985-1  DoD Sexual Assault Prevention And Response  1/1/    No         P&R
           Office (SAPRO) Military Feedback Form       2018
 DD2985-2  DoD Sexual Assault Prevention And Response  1/1/    No         P&R
           Office (SAPRO) Material Request Form        2018
