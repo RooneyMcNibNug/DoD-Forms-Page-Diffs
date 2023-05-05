@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 4/24/2023)
+DD Forms 1500 - 1999 (updated 5/4/2023)
 
 Form Availability
 
@@ -190,15 +190,15 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil. Download Adobe Reader™
   Number                                               Edition Controlled
  (Download                    Title                     Date     (Y/N)     OPR
    PDF)
-DD1502      Frozen Medical Materiel Shipment           6/21/   Yes        DLA
+DD1502      Frozen Medical Materiel Shipment           6/21/   No         DLA
                                                        2019
 DD1502N     Notice for Frozen Medical Materiel         6/1/    No         DLA
             Shipments                                  2017
-DD1502-1    Chilled Medical Materiel Shipment          6/21/   Yes        DLA
+DD1502-1    Chilled Medical Materiel Shipment          6/21/   No         DLA
                                                        2019
 DD1502-1N   Notice for Chilled Medical Materiel        6/1/    No         DLA
             Shipments                                  2017
-DD1502-2    Limited Unrefrigerated Medical Materiel    6/21/   Yes        DLA
+DD1502-2    Limited Unrefrigerated Medical Materiel    6/21/   No         DLA
             Shipment                                   2019
 DD1502-2N   Notice for Limited Unrefrigerated Medical  6/1/    No         DLA
             Materiel Shipments                         2017
