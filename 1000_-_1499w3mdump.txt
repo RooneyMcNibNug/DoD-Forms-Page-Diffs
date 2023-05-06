@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 5/4/2023)
+DD Forms 1000-1499 (updated 5/5/2023)
 
 Form Availability
 
@@ -378,8 +378,6 @@ DD1341         Report of Commercial Carrier Passenger  2/1/    No         A&S
                Service                                 2010
 DD1342         DoD Property Record                     1/11/   No         A&S
                                                        2021
-DD1343         Notification of Change in               6/1/    Yes        NAVY
-               Servicemember's Official Records        1969
 DD1348         DoD Single Line Item Requisition System 7/1/    No         DLA
                Document (Manual)                       1991
 DD1348-1A      Issue Release/Receipt Document          7/1/    No         DLA

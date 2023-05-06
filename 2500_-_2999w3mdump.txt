@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 5/4/2023)
+DD Forms 2500-2999 (updated 5/5/2023)
 
 Form Availability
 
@@ -1007,6 +1007,10 @@ DD2988    Computer/Electronic Accommodations Program  4/1/    No         P&R
           (CAP) Partnership Representative            2016
 DD2989    Computer/Electronic Accommodations Program  2/1/    No         P&R
           (CAP) Computer Specification Information    2015
+DD2990    Ebola Virus Disease Exposure Risk           2/21/   No         DHA
+          Evaluation (In Theater Use Only)            2019
+DD2991    Ebola Virus Disease Redeployment Risk       2/21/   No         DHA
+          Assessment and Medical Clearance            2019
 DD2992    Medical Recommendation for Flying or        1/1/    No         ARMY
           Special Operational Duty                    2015
 DD2993    Environmental Baseline Survey (EBS)         9/1/    No         ARMY
