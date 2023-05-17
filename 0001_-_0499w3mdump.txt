@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 5/11/2023)
+DD Forms 1-499 (updated 5/16/2023)
 
 Form Availability
 
@@ -335,9 +335,9 @@ DD416     Coal, Coke, or Briquettes, Purchase Request  12/1/   No         DLA
           For                                          2008
 DD428     Communication Service Authorization          5/1/    No         A&S
                                                        1999
-DD441     Department of Defense Security Agreement     3/1/    No         DSS
+DD441     Department of Defense Security Agreement     3/1/    No         DCSA
                                                        2020
-DD441-1   Appendage to Department of Defense Security  3/1/    No         DSS
+DD441-1   Appendix to Department of Defense Security   3/1/    No         DCSA
           Agreement                                    2020
 DD448     Military Interdepartmental Purchase Request  6/1/    No         A&S
                                                        1972
