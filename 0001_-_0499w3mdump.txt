@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 5/16/2023)
+DD Forms 1-499 (updated 5/19/2023)
 
 Form Availability
 
@@ -341,7 +341,7 @@ DD441-1   Appendix to Department of Defense Security   3/1/    No         DCSA
           Agreement                                    2020
 DD448     Military Interdepartmental Purchase Request  6/1/    No         A&S
                                                        1972
-DD448-2   Acceptance of MIPR                           7/1/    Yes        A&S
+DD448-2   Acceptance of MIPR                           7/1/    No         A&S
                                                        1971
 DD453     Subpoena to Testify and/or Produce or Permit 3/14/   No         ARMY
           Inspection of Items in a Court Martial       2019

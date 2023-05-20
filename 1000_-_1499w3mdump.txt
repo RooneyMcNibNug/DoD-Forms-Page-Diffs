@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 5/17/2023)
+DD Forms 1000-1499 (updated 5/19/2023)
 
 Form Availability
 
@@ -424,7 +424,7 @@ DD1384         Transportation Control and Movement     10/1/   No         A&S
                Document                                2000
 DD1384-1       Intransit Data Card                     7/1/    Yes        DLA
                                                        1967
-DD1385         Cargo Manifest                          11/1/   No         A&S
+DD1385         Cargo Manifest                          11/1/   Yes        A&S
                                                        1978
 DD1386         Ocean Cargo Manifest Recapitulation or  4/1/    No         A&S
                Summary                                 2006
