@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 5/12/2023)
+DD Forms 2500-2999 (updated 5/25/2023)
 
 Form Availability
 
@@ -993,7 +993,7 @@ DD2982    Recruiter/Trainer Prohibited Activities     1/1/    No         P&R
 DD2983    Recruit/Trainee Prohibited Activities       1/1/    No         P&R
           Acknowledgment                              2015
 DD2984    Component Privacy and Civil Liberties       8/9/    No         ODA&M
-          Report (42 U.S.C. 2000ee-1)                 2022
+          Report                                      2022
           DoD Sexual Assault Prevention and Response  2/1/
 DD2985    Office (SAPRO) Request for SAPRO's          2018    No         P&R
           Assistance
