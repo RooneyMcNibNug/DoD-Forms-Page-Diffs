@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 5/31/2023)
+DD Forms 2500-2999 (updated 6/1/2023)
 
 Form Availability
 
@@ -263,8 +263,8 @@ DD2558    Authorization to Start, Stop, or Change an  12/1/   No         DFAS
           Allotment                                   2017
 DD2560    Advance Pay Certification/Authorization     3/1/    No         DFAS
                                                       1990
-DD2564    Annual Freedom of Information Act Report    9/14/   No         WHS
-                                                      2018
+DD2564    Annual Freedom of Information Act Report    9/14/   No         ATSD
+                                                      2018               (PCLT)
 DD2566    DoD Assistance Award Action Report          9/1/    No         A&S
                                                       1998
 DD2569    Third Party Collection Program/Medical      11/1/   No         DHA
@@ -992,8 +992,8 @@ DD2982    Recruiter/Trainer Prohibited Activities     1/1/    No         P&R
           Acknowledgment                              2015
 DD2983    Recruit/Trainee Prohibited Activities       1/1/    No         P&R
           Acknowledgment                              2015
-DD2984    Component Privacy and Civil Liberties       8/9/    No         ODA&M
-          Report                                      2022
+DD2984    Component Privacy and Civil Liberties       8/9/    No         ATSD
+          Report                                      2022               (PCLT)
           DoD Sexual Assault Prevention and Response  2/1/
 DD2985    Office (SAPRO) Request for SAPRO's          2018    No         P&R
           Assistance

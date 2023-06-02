@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 5/24/2023)
+DD Forms 3000-3499 (updated 6/1/2023)
 
 Form Availability
 
@@ -307,7 +307,7 @@ DD3058    Conduct Installation Records Check      2019    No         P&R
           (IRC)
 DD3059    Military Working Dog Handler            2/23/   No         P&R
           Certificate of Commendation             2019
-DD3062    Request For Flight Approval             9/21/   No         USD(P)
+DD3062    Request For Flight Approval             9/21/   No         DCMA
                                                   2020
 DD3065    Atomic Veterans Service Certificate     5/1/    Yes        P&R
                                                   2019
