@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 6/7/2023)
+DD Forms 2500-2999 (updated 6/8/2023)
 
 Form Availability
 
@@ -701,8 +701,6 @@ DD2856    DoD Semi-Annual Program Review/Facility     5/1/    No         ARMY
           Inspection Checklist                        2012
 DD2857    Family Supplemental Subsistence Allowance   5/1/    No         P&R
                                                       2009
-DD2858    Visual Information Activity Profile         5/1/    No         ASD
-                                                      2004               (PA)
 DD2860    Claim for Combat-Related Special            7/1/    No         P&R
           Compensation (CRSC)                         2011
 DD2861    Cross-Reference                             6/1/    No         AIR
