@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 5/25/2023)
+DD Forms 2000-2499 (updated 6/13/2023)
 
 Form Availability
 
@@ -296,15 +296,15 @@ DD2208    Rabies Vaccination Certificate               5/1/    No         ARMY
                                                        2008
 DD2209    Veterinary Health Certificate                4/1/    No         ARMY
                                                        2009
-DD2214    Noise Survey                                 1/1/    No         A&S
+DD2214    Noise Survey                                 1/1/    No         P&R
                                                        2000
-DD2214C   Noise Survey Continuation Sheet              1/1/    No         A&S
+DD2214C   Noise Survey Continuation Sheet              1/1/    No         P&R
                                                        2000
-DD2215    Reference Audiogram                          1/1/    No         A&S
+DD2215    Reference Audiogram                          1/1/    No         P&R
                                                        2000
-DD2216    Hearing Conservation Data                    1/1/    No         A&S
+DD2216    Hearing Conservation Data                    1/1/    No         P&R
                                                        2000
-DD2217    Biological Audiometer Calibration Check      1/1/    No         A&S
+DD2217    Biological Audiometer Calibration Check      1/1/    No         P&R
                                                        2000
 DD2220    Department of Defense Registered Vehicle     5/1/    Yes        ARMY
                                                        2004

@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 6/1/2023)
+DD Forms 3000-3499 (updated 6/13/2023)
 
 Form Availability
 
@@ -388,6 +388,8 @@ DD3121-4  Personnel Demonstration Project Federal 2022    No         R&E
           Request for Publication of STRL         1/5/
 DD3121-5  Personnel Demonstration Project Omnibus 2022    No         R&E
           Federal Register
+DD3126    Hearing Protection Fit-Test Record      6/13/   No         P&R
+                                                  2023
 DD3128    Information Collection Request          3/1/    No         WHS
           Coordination Summary Sheet              2021
 DD3134    Limited Access Authorization for Aliens 8/18/   No         DCSA
