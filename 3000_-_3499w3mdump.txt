@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 6/16/2023)
+DD Forms 3000-3499 (updated 6/27/2023)
 
 Form Availability
 
@@ -394,6 +394,16 @@ DD3128    Information Collection Request          3/1/    No         WHS
           Coordination Summary Sheet              2021
 DD3134    Limited Access Authorization for Aliens 8/18/   No         DCSA
           and Foreign Nationals                   2021
+DD3145-1  Retained Grade PPP Self-Certification   6/27/   No         P&R
+          Checklist                               2023
+          Military Reserve and National Guard     6/27/
+DD3145-2  Technician Disability PPP               2023    No         P&R
+          Self-Certification Checklist
+          Military Reserve and National Guard     6/27/
+DD3145-3  Technician PPP Self-Certification       2023    No         P&R
+          Checklist
+DD3145-4  Military Spouse PPP Self-Certification  6/27/   No         P&R
+          Checklist                               2023
 DD3150    Contractor Personnel and Visitor        4/1/    No         P&R
           Certification of Vaccination            2022
 DD3151    Entitlement Extension Request           2/13/   No         USTRANSCOM
