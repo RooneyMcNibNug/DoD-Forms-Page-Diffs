@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 6/30/2023)
+DD Forms 2500-2999 (updated 7/6/2023)
 
 Form Availability
 
@@ -975,8 +975,8 @@ DD2965    Defense Sexual Assault Incident Database    9/2/    No         P&R
           (DSAID) Data                                2020
 DD2966    Shelf Life Expired Material                 1/1/    No         DLA
                                                       2021
-DD2967    Domestic Abuse Victim Reporting Option      4/1/    No         P&R
-          Statement                                   2022
+DD2967    Domestic Abuse Victim Reporting Option      7/6/    No         P&R
+          Statement                                   2023
 DD2970    Application for Temporary Food              2/27/   No         ARMY
           Establishment                               2019
 DD2971    Conditional Employee or Food Employee       11/1/   No         ARMY
