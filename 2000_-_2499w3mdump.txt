@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 6/13/2023)
+DD Forms 2000-2499 (updated 7/7/2023)
 
 Form Availability
 
@@ -455,12 +455,12 @@ DD2464    Report of Foundation and Borrow              12/1/   No         ARMY
           Investigation                                1999
 DD2475    DoD Educational Loan Repayment Program (LRP) 12/1/   No         P&R
           Annual Application                           2017
-DD2477-1  Shelf-Life Extension Notice (11" X 8")       4/1/    No         DLA
-                                                       1999
-DD2477-2  Shelf-Life Extension Notice (5" X 3")        4/1/    No         DLA
-                                                       1999
-DD2477-3  Shelf-Life Extension Notice (3" X 1")        4/1/    No         DLA
-                                                       1999
+DD2477-1  Shelf-Life Extension Notice (11" X 8")       7/7/    No         DLA
+                                                       2023
+DD2477-2  Shelf-Life Extension Notice (5" X 3")        7/7/    No         DLA
+                                                       2023
+DD2477-3  Shelf-Life Extension Notice (3" X 1")        7/7/    No         DLA
+                                                       2023
 DD2479    Barge Ullage                                 9/30/   No         DLA
                                                        2022
 DD2481    Request for Recovery of Debt Due the United  4/1/    No         DFAS
