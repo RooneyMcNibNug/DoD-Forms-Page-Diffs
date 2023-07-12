@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 7/6/2023)
+DD Forms 3000-3499 (updated 7/11/2023)
 
 Form Availability
 
@@ -311,34 +311,24 @@ DD3062    Request For Flight Approval             9/21/   No         DCMA
                                                   2020
 DD3065    Atomic Veterans Service Certificate     5/1/    Yes        P&R
                                                   2019
-DD3067-1  SMART Scholarship Award Length Change   9/1/    No         R&E
-          Approval                                2019
 DD3067-2  SMART Scholarship Educational Work Plan 1/13/   No         R&E
                                                   2023
-DD3067-3  SMART Scholarship Foreign Travel        9/23/   No         R&E
-          Notification                            2019
 DD3067-4  SMART Scholarship Recruitment           1/13/   No         R&E
           Internship Report                       2023
 DD3067-5  SMART Scholarship Media Release         1/13/   No         R&E
                                                   2023
-DD3067-6  SMART Scholarship Participant           9/23/   No         R&E
-          Information Verification                2019
 DD3067-7  SMART Scholarship Phase 1 Annual Report 1/13/   No         R&E
                                                   2023
 DD3067-8  SMART Scholarship Recruitment           1/13/   No         R&E
           Internship Request                      2023
 DD3067-9  SMART Scholarship Recruitment Site      1/13/   No         R&E
           Visit Request                           2023
-DD3067-10 SMART Scholarship Retention Summer      9/23/   No         R&E
-          Schedule                                2019
 DD3067-11 SMART Scholarship Service Agreement     1/13/   No         R&E
           Amendment Request                       2023
 DD3067-12 SMART Scholarship Service Agreement     1/17/   No         R&E
                                                   2023
 DD3067-13 SMART Scholarship Site Visit Report for 1/13/   No         R&E
           Recruitment Awardees                    2023
-DD3067-14 SMART Scholarship Notice of Withdrawal  9/23/   No         R&E
-                                                  2019
 DD3067-15 SMART Scholarship Revised Degree        1/13/   No         R&E
           Completion Plan                         2023
 DD3073    Canine-Tactical Combat Casualty Card    7/1/    Yes        DHA
