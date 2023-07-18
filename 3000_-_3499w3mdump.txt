@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 7/14/2023)
+DD Forms 3000-3499 (updated 7/17/2023)
 
 Form Availability
 
@@ -444,6 +444,14 @@ DD3179    Problematic Sexual Behavior             1/21/   No         P&R
           Non-Clinical Referral Tool              2022
 DD3180    Legion of Merit (LOM) Certificate for   2/9/    Yes        P&R
           Foreign Personnel                       2022
+          Department of Defense Credentialing
+DD3190    Program for Prevention Personnel        7/17/   No         P&R
+          (D‐CPPP) Application Packet for New     2023
+          Applicants
+          Department of Defense Credentialing
+DD3191    Program for Prevention Personnel        7/17/   No         P&R
+          (D‐CPPP) Application Packet for Renewal 2023
+          Applicants
 
 DD Home Issuances Forms Collections  Plain Language Twitter FAQ Contact Us
 Section 508 Privacy
