@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 7/13/2023)
+DD Forms 2500-2999 (updated 7/24/2023)
 
 Form Availability
 
@@ -515,8 +515,8 @@ DD2745    Enemy Prisoner of War (EPW) Capture Tag     5/1/    No         ARMY
                                                       1996
 DD2748    Depot Capacity and/or Utilization Summary   12/1/   No         A&S
           Sheet (Stocked & Issued by OUSD(AT&L))      1996
-DD2749    Technical Assistance for Public             10/1/   No         A&S
-          Participation (TAPP) Application            2003
+DD2749    Technical Assistance for Public             7/24/   No         A&S
+          Participation (TAPP) Application            2023
           National Security Education Program (NSEP)  2/21/
 DD2752    Service Agreement for Scholarship and       2019    No         P&R
           Fellowship Awards 
