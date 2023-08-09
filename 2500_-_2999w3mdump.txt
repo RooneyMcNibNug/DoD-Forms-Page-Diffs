@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 8/3/2023)
+DD Forms 2500-2999 (updated 8/8/2023)
 
 Form Availability
 
@@ -543,8 +543,8 @@ DD2761    Personal Check Cashing Agreement            4/1/    No         DFAS
           United States DoD/Uniformed Services        4/1/
 DD2764S   Civilian Geneva Conventions Identification  1998    Yes        P&R
           Card (TAN) 
-DD2766    Adult Preventive and Chronic Care           3/1/    No         DHA
-          Flowsheet                                   1998
+DD2766    Total Force Health Readiness Flowsheet      8/8/    No         DHA
+                                                      2023
 DD2766C   Adult Preventive and Chronic Care Flowsheet 3/1/    No         DHA
           (Continuation Sheet)                        1998
           Junior Reserve Officer Training Corps       12/1/
@@ -748,8 +748,8 @@ DD2881    NATO Secret (Label)                         5/1/    No         POL
                                                       2004
 DD2883    Government Travel Charge Card Alternate     1/1/    No         P&R
           Credit Worthiness Evaluation                2020
-DD2884    DoD Youth Program Annual Summary of         7/1/    No         P&R
-          Operations                                  2004
+DD2884    DoD Youth Program Annual Summary of         8/8/    No         P&R
+          Operations                                  2023
 DD2885    Personal Commercial Solicitation Evaluation 4/1/    No         P&R
                                                       2006
 DD2888    Critical Acquisition Position Service       7/1/    No         A&S
