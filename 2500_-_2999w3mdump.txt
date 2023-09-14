@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 9/11/2023)
+DD Forms 2500-2999 (updated 9/13/2023)
 
 Form Availability
 
@@ -216,8 +216,8 @@ DD2523    DSSW Self Service Supply Center Admittance  8/1/    Yes        ARMY
           Card                                        1988
 DD2524    DSSW Self Service Supply Center Sign-In     8/1/    No         ARMY
           Log                                         1988
-DD2525    Certification of Hours Worked in Service    9/1/    No         WHS
-          Year for Expert or Consultant               2011
+DD2525    Certification of Hours Worked in Service    9/13/   No         WHS
+          Year for Expert or Consultant               2023
 DD2526    Case Abstract for Malpractice Claims        2/1/    No         DHA
                                                       2000
           Statement of Personal Injury - Possible     3/1/
