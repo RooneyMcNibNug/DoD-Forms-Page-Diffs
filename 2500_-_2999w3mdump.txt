@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 9/20/2023)
+DD Forms 2500-2999 (updated 9/21/2023)
 
 Form Availability
 
@@ -765,8 +765,6 @@ DD2891    Family Protection Plan (RSFPP) and/or       2005    No         DFAS
           Survivor Benefit Plan (SBP) Costs Deduction
 DD2892    Certificate of Eligibility for Retired      3/1/    No         DFAS
           Members                                     2005
-DD2893    Victim Advocate Safety Plan                 3/1/    No         P&R
-                                                      2005
 DD2894    Designation of Beneficiary Information      3/1/    No         DFAS
                                                       2005
 DD2896    TRICARE Reserve Select (TRS) Request Form   7/1/    Yes        DHA
@@ -1029,8 +1027,8 @@ DD2994    Environmental Baseline Survey (EBS) Report  9/1/    No         ARMY
                                                       2022
 DD2995    Environmental Site Closure Survey (ESCS)    4/13/   No         ARMY
                                                       2023
-DD2996    Department of Defense Suicide Event Report  3/1/    No         DHA
-                                                      2015
+DD2996    Department of Defense Suicide Event Report  9/21/   No         DHA
+                                                      2023
 
 DD Home Issuances Forms Collections  Plain Language Twitter FAQ Contact Us
 Section 508 Privacy
