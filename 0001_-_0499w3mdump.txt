@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 10/2/2023)
+DD Forms 1-499 (updated 10/16/2023)
 
 Form Availability
 
@@ -309,16 +309,16 @@ DD362     Statement of Charges/Cash Collection Voucher 7/1/    No         ARMY
                                                        1993
 DD363     Certificate of Retirement                    1/1/    Yes        NAVY
                                                        1999
-DD365     Record of Weight and Balance Personnel       8/1/    No         AIR
-                                                       1996               FORCE
-DD365-1   Weight Checklist Record, Chart A - Basic     8/1/    No         AIR
-                                                       1996               FORCE
-DD365-2   Weighing Record, Form B - Aircraft           8/1/    No         AIR
-                                                       1996               FORCE
-DD365-3   Weight and Balance Record, Chart C - Basic   8/1/    No         AIR
-                                                       1996               FORCE
-DD365-4   Weight and Balance Clearance Form F -        8/1/    No         AIR
-          Transport/Tactical                           1996               FORCE
+DD365     Record of Weight and Balance Personnel       10/16/  No         AIR
+                                                       2023               FORCE
+DD365-1   Chart A - Basic Weight Checklist Record      10/16/  No         AIR
+                                                       2023               FORCE
+DD365-2   Form B - Aircraft Weighing Record            10/16/  No         AIR
+                                                       2023               FORCE
+DD365-3   Chart C - Basic Weight And Balance Record    10/16/  No         AIR
+                                                       2023               FORCE
+DD365-4   Weight And Balance Clearance Form F          10/16/  No         AIR
+                                                       2023               FORCE
 DD368     Request for Conditional Release              8/1/    No         P&R
                                                        2011
 DD369     Police Record Check                          4/1/    No         P&R

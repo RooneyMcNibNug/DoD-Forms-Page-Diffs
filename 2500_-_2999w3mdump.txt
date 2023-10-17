@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 10/4/2023)
+DD Forms 2500-2999 (updated 10/16/2023)
 
 Form Availability
 
@@ -677,8 +677,8 @@ DD2842    Subscriber Certificate Acceptance and       2009    No         DISA
           Acknowledgement of Responsibilities 
 DD2843    Classified Material Destruction Record      10/8/   No         WHS
                                                       2020
-          U.S. Department of Defense (National        10/1/
-DD2845    Capital Region) Mass Transportation Benefit 2022    No         WHS
+          U.S. Department of Defense (National        10/10/
+DD2845    Capital Region) Mass Transportation Benefit 2023    No         WHS
           Program Application 
           Contractor Performance Assessment Report    9/1/               AIR
 DD2846    (CPAR) - Services Information Technology    2002    No         FORCE
@@ -752,10 +752,10 @@ DD2884    DoD Youth Program Annual Summary of         8/8/    No         P&R
           Operations                                  2023
 DD2885    Personal Commercial Solicitation Evaluation 4/1/    No         P&R
                                                       2006
-DD2888    Critical Acquisition Position Service       7/1/    No         A&S
-          Agreement                                   2005
-DD2889    Critical Acquisition Position Service       7/1/    No         A&S
-          Agreement Key Leadership Position (KLP)     2005
+DD2888    Critical Acquisition Position Service       10/16/  No         A&S
+          Agreement                                   2023
+DD2889    Critical Acquisition Position Service       10/16/  No         A&S
+          Agreement Key Leadership Position (KLP)     2023
 DD2890    DoD Multimodal Dangerous Goods Declaration  9/1/    No         A&S
                                                       2015
 DD2890C   DoD Multimodal Dangerous Goods Declaration  10/1/   No         A&S
