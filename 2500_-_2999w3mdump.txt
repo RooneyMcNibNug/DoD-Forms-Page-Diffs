@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 10/19/2023)
+DD Forms 2500-2999 (updated 10/24/2023)
 
 Form Availability
 
@@ -560,8 +560,8 @@ DD2772    Contract Discrepancy Report                 9/1/    No         A&S
                                                       1998
 DD2773    Report of Contractor Services               9/1/    No         A&S
                                                       1998
-DD2774    Cold War Certificate of Recognition         7/1/    Yes        P&R
-                                                      2001
+DD2774    Cold War Certificate of Recognition         7/1/    Yes        AIR
+                                                      2001               FORCE
 DD2775    Pallet Identifier                           9/1/    No         A&S
                                                       1998
 DD2776    Dangerous Cargo Load List                   9/1/    No         A&S
