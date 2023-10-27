@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 10/2/2023)
+DD Forms 1000-1499 (updated 10/26/2023)
 
 Form Availability
 
@@ -235,7 +235,7 @@ DD1155C-1      Order for Supplies or Services          1/1/    No         A&S
 DD1162-1       Schedule of Services and Rates For      9/1/    No         A&S
                Household Goods                         1998
                Basic Ordering Agreement for Storage of 3/1/
-DD1162-3       Household Goods and Related Services -  1979    Yes        ARMY
+DD1162-3       Household Goods and Related Services -  1979    Yes        A&S
                Signature Page
 DD1164         Service Order For Personal Property     9/1/    No         A&S
                                                        1998
