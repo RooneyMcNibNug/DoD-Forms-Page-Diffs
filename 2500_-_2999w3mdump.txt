@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 10/24/2023)
+DD Forms 2500-2999 (updated 10/30/2023)
 
 Form Availability
 
@@ -956,8 +956,8 @@ DD2957    Vietnam War Commemoration After-Action      7/1/    No         ODA&M
           Report                                      2022
 DD2959    Breach of Personally Identifiable           1/1/    No         DPCLTD
           Information (PII) Report                    2019
-DD2960    DoD Plain Writing Act Compliance            4/1/    No         WHS
-                                                      2013
+DD2960    DoD Plain Writing Act Compliance            10/30/  No         WHS
+                                                      2023
 DD2961    DoD Postsecondary Education Complaint       9/1/    No         P&R
           Intake                                      2013
 DD2962v1  Personnel Security System Access Request    02/01/  No         P&R
