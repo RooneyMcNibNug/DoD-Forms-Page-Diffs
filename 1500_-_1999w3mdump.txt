@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 9/22/2023)
+DD Forms 1500 - 1999 (updated 11/6/2023)
 
 Form Availability
 
@@ -505,9 +505,6 @@ DD1929      Film Can Label (Yellow)                    11/1/   Yes        DIA
                                                        1973
 DD1933      Data Collector Identification, DoD         2/1/    Yes        P&R
             (Stocked & Issued by OUSD(P&R))            2000
-            Geneva Conventions Identity Card for       7/1/
-DD1934      Medical and Religious Personnel Who Serve  1974    Yes        P&R
-            in or Accompany the Armed Forces 
             Individual Case Report - Exercise of       4/1/
 DD1936      Criminal Jurisdiction by Foreign Tribunals 1974    No         ARMY
             Over U.S. Personnel 
