@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 11/1/2023)
+DD Forms 2500-2999 (updated 11/7/2023)
 
 Form Availability
 
@@ -449,8 +449,8 @@ DD2704-1  Victim Election of Post-Trial and Appellate 3/27/   No         P&R
           Rights                                      2023
 DD2705    Notification to Victim/Witness of Prisoner  3/2/    No         P&R
           Status                                      2023
-DD2706    Annual Report on Victim and Witness         3/1/    No         P&R
-          Assistance                                  2013
+DD2706    Annual Report on Victim and Witness         11/7/   No         P&R
+          Assistance                                  2023
 DD2707    Confinement Order                           11/1/   No         P&R
                                                       2022
 DD2707-1  Department of Defense Report of Result of   3/1/    No         P&R
