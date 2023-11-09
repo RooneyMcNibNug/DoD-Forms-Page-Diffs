@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 500 - 999 (updated 5/12/2023)
+DD Forms 500 - 999 (updated 11/8/2023)
 
 Form Availability
 
@@ -212,12 +212,6 @@ DD553     Deserter/Absentee Wanted by the Armed Forces 11/22/  No         P&R
                                                        2021
 DD553-1   Parole/Mandatory Supervised Release (MSR)    10/19/  No         P&R
           Violator Wanted By the Armed Forces          2022
-DD562     Request for Information Technology (IT)      2/1/    No         WHS
-          Goods and Services                           2003
-          Office of Secretary of Defense (OSD) and
-DD562-1   Washington Headquarters Service (WHS)        11/1/   No         WHS
-          Request for Information Technology (IT)      2002
-          Services 
 DD565     Statement of Recognition of Deceased         8/1/    No         P&R
                                                        2015
 DD567     Record of Search and Recovery                8/1/    No         P&R
