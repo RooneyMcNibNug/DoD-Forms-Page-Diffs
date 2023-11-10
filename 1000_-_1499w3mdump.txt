@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 10/26/2023)
+DD Forms 1000-1499 (updated 11/9/2023)
 
 Form Availability
 
@@ -485,8 +485,6 @@ DD1450-1       Space Requirements Data, DoD - Part II  4/1/    No         WHS
                - Detailed Space Requirements           1966
 DD1451         Makeup and Ovenman's Sheet              11/1/   No         ARMY
                                                        1963
-DD1466         Building Pass, DoD                      1/1/    Yes        WHS
-                                                       1985
 DD1475         Basic Allowance for Subsistence         12/1/   No         DFAS
                Certification                           2017
 DD1484         Post-Award Conference Record            4/1/    No         A&S
