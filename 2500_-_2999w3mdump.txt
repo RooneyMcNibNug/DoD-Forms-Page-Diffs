@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 11/16/2023)
+DD Forms 2500-2999 (updated 11/17/2023)
 
 Form Availability
 
@@ -787,9 +787,8 @@ DD2903-3  Voluntary Separation Incentive Pay          10/1/   No         P&R
           Agreement 6-Month Installment Payment       2005
 DD2904    Application for Voluntary Separation        10/1/   No         P&R
           Incentive Pay Under VSIP Phase II           2005
-          Acquisition, Technology, and Logistics (AT& 12/1/
-DD2905    L) Workforce Position Requirements or       2005    No         A&S
-          Tenure Waiver
+DD2905    Defense Acquisition Workforce Position      11/17/  No         A&S
+          Requirements or Tenure Waiver               2023
 DD2906    Department of Defense Civilian Performance  3/1/    No         P&R
           Plan, Progress Review and Appraisal         2016
 DD2906D   Defense Civilian Intelligence Personnel     10/1/   No         USD(I&
