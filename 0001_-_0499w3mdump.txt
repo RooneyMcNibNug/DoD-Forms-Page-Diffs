@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 11/15/2023)
+DD Forms 1-499 (updated 11/30/2023)
 
 Form Availability
 
@@ -289,8 +289,6 @@ DD293     Application for the Review of Discharge from 2/8/    No         P&R
 DD294     Rating Awarded Accompanying a Medical        2021    No         P&R
           Separation from the Armed Forces of the
           United States
-DD295     Application for the Evaluation of Learning   4/1/    No         P&R
-          Experiences During Military Service          2000
 DD303*    Certificate in Lieu of Lost or Destroyed     9/1/    Yes        P&R
           Discharge                                    1950
 DD314     Preventive Maintenance Schedule and Record   12/1/   No         ARMY
