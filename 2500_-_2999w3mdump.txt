@@ -174,7 +174,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 11/27/2023)
+DD Forms 2500-2999 (updated 12/1/2023)
 
 Form Availability
 
@@ -253,8 +253,6 @@ DD2554-7  Military Specifications                     12/1/   No         A&S
                                                       1989
 DD2554-8  Program Peculiar Specifications             12/1/   No         A&S
                                                       1989
-DD2555    Blood Bank Operational Report, Armed        4/1/    Yes        DHA
-          Services Blood Program                      1993
 DD2556    Move-In Housing Allowance Claim Form        5/1/    No         P&R
                                                       1999
 DD2557    Plant Replacement Value (PRV) - FY 19__     2/1/    Yes        A&S
@@ -343,8 +341,8 @@ DD2647    Reimbursable Project Worksheet              7/1/    No         WHS
 DD2648    Eform for Service Members Separating,       2019    Yes        P&R
           Retiring, Released from Active Duty
           (REFRAD)
-DD2652    Application for Department of Defense Child 10/13/  No         P&R
-          Care Fees                                   2020
+DD2652    Application for Department of Defense Child 12/1/   No         P&R
+          Care Fees                                   2023
 DD2653    Involuntary Allotment Application           4/25/   No         P&R
                                                       2022
 DD2654    Involuntary Allotment Notice and            12/1/   No         P&R
@@ -719,8 +717,8 @@ DD2868    Request for Withholding State Tax           12/1/   No         DFAS
                                                       2003
 DD2869    Defense Finance and Account Service 1099    12/1/   No         DFAS
           Tax Reporting Program System Access Form    2007
-DD2870    Authorization for Disclosure of Medical or  12/1/   No         DHA
-          Dental Information                          2003
+DD2870    Authorization for Disclosure of Medical or  11/30/  No         DHA
+          Dental Information                          2023
 DD2871    Request to Restrict Medical and Dental      12/1/   No         DHA
           Information                                 2003
 DD2873    Military Protection Order (MPO)             2/1/    No         P&R
