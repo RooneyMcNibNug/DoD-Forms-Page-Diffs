@@ -144,18 +144,16 @@ Toggle navigation    Directives Home
   • Information Collections
       □ 
           ☆ IC Homepage
-          ☆ Overview
           ☆ Surveys
           ☆ Training
           ☆ PRA Resources
       □ 
           ☆ Internal
-          ☆ Internal Overview
           ☆ Approval Process
           ☆ RCS Actions
           ☆ Internal IC Issuances
       □ 
-          ☆ Public
+          ☆ PRA Process
           ☆ Public Collections Overview
           ☆ Elements of a PRA Package
           ☆ Approval Process
@@ -174,7 +172,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 11/17/2023)
+DD Forms 3000-3499 (updated 12/12/2023)
 
 Form Availability
 
@@ -293,8 +291,8 @@ DD3050    Casualties Dying Overseas and Returned       2019    No         P&R
           Through Dover Air Force Base
 DD3051    Limited Remaining Useful Life Component      12/28/  No         ARMY
           Removed Prior to Failure Tag-Materiel        2022
-DD3054    Exceptional Family Member Program (EFMP)     3/18/   No         P&R
-          Family Needs Assessment                      2019
+DD3054    Exceptional Family Member Program (EFMP)     12/12/  No         P&R
+          Family Needs Assessment                      2023
 DD3056    Search and Seizure Warrant Pursuant to 18    1/9/    No         ARMY
           U.S.C. § 2703                                2019
 DD3057    Application for Search and Seizure Warrant   3/14/   No         ARMY 

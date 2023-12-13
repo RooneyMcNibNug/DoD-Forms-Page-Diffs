@@ -144,18 +144,16 @@ Toggle navigation    Directives Home
   • Information Collections
       □ 
           ☆ IC Homepage
-          ☆ Overview
           ☆ Surveys
           ☆ Training
           ☆ PRA Resources
       □ 
           ☆ Internal
-          ☆ Internal Overview
           ☆ Approval Process
           ☆ RCS Actions
           ☆ Internal IC Issuances
       □ 
-          ☆ Public
+          ☆ PRA Process
           ☆ Public Collections Overview
           ☆ Elements of a PRA Package
           ☆ Approval Process
