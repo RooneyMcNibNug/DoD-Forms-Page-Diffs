@@ -148,11 +148,6 @@ Toggle navigation    Directives Home
           ☆ Training
           ☆ PRA Resources
       □ 
-          ☆ Internal
-          ☆ Approval Process
-          ☆ RCS Actions
-          ☆ Internal IC Issuances
-      □ 
           ☆ PRA Process
           ☆ Public Collections Overview
           ☆ Elements of a PRA Package
@@ -172,7 +167,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 12/1/2023)
+DD Forms 2500-2999 (updated 12/13/2023)
 
 Form Availability
 
