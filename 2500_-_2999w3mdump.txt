@@ -167,7 +167,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 12/13/2023)
+DD Forms 2500-2999 (updated 12/14/2023)
 
 Form Availability
 
@@ -582,10 +582,10 @@ DD2793    Activities & Non Appropriated Fund          2018    No         P&R
           Instrumentalities
 DD2794    Cost and Software Data Reporting Plan       11/1/   No         CAPE
                                                       2016
-DD2795    Pre-Deployment Health Assessment            10/1/   No         DHA
-                                                      2015
-DD2796    Post-Deployment Health Assessment (PDHA)    10/1/   No         DHA
-                                                      2015
+DD2795    Pre-Deployment Health Assessment            12/14/  No         DHA
+                                                      2023
+DD2796    Post-Deployment Health Assessment (PDHA)    12/14/  No         DHA
+                                                      2023
 DD2798    Application/Permit for Use of Space on the  12/1/   No         WHS
           Pentagon Reservation                        1999
 DD2799    Employee Performance Plan and Results       12/1/   No         WHS
@@ -766,8 +766,8 @@ DD2898    Department of Defense Senior Professional   8/1/    No         P&R
           Pay and Performance Appraisal               2009
 DD2899    Department of Defense Executive Pay and     8/1/    No         P&R
           Performance Appraisal                       2009
-DD2900    Post Deployment Health Re-assessment        10/1/   No         DHA
-          (PDHRA)                                     2015
+DD2900    Post Deployment Health Re-Assessment        12/14/  No         DHA
+          (PDHRA)                                     2023
 DD2901    Child Abuse or Domestic Violence Related    5/1/    No         P&R
           Fatality Notification                       2012
 DD2903-1  Voluntary Separation Incentive Pay          10/1/   No         P&R
