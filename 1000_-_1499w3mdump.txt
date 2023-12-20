@@ -167,7 +167,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 12/7/2023)
+DD Forms 1000-1499 (updated 12/19/2023)
 
 Form Availability
 
@@ -242,8 +242,8 @@ DD1173S(PRIV)  Identification and Privilege Card       1993    Yes        P&R
                (Dependent) (TAN)
 DD1191         Medical Oxygen Equipment, Warning Tag   10/1/   Yes        DHA
                For Medical Equipment                   1956
-DD1199         Pentagon Reservation Parking Permit     3/1/    Yes        WHS
-               Application                             2019
+DD1199         Pentagon Reservation Parking Permit     12/19/  Yes        WHS
+               Application                             2023
 DD1199-1       Pentagon Reservation Parking Permit     9/29/   Yes        WHS
                Application - Government Vehicle        2023
 DD1200         Pentagon Reservation Parking Permit     3/1/    Yes        WHS
