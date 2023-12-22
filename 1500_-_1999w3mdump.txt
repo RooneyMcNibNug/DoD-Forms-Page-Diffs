@@ -168,7 +168,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 11/30/2023)
+DD Forms 1500 - 1999 (updated 12/21/2023)
 
 Form Availability
 
@@ -255,15 +255,18 @@ DD1613      Pilot's Compass Correction Card            7/1/    Yes        ARMY
             Request/Authorization for DoD Civilian     5/1/
 DD1614      Permanent Duty or Temporary Change of      2003    No         P&R
             Station (TCS) Travel 
-            Department of Defense (DoD) Transportation 11/1/
-DD1616      Agreement Transfer of Professional School  1999    No         P&R
-            Personnel Outside CONUS (OCONUS) 
-            Department of Defense (DoD) Transportation 11/1/
-DD1617      Agreement Transfer of Civilian Employees   1999    No         P&R
-            Outside CONUS (OCONUS) 
-            Department of Defense (DoD) Transportation 11/1/
-DD1618      Agreement Transfer of Civilian Employees   1999    No         P&R
-            to and within Continental United States 
+            Department of Defense (DoD) Transportation
+DD1616      Agreement: Civilian Employees Appointed to 12/21/  No         P&R
+            a Teaching Position Outside the            2023
+            Continental United States
+            Department of Defense (DoD) Transportation
+DD1617      Agreement: Transfer of Civilian Employees  12/21/  No         P&R
+            Outside the Continental United States      2023
+            (OCONUS) 
+            Department of Defense (DoD) Transportation
+DD1618      Agreement: Transfer of Civilian Employees  12/21/  No         P&R
+            to and within Continental United States    2023
+            (CONUS)
 DD1626      Veterinary Necropsy Report                 10/1/   No         ARMY
                                                        2001
 DD1635      Plant Clearance Case Register              1/1/    No         A&S
@@ -329,8 +332,8 @@ DD1696C     Specification Change Notice (SCN),         5/1/    No         NAVY
             Instructions for Preparation of            4/1/
 DD1696-INST Specification Change Notices Utilizing DD  2017    No         NAVY
             Form 1696
-DD1705      Reimbursement for Real Estate Sale and/or  10/1/   No         P&R
-            Purchase Closing Cost Expenses             2002
+DD1705      Reimbursement for Real Estate Sale and/or  12/21/  No         P&R
+            Purchase Closing Cost Expenses             2023
 DD1714      Product Verification Record                6/1/    No         ARMY
                                                        1969
 DD1716      Contract Data Package Recommendation/      12/1/   No         DLA

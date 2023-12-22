@@ -304,10 +304,6 @@ DD2220    Department of Defense Registered Vehicle     5/1/    Yes        ARMY
                                                        2004
 DD2239    Medical Care and Transportation in the       6/1/    Yes        AIR
           Aeromedical Evacuation System, Consent for   1980               FORCE
-DD2247    DoD Armed Forces Pest Management Board       11/1/   Yes        A&S
-          Certificate of Office                        1980
-DD2248    DoD Armed Forces Pest Management Board       11/1/   Yes        A&S
-          Certificate of Appreciation                  1980
 DD2249    Pentagon Facilities Access Enrollment Form   3/14/   Yes        PFPA
                                                        2023
 DD2257    Designation/Termination MPC-FPC-COPE-PFO     5/1/    No         ARMY
