@@ -141,23 +141,20 @@ Toggle navigation    Directives Home
           ☆ Thrift Savings Plan
           ☆ USA.gov Forms
           ☆ Veteran's Affairs (VA)
+  •  
   • Information Collections
-      □ 
-          ☆ IC Homepage
-          ☆ Surveys
-          ☆ Training
-          ☆ PRA Resources
-      □ 
-          ☆ PRA Process                                                       
-                                                                               
-                        Public Collections Overview
+      □  
+      □ IC Homepage
+      □ Surveys
+      □ Training
+      □ PRA Resources
+          ☆  
+          ☆ PRA Process 
+          ☆     Public Collections Overview
           ☆ Elements of a PRA Package
           ☆ Approval Process
-          ☆ Public Collections & Sorns
-          ☆ Public Collections & Rules
-
+          ☆ Public Collections & SornsPublic Collections & Rules
   • Plain Language
-
   • Contact/FAQ
       □ 
           ☆ Contact Us
