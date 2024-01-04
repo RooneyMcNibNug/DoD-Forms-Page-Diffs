@@ -165,7 +165,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 12/21/2023)
+DD Forms 3000-3499 (updated 1/3/2024)
 
 Form Availability
 
@@ -446,6 +446,12 @@ DD3194    Annual Adjustment Report                     8/8/    No         P&R
                                                        2023
 DD3195    Violations Report                            8/8/    No         P&R
                                                        2023
+          Junior Reserve Officers' Training Corps      1/3/
+DD3200    Instructor Prohibited Activities             2024    No         P&R
+          Acknowledgement
+          Junior Reserve Officers' Training Corps      1/3/
+DD3203    Student Code of Conduct and Parent/Guardian  2024    No         P&R
+          Consent Form
 DD3208    Uniformed Services Identification Card       10/2/   No         P&R
           (USID)                                       2023
 
