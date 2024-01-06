@@ -165,7 +165,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 500 - 999 (updated 1/3/2024)
+DD Forms 500 - 999 (updated 1/5/2024)
 
 Form Availability
 
@@ -275,10 +275,6 @@ DD818-1   Consolidated DoD Issuance Comment Matrix     8/1/    No         WHS
                                                        2016
 DD827     Application for Arrears in Pay               3/1/    No         DFAS
                                                        1985
-DD843     Requisition For< Printing and Binding        7/1/    No         WHS
-          Service                                      1955
-DD844     Requisition For< Local Duplicating Service   2/1/    No         WHS
-                                                       1989
 DD862     Daily Inspection Worksheet for Diesel        5/1/    No         ARMY
           Electric Locomotives and Locomotive Cranes   1994
           Request for Fiscal Information Concerning    2/1/
