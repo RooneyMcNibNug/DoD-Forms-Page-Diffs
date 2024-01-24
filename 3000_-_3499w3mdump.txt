@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 1/9/2024)
+DD Forms 3000-3499 (updated 1/23/2024)
 
 Form Availability
 
@@ -245,12 +245,12 @@ DD3035-3  Cold Chain Mgmt Shipping Label for           6/1/    Yes        DLA
           Controlled Rm Temp Items                     2017
 DD3035-4  Cold Chain Management Shipping Label for     6/1/    Yes        DLA
           Freezer Items                                2017
-DD3036    Effective Downwind Message Worksheet         1/1/    No         ARMY
-                                                       2017
-DD3037    Detailed Nuclear Fallout Prediction          1/1/    No         ARMY
-          Worksheet - Surface Burst                    2017
-DD3038    Radiological Data Sheet - Route or Course    1/1/    No         ARMY
-          Leg Technique                                2017
+DD3036    Effective Downwind Message Worksheet         1/23/   No         ARMY
+                                                       2024
+DD3037    Detailed Fallout Prediction Worksheet -      1/23/   No         ARMY
+          Surface Burst                                2024
+DD3038    Nuclear Data Sheet Route or Course Leg       1/23/   No         ARMY
+          Technique                                    2024
 DD3039    Nuclear Data Sheet - Monitoring or Point     1/1/    No         ARMY
           Technique                                    2017
           Accountable Property System of Record (APSR) 3/1/
