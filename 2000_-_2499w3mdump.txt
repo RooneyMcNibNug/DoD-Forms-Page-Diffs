@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 1/16/2024)
+DD Forms 2000-2499 (updated 1/29/2024)
 
 Form Availability
 
@@ -400,8 +400,8 @@ DD2366-1  Montgomery GI Bill Act of 1984 (MGIB),       9/1/    No         P&R
           Increased Benefit Contribution Program       2022
 DD2366-2  Montgomery GI Bill Act of 1984 (MGIB),       6/1/    No         P&R
           Transferability Program                      2002
-DD2367    Overseas Housing Allowance (OHA) Report,     5/1/    No         P&R
-          Individual                                   1999
+DD2367    Individual Overseas Housing Allowance (OHA)  1/29/   No         P&R
+          Report                                       2024
 DD2384-1  Notice of Basic Eligibility (NOBE)           1/1/    Yes        P&R
                                                        2014
 DD2384-2  Montgomery GI Bill - Selected Reserve        1/1/    Yes        P&R

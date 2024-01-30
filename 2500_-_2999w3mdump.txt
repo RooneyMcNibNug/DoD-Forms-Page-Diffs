@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 1/26/2024)
+DD Forms 2500-2999 (updated 1/29/2024)
 
 Form Availability
 
@@ -243,8 +243,9 @@ DD2554-7  Military Specifications                     12/1/   No         A&S
                                                       1989
 DD2554-8  Program Peculiar Specifications             12/1/   No         A&S
                                                       1989
-DD2556    Move-In Housing Allowance Claim Form        5/1/    No         P&R
-                                                      1999
+          Move-In Housing Allowance Claim for         1/29/
+DD2556    Personnel Occupying Privately Leased/Owned  2024    No         P&R
+          Quarters Overseas
 DD2557    Plant Replacement Value (PRV) - FY 19__     2/1/    Yes        A&S
                                                       1990
 DD2558    Authorization to Start, Stop, or Change an  12/1/   No         DFAS
