@@ -148,7 +148,7 @@ Toggle navigation    Directives Home
       □ Training
       □ PRA Resources
           ☆  
-          ☆ PRA Process 
+          ☆  
           ☆     Public Collections Overview
           ☆ Elements of a PRA Package
           ☆ Approval Process

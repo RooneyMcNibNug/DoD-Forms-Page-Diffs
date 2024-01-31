@@ -148,7 +148,7 @@ Toggle navigation    Directives Home
       □ Training
       □ PRA Resources
           ☆  
-          ☆ PRA Process 
+          ☆  
           ☆     Public Collections Overview
           ☆ Elements of a PRA Package
           ☆ Approval Process
@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 1/26/2024)
+DD Forms 3000-3499 (updated 1/30/2024)
 
 Form Availability
 
