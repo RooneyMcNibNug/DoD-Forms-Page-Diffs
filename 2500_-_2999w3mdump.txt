@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 1/31/2024)
+DD Forms 2500-2999 (updated 2/1/2024)
 
 Form Availability
 
@@ -563,8 +563,8 @@ DD2787    Certificate of Warehouseman's Legal         9/1/    No         A&S
           Liability Insurance                         1998
 DD2788    Child Annuitant's School Certification      4/1/    No         DFAS
                                                       2020
-DD2789    Waiver/Remission of Indebtedness            6/21/   No         DFAS
-          Application                                 2019
+DD2789    Waiver/Remission of Indebtedness            2/1/    No         DFAS
+          Application                                 2024
           Custodianship Certificate to Support Claim  3/1/
 DD2790    on Behalf of Minor Children of Deceased     2017    No         DFAS
           Members of the Armed Forces 

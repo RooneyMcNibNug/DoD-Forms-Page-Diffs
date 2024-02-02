@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 1/22/2024)
+DD Forms 1500 - 1999 (updated 2/1/2024)
 
 Form Availability
 
@@ -374,8 +374,8 @@ DD1748-8    Joint Airdrop Inspection Record            3/1/    No         ARMY
             (JPADS-Extracted)                          2019 
 DD1750      Packing List                               9/1/    No         ARMY
                                                        1970
-DD1780      Shipment Evaluation and Inspection Record  9/1/    No         A&S
-                                                       1998
+DD1780      Shipment Evaluation and Inspection Record  2/1/    No         A&S
+                                                       2024
 DD1786      Military Handbook 300                      8/1/    No         NAVY
                                                        1996
 DD1789      Armed Forces Professional Entertainment    2/1/    No         ARMY
