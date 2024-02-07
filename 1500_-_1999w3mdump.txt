@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 2/1/2024)
+DD Forms 1500 - 1999 (updated 2/6/2024)
 
 Form Availability
 
@@ -396,8 +396,8 @@ DD1797      Personal Property Counseling Checklist     3/7/    No         A&S
                                                        2022
 DD1799      Member's Report on Carrier Performance -   9/1/    No         A&S
             Mobile Homes                               1998
-DD1800      Mobile Home Inspection Record              9/1/    No         A&S
-                                                       1998
+DD1800      Mobile Home Inspection Record              2/6/    No         A&S
+                                                       2024
 DD1801      International Flight Plan, DoD             5/1/    No         AIR
                                                        1987               FORCE
 DD1801C     International Flight Plan, DoD             5/21/   No         AIR
