@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 1/22/2024)
+DD Forms 1000-1499 (updated 2/22/2024)
 
 Form Availability
 
@@ -457,12 +457,8 @@ DD1415-3       Reprogramming Action (Internal          7/1/    Yes        DFAS
                Reprogramming Action)                   1979
 DD1416         Report of Programs                      2/1/    Yes        DFAS
                                                        1963
-DD1423         Contract Data Requirements List         8/1/    No         A&S
-                                                       1996
-DD1423-1       Contract Data Requirements List (1 Data 2/1/    No         A&S
-               Item)                                   2001
-DD1423-2       Contract Data Requirements List (2 Data 8/1/    No         A&S
-               Items)                                  1996
+DD1423         Contract Data Requirements List         2/22/   No         A&S
+                                                       2024
                United Kingdom (UK) Customs Declaration
 DD1434         for the Importation of Personal Effects 5/1/    No         A&S
                of U.S. Forces/Civilian Personnel on    2015
