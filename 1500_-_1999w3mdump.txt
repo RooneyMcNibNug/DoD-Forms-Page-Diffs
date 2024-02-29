@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 2/6/2024)
+DD Forms 1500 - 1999 (updated 2/28/2024)
 
 Form Availability
 
@@ -404,8 +404,8 @@ DD1801C     International Flight Plan, DoD             5/21/   No         AIR
             (Continuation)                             2019               FORCE
 DD1811      Pre-Award Survey of Contractor's/Carrier's 6/1/    No         ARMY
             Facilities and Equipment                   1979
-DD1812      Warehouse Inspection Report                9/1/    No         A&S
-                                                       1998
+DD1812      Facility Inspection Report                 2/28/   No         A&S
+                                                       2024
 DD1814      Carrier Notice of Warning/Suspension       9/1/    No         A&S
                                                        1998
 DD1821      Contractor Crewmember Flight Summary       2/3/    No         DCMA
