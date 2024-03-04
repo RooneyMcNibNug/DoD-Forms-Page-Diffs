@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 500 - 999 (updated 2/28/2024)
+DD Forms 500 - 999 (updated 2/20/2024)
 
 Form Availability
 
@@ -297,4 +297,4 @@ DD885     Money Order Control Record                   12/1/   No         ARMY
 
 DD Home Issuances Forms Collections  Plain Language Twitter FAQ Contact Us
 Section 508 Privacy
-Hosted by Defense Media Activity - WEB.mil Veterans Crisis Line
+Hosted by Defense Media Activity - WEB.mil
