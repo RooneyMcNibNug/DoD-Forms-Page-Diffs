@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 3/4/2024)
+DD Forms 3000-3499 (updated 3/8/2024)
 
 Form Availability
 
@@ -212,6 +212,11 @@ DD3019                                                 10/1/   No         DHA
 
 DD3020    Breaching Reconnaissance Record              2/1/    No         ARMY
                                                        2016
+DD3021    Uniformed Services Employment and            3/8/    No         P&R
+          Reemployment Rights Act (USERRA) Inquiry     2024
+          Uniformed Services Employment and            3/8/
+DD3022    Reemployment Rights Act (USERRA) Support     2024    No         P&R
+          Request
 DD3024    Annual Periodic Health Assessment            8/9/    No         DHA
                                                        2021
 DD3026-1  Software Development Report                  10/18/  No         CAPE
