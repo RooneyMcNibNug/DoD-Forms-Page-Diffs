@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 3/13/2024)
+DD Forms 2500-2999 (updated 3/15/2024)
 
 Form Availability
 
@@ -596,11 +596,11 @@ DD2807-2  Accessions Medical History Report           12/7/   No         P&R
                                                       2021
 DD2808    Report of Medical Examination               7/15/   No         P&R
                                                       2019
-DD2810    Personnel Recovery Debriefing Statement     10/1/   No         POL
+DD2810    Personnel Recovery Debriefing Statement     10/1/   No         USD(P)
                                                       2006
-DD2811    Report of Proceedings by Initial/Subsequent 11/1/   No         POL
+DD2811    Report of Proceedings by Initial/Subsequent 11/1/   No         USD(P)
           Board of Inquiry or Further Review Board    1999
-DD2812    Commander's Preliminary Assessment and      11/1/   No         POL
+DD2812    Commander's Preliminary Assessment and      11/1/   No         USD(P)
           Recommendation Regarding Missing Person     1999
 DD2813    Department of Defense Active Duty/Reserve/  11/3/   No         DHA
           Guard/Civilian Forces Dental Examination    2021
@@ -733,7 +733,7 @@ DD2876-3  Primary Care Manager (PCM) Change Form      2023    No         DHA
           (OVERSEAS)
 DD2878    Department of Defense Youth Program         7/1/    No         P&R
           Inspection Checklist                        2004
-DD2881    NATO Secret (Label)                         5/1/    No         POL
+DD2881    NATO Secret (Label)                         5/1/    No         USD(P)
                                                       2004
 DD2883    Government Travel Charge Card Alternate     1/1/    No         P&R
           Credit Worthiness Evaluation                2020
