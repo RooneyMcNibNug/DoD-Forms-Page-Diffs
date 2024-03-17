@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 3/4/2024)
+DD Forms 2000-2499 (updated 3/15/2024)
 
 Form Availability
 
@@ -367,8 +367,8 @@ DD2331    General Courts-Martial Subject to            7/1/    No         ARMY
           Advocate General
 DD2332    Product Quality Deficiency Report Exhibit    1/1/    No         DLA
                                                        1999
-          Explosive Ordinance Disposal Technician      8/1/
-DD2335    Credentials (Stocked & Issued by USNORTHCOM  2011    Yes        POL
+          Explosive Ordinance Disposal Technician      8/1/               USD
+DD2335    Credentials (Stocked & Issued by USNORTHCOM  2011    Yes        (P)
           JEOD VIPPSA) 
 DD2338-1  Inventory Control Effectiveness (Ice) Report 10/1/   No         DLA
           Ammunition                                   2000
