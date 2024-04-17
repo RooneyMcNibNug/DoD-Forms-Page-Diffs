@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 4/15/2024)
+DD Forms 2500-2999 (updated 4/16/2024)
 
 Form Availability
 
@@ -559,8 +559,8 @@ DD2781    Container Packing Certificate or Vehicle    8/1/    No         A&S
           Packing Declaration                         2013
 DD2784    Letter of Intent (LOI) Household Goods or   11/1/   No         A&S
           Unaccompanied Baggage                       2008
-DD2787    Certificate of Warehouseman's Legal         9/1/    No         A&S
-          Liability Insurance                         1998
+DD2787    Certificate of Warehousemen's Legal         4/16/   No         A&S
+          Liability Insurance                         2024
 DD2788    Child Annuitant's School Certification      4/1/    No         DFAS
                                                       2020
 DD2789    Waiver/Remission of Indebtedness            2/1/    No         DFAS
