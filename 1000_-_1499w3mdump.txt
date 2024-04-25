@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 4/15/2024)
+DD Forms 1000-1499 (updated 4/24/2024)
 
 Form Availability
 
@@ -476,7 +476,7 @@ DD1475         Basic Allowance for Subsistence         12/1/   No         DFAS
 DD1484         Post-Award Conference Record            4/1/    No         A&S
                                                        1986
 DD1494         Application for Equipment Frequency     4/1/    No         NAVY
-               Allocation                              2015
+               Allocation                              2024
 DD1498         Technical Effort and Management System  8/1/    No         A&S
                                                        1999
 
