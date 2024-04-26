@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 4/22/2024)
+DD Forms 2500-2999 (updated 4/25/2024)
 
 Form Availability
 
@@ -196,8 +196,8 @@ DD2511    Imagery Research Request, NACF              2/1/    No         DIA
                                                       1988
 DD2512    Bulk Fuel Stock Rotation Plan               3/14/   No         DLA
                                                       2022
-DD2518    Fulfillment of DoD Mandatory Training       9/1/    No         A&S
-          Requirement                                 1988
+DD2518    Fulfillment of DoD Mandatory Training       4/25/   No         A&S
+          Requirement                                 2024
 DD2521    Hazardous Chemical Warning Label (8-1/2 X   10/1/   No         A&S
           11)                                         2000
 DD2522    Hazardous Chemical Warning Label (4 X 6)    10/1/   No         A&S
