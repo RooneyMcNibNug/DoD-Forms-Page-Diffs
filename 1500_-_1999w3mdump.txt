@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 4/29/2024)
+DD Forms 1500 - 1999 (updated 5/2/2024)
 
 Form Availability
 
@@ -440,8 +440,8 @@ DD1848      Sensitive Compartmented Information        1/1/    No         DIA
             Debriefing Memorandum                      1983
 DD1853      Verification of Reserve Status for Travel  10/1/   No         A&S
             Eligibility                                1999
-DD1857      Temporary Commercial Storage At Government 9/1/    No         A&S
-            Expense                                    1998
+DD1857      Storage In-Transit (SIT) At Government     5/2/    No         A&S
+            Expense                                    2024
 DD1861      Contract Facilities Capital Cost of Money  8/1/    No         A&S
                                                        2004
 DD1863      Accessorial Services-Mobile Home           9/1/    No         A&S
