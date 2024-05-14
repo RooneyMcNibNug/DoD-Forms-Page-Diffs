@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 500 - 999 (updated 4/26/2024)
+DD Forms 500 - 999 (updated 5/13/2024)
 
 Form Availability
 
@@ -228,8 +228,8 @@ DD616     Report of Return of Absentee                 11/22/  No         P&R
                                                        2021
 DD619     Statement of Accessorial Services Performed  5/1/    No         A&S
                                                        2019
-DD626     Motor Vehicle Inspection (Transporting       10/1/   No         A&S
-          Hazardous Material)                          2011
+DD626     Motor Vehicle Inspection (Transporting       5/13/   No         A&S
+          Hazardous & Sensitive Materials)             2024
 DD645A    Foreign Military Sales Billing Statement     6/1/    Yes        DSCA
                                                        1978
 DD651     Carrier's Report of Vehicle Damage or        8/1/    No         ARMY
