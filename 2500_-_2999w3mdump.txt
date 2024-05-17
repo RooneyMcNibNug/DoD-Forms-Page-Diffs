@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 4/25/2024)
+DD Forms 2500-2999 (updated 5/16/2024)
 
 Form Availability
 
@@ -578,8 +578,8 @@ DD2792-1  Early Intervention / Special Education      1/1/    No         P&R
           Volunteer Agreement for Appropriated Fund   3/1/
 DD2793    Activities & Non Appropriated Fund          2018    No         P&R
           Instrumentalities
-DD2794    Cost and Software Data Reporting Plan       11/1/   No         CAPE
-                                                      2016
+DD2794    Cost and Software Data Reporting Plan       5/16/   No         CAPE
+                                                      2024
 DD2795    Pre-Deployment Health Assessment            10/1/   No         DHA
                                                       2015
 DD2796    Post-Deployment Health Assessment (PDHA)    10/1/   No         DHA
