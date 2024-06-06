@@ -220,8 +220,8 @@ DD592-2   Payroll for Personal Services (Continuation  10/1/   No         ARMY
           Sheet)                                       1951
 DD600     Patient's Baggage Tag                        7/1/    Yes        DHA
                                                        1973
-DD603-1   War Souvenir Registration/Authorization      5/1/    No         A&S
-                                                       2007
+DD603-1   War Souvenir Registration/Authorization      6/5/    No         A&S
+                                                       2024
 DD610     Government Furnished Equipment Requirement   8/1/    No         AIR
           Schedule                                     1996               FORCE
 DD616     Report of Return of Absentee                 11/22/  No         P&R
