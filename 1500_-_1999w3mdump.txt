@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 6/12/2024)
+DD Forms 1500 - 1999 (updated 6/13/2024)
 
 Form Availability
 
@@ -452,7 +452,7 @@ DD1898      Energy Sale Slip                           7/1/    Yes        DLA
                                                        2008
 DD1898-D    Alternate US DoD or Federal Civil Fuel     6/1/    No         DLA
             Customer Billing Information               2010
-DD1898-E    Energy Sale Slip (Electronic)              1/1/    No         DLA
+DD1898-E    Energy Sales Slip (Electronic)             1/1/    No         DLA
                                                        2015
             Alternate Foreign Government and           6/1/
 DD1898-F    Commercial Fuel Customer Billing           2010    No         DLA
