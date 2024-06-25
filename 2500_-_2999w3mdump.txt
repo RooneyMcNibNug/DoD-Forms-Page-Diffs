@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 6/11/2024)
+DD Forms 2500-2999 (updated 6/24/2024)
 
 Form Availability
 
@@ -764,8 +764,8 @@ DD2898    Department of Defense Senior Professional   8/1/    No         P&R
           Pay and Performance Appraisal               2009
 DD2899    Department of Defense Executive Pay and     8/1/    No         P&R
           Performance Appraisal                       2009
-DD2900    Post-Deployment Health Re-Assessment        6/11/   No         DHA
-          (PDHRA)                                     2024
+DD2900    Post-Deployment Health Re-Assessment        12/14/  No         DHA
+          (PDHRA)                                     2023
 DD2901    Child Abuse or Domestic Violence Related    5/1/    No         P&R
           Fatality Notification                       2012
 DD2903-1  Voluntary Separation Incentive Pay          10/1/   No         P&R
