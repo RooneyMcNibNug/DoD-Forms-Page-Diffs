@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 5/29/2024)
+DD Forms 1000-1499 (updated 7/1/2024)
 
 Form Availability
 
@@ -277,8 +277,8 @@ DD1220         Concrete Mixture Design Data            8/1/    No         ARMY
                                                        1957
 DD1221         Identification Card and Pass Permit     5/1/    Yes        A&S
                                                        1958
-DD1222         Request for and Results of Tests        3/29/   No         A&S
-                                                       2021
+DD1222         Request for and Results of Tests        7/1/    No         A&S
+                                                       2024
 DD1225         Storage Quality Control Report          9/1/    No         DLA
                                                        2001
 DD1237         Shell Egg Inspection                    4/1/    No         DLA
