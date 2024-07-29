@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 7/23/2024)
+DD Forms 1500 - 1999 (updated 7/3/2024)
 
 Form Availability
 
@@ -287,6 +287,8 @@ DD1659      Application for U.S. Government Shipping   9/1/    No         A&S
             Documentation/Instructions                 2007
 DD1660      Management Systems Summary List            3/1/    Yes        DFAS
                                                        1971
+DD1671      Reweigh of Personal Property               9/1/    No         A&S
+                                                       1998
 DD1685      Data Exchange and/or Proposed Revision of  8/1/    No         DLA
             Catalog Data                               1993
 DD1692       Engineering Change Proposal (ECP),        1/1/    No         NAVY
