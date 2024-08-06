@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 500 - 999 (updated 7/8/2024)
+DD Forms 500 - 999 (updated 8/5/2024)
 
 Form Availability
 
@@ -243,8 +243,6 @@ DD689     Individual Sick Slip                         8/1/    No         ARMY
           Department of Defense Application for        5/1/
 DD691     Priority Rating for Production or            2005    No         A&S
           Construction Equipment
-DD714     Meal Card                                    10/1/   Yes        ARMY
-                                                       1981
           Receipt for Unused Transportation Requests   11/1/
 DD730     and/or Tickets, Including Unused Meal        1984    No         ARMY
           Tickets

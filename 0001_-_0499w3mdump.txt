@@ -291,8 +291,6 @@ DD361     Transportation Discrepancy Report (TDR)      6/1/    No         ARMY
                                                        2006
 DD361C    Transportation Discrepancy Report (TDR)      1/1/    No         ARMY
           (Continuation Sheet)                         2007
-DD362     Statement of Charges/Cash Collection Voucher 7/1/    No         AIR
-                                                       1993               FORCE
 DD363     Certificate of Retirement                    1/1/    Yes        NAVY
                                                        1999
 DD365     Record of Weight and Balance Personnel       10/16/  No         AIR
