@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 7/26/2024)
+DD Forms 2000-2499 (updated 8/8/2024)
 
 Form Availability
 
@@ -188,8 +188,8 @@ DD2023    DoD Catalytic Converter Import Control       5/1/    Yes        ARMY
           Label                                        1976
 DD2024    DoD Security Classification Guide Data       11/9/   No         USD(I
           Elements                                     2023               &S)
-DD2026    Oil Analysis Request                         8/1/    No         NAVY
-                                                       2014
+DD2026    Oil Analysis Request                         8/8/    No         NAVY
+                                                       2024
 DD2055    Sanitary Compliance Checklist, Soft Drink    11/1/   Yes        ARMY
           Plant                                        1976
 DD2058    State Of Legal Residence Certificate         1/1/    No         DFAS
