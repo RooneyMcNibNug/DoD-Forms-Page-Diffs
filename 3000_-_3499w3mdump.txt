@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 8/27/2024)
+DD Forms 3000-3499 (updated 8/28/2024)
 
 Form Availability
 
@@ -469,6 +469,8 @@ DD3208    Uniformed Services Identification Card       10/2/   No         P&R
           (USID)                                       2023
 DD3212    U.S. Government UAP Program/Activity Report  4/26/   No         AARO
           Form                                         2024
+DD3216    Military OneSource Individual Freedom of     8/28/   No         P&R
+          Information Act/Privacy Act Request          2024
 DD3217    Military OneSource Third-Party Records       8/27/   No         P&R
           Release Request                              2024
 
