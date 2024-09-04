@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 7/23/2024)
+DD Forms 1500 - 1999 (updated 8/30/2024)
 
 Form Availability
 
@@ -370,6 +370,13 @@ DD1748-7    Joint Airdrop Inspection record (XCDS/     3/1/    No         ARMY
             HSCDS)                                     2019
 DD1748-8    Joint Airdrop Inspection Record            3/1/    No         ARMY
             (JPADS-Extracted)                          2019 
+            Joint Airdrop Inspection Record (.5K & 2K  8/30/
+DD1748-9    High Altitude Aerial Resupply System II    2024    No         ARMY
+            [HAARS II])
+DD1748-2A   Joint Airdrop Malfunction Supplemental     8/27/   No         ARMY
+            Report (Personnel)                         2024
+DD1748-2B   Joint Airdrop Malfunction Supplemental     8/27/   No         ARMY
+            Report (Cargo)                             2024
 DD1750      Packing List                               9/1/    No         ARMY
                                                        1970
 DD1780      Shipment Evaluation and Inspection Record  2/1/    No         A&S
