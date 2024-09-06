@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 8/30/2024)
+DD Forms 1500 - 1999 (updated 9/1/2024)
 
 Form Availability
 
@@ -352,25 +352,25 @@ DD1746      Application for Assignment to Housing      9/1/    No         A&S
                                                        1993
 DD1747      Status of Housing Availability             9/1/    No         A&S
                                                        1993
-DD1748      Joint Airdrop Inspection Record            3/1/    No         ARMY
-            (Platforms)                                2019
-DD1748-1    Joint Airdrop Inspection Record (CDS/CEP/  3/1/    No         ARMY
-            LCLA)                                      2019
-DD1748-2    Airdrop Malfunction Report                 3/1/    No         ARMY
-            (Personnel-Cargo)                          2019
-DD1748-3    Joint Airdrop Summary Report               11/1/   No         ARMY 
-                                                       1997
-DD1748-4    Joint Airdrop Inspection Record (CRRC/     3/1/    No         ARMY
-            MCADS)                                     2019
-DD1748-5    Joint Airdrop Inspection Record (JPADS -   3/1/    No         ARMY
-            Gravity)                                   2019
-DD1748-6    Joint Airdrop Inspection Record (DRAS)     3/1/    No         ARMY
-                                                       2019
-DD1748-7    Joint Airdrop Inspection record (XCDS/     3/1/    No         ARMY
-            HSCDS)                                     2019
-DD1748-8    Joint Airdrop Inspection Record            3/1/    No         ARMY
-            (JPADS-Extracted)                          2019 
-            Joint Airdrop Inspection Record (.5K & 2K  8/30/
+DD1748      Joint Airdrop Inspection Record            8/27/   No         ARMY
+            (Platforms)                                2024
+DD1748-1    Joint Airdrop Inspection Record (CDS/CEP/  8/27/   No         ARMY
+            LCLA)                                      2024
+DD1748-2    Airdrop Malfunction Report                 8/27/   No         ARMY
+            (Personnel-Cargo)                          2024
+DD1748-3    Joint Airdrop Summary Report               8/27/   No         ARMY 
+                                                       2024
+DD1748-4    Joint Airdrop Inspection Record (CRRC/     8/27/   No         ARMY
+            MCADS)                                     2024
+DD1748-5    Joint Airdrop Inspection Record (JPADS -   8/27/   No         ARMY
+            Gravity)                                   2024
+DD1748-6    Joint Airdrop Inspection Record (DRAS)     8/27/   No         ARMY
+                                                       2024
+DD1748-7    Joint Airdrop Inspection record (XCDS/     8/27/   No         ARMY
+            HSCDS)                                     2024
+DD1748-8    Joint Airdrop Inspection Record            8/27/   No         ARMY
+            (JPADS-Extracted)                          2024 
+            Joint Airdrop Inspection Record (.5K & 2K  8/27/
 DD1748-9    High Altitude Aerial Resupply System II    2024    No         ARMY
             [HAARS II])
 DD1748-2A   Joint Airdrop Malfunction Supplemental     8/27/   No         ARMY
