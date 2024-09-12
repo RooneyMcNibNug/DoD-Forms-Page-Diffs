@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 9/10/2024)
+DD Forms 2500-2999 (updated 9/11/2024)
 
 Form Availability
 
@@ -317,8 +317,8 @@ DD2636    Defense Certificate to Operate the (Stocked 2014    No         P&R
           & Issued by OUSD(P&R)) 
 DD2641    Trafficability Test Data                    8/1/    No         ARMY
                                                       1993
-DD2642    TRICARE DoD/CHAMPUS Medical Claim Patient's 11/30/  No         DHA
-          Request for Medical Payment                 2018
+DD2642    TRICARE DoD/CHAMPUS Medical Claim Patient's 9/11/   No         DHA
+          Request for Medical Payment                 2024
 DD2643    High Cost Foreign Lease                     9/1/    No         A&S
                                                       1993
 DD2645    Voter Registration Information              5/1/    No         P&R
