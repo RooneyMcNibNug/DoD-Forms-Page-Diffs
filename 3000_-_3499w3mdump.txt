@@ -158,7 +158,7 @@ Toggle navigation    Directives Home
       □ 
           ☆ Contact Us
           ☆ FAQ
-          ☆ Twitter
+          ☆ X
           ☆ Privacy
           ☆ Section 508
 
@@ -477,6 +477,6 @@ DD3216    Military OneSource Individual Freedom of     8/28/   No         P&R
 DD3217    Military OneSource Third-Party Records       8/27/   No         P&R
           Release Request                              2024
 
-DD Home Issuances Forms Collections  Plain Language Twitter FAQ Contact Us
-Section 508 Privacy
+DD Home Issuances Forms Collections  Plain Language X FAQ Contact Us Section
+508 Privacy
 Hosted by Defense Media Activity - WEB.mil Veterans Crisis Line

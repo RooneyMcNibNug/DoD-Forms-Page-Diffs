@@ -158,7 +158,7 @@ Toggle navigation    Directives Home
       □ 
           ☆ Contact Us
           ☆ FAQ
-          ☆ Twitter
+          ☆ X
           ☆ Privacy
           ☆ Section 508
 
@@ -538,6 +538,6 @@ DD1972      Joint Tactical Air Strike Request          5/20/   No         JOINT
 DD1995      Visual Information (VI) Production Request 4/1/    No         ASD
             and Report                                 1998               (PA)
 
-DD Home Issuances Forms Collections  Plain Language Twitter FAQ Contact Us
-Section 508 Privacy
+DD Home Issuances Forms Collections  Plain Language X FAQ Contact Us Section
+508 Privacy
 Hosted by Defense Media Activity - WEB.mil Veterans Crisis Line

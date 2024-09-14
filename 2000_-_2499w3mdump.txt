@@ -158,7 +158,7 @@ Toggle navigation    Directives Home
       □ 
           ☆ Contact Us
           ☆ FAQ
-          ☆ Twitter
+          ☆ X
           ☆ Privacy
           ☆ Section 508
 
@@ -472,6 +472,6 @@ DD2498    and Dependents of US Citizen Civilian        1999    No         P&R
 DD2499    Health Care Provider Action Report           2/1/    No         DHA
                                                        2000
 
-DD Home Issuances Forms Collections  Plain Language Twitter FAQ Contact Us
-Section 508 Privacy
+DD Home Issuances Forms Collections  Plain Language X FAQ Contact Us Section
+508 Privacy
 Hosted by Defense Media Activity - WEB.mil Veterans Crisis Line
