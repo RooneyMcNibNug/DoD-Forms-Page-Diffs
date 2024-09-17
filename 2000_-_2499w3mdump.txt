@@ -188,7 +188,7 @@ DD2023    DoD Catalytic Converter Import Control       5/1/    Yes        ARMY
           Label                                        1976
 DD2024    DoD Security Classification Guide Data       11/9/   No         USD(I
           Elements                                     2023               &S)
-DD2026    Oil Analysis Request                         8/8/    No         NAVY
+DD2026    Oil Analysis Request (Duplex Print Version)  8/8/    No         NAVY
                                                        2024
 DD2055    Sanitary Compliance Checklist, Soft Drink    11/1/   Yes        ARMY
           Plant                                        1976
