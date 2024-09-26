@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 9/24/2024)
+DD Forms 2500-2999 (updated 9/25/2024)
 
 Form Availability
 
@@ -680,8 +680,8 @@ DD2851    Request to Correct Thrift Savings Plan      12/1/   No         DFAS
           (TSP) Agency Error                          2017
 DD2852    Patient Movement Event/Near Miss Report     2/1/    No         A&S
                                                       2011
-DD2853    TRICARE Plus Enrollment Application         7/20/   No         DHA
-                                                      2018
+DD2853    TRICARE Plus Enrollment Application         9/25/   No         DHA
+                                                      2024
 DD2854    TRICARE Plus Disenrollment Request          7/20/   No         DHA
                                                       2018
 DD2855    U.S. Military Agriculture Inspection Form   9/1/    No         A&S
