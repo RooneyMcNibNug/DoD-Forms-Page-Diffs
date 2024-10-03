@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 9/30/2024)
+DD Forms 2500-2999 (updated 10/2/2024)
 
 Form Availability
 
@@ -446,8 +446,8 @@ DD2707-1  Department of Defense Report of Result of   3/1/    No         P&R
           Trial                                       2013
 DD2708    Receipt for Pretrial/Post-Trial Prisoner or 11/3/   No         P&R
           Detained Person                             2022
-DD2710    Prisoner Background Summary                 11/1/   No         P&R
-                                                      2022
+DD2710    Prisoner Background Summary                 10/2/   No         P&R
+                                                      2024
 DD2710-1  Prisoner Sentence Computation               11/1/   No         P&R
                                                       2022
 DD2711    Initial Custody Classification              11/3/   No         P&R
