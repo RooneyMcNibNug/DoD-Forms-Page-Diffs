@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 500 - 999 (updated 10/2/2024)
+DD Forms 500 - 999 (updated 10/8/2024)
 
 Form Availability
 
@@ -198,8 +198,8 @@ DD518     Accident Identification Card                 10/1/   No         AIR
                                                        1978               FORCE
 DD551     Record of Interment                          8/1/    Yes        ARMY
                                                        1984
-DD553     Deserter/Absentee Wanted by the Armed Forces 11/22/  No         P&R
-                                                       2021
+DD553     Deserter/Absentee Wanted by the Armed Forces 10/8/   No         P&R
+                                                       2024
 DD553-1   Parole/Mandatory Supervised Release (MSR)    10/2/   No         P&R
           Violator Wanted By the Armed Forces          2024
 DD565     Statement of Recognition of Deceased         8/1/    No         P&R
