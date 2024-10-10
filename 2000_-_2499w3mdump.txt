@@ -177,301 +177,467 @@ formats. Here is a list of Forms Management POCs.
 If you have trouble accessing any forms, contact us at:
 whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 
- Number                                                Edition Controlled
-(Download                    Title                      Date     (Y/N)     OPR
-  PDF)
-DD2005    Privacy Act Statement - Health Care Records  6/1/    No         DHA
-                                                       2016
-DD2017    Route Order Amendment                        9/1/    No         A&S
-                                                       2005
-DD2023    DoD Catalytic Converter Import Control       5/1/    Yes        ARMY
-          Label                                        1976
-DD2024    DoD Security Classification Guide Data       11/9/   No         USD(I
-          Elements                                     2023               &S)
-DD2026    Oil Analysis Request (Duplex Print Version)  8/8/    No         NAVY
-                                                       2024
-DD2055    Sanitary Compliance Checklist, Soft Drink    11/1/   Yes        ARMY
-          Plant                                        1976
-DD2058    State Of Legal Residence Certificate         1/1/    No         DFAS
-                                                       2018
-DD2058-1  State Income Tax Exemption Test Certificate  1/1/    No         DFAS
-                                                       2018
-DD2058-2  Native American State Income Tax Withholding 1/1/    No         DFAS
-          Exemption Certificate                        2018
-DD2060    Foreign Military Sales (FMS) Obligational    3/1/    No         DFAS
-          Authority                                    1979
-DD2061    Foreign Military Sales (FMS) Planning        3/1/    No         DFAS
-          Directive                                    1979
-DD2062    Record of Preparation and Disposition of     4/1/    No         P&R
-          Remains (Outside CONUS)                      1984
-DD2063    Record of Preparation and Disposition of     9/1/    No         P&R
-          Remains (Contracted Mortuary Facility)       2017
-DD2064    Certificate of Death Overseas                4/1/    Yes        DHA
-                                                       2019
-DD2065    Disposition of Remains-Reimbursable Basis    11/22/  No         P&R
-                                                       2019
-DD2081    New Drug Request                             7/1/    No         ARMY
-                                                       1977
-DD2086    Freedom of Information (FOI) Processing Cost 8/8/    No         WHS
-                                                       2019
-DD2086-1  Freedom of Information (FOI) Processing Cost 7/1/    No         WHS
-          for Technical Data                           1997
-DD2086-2  Freedom of Information (FOI) Consultation    7/1/    No         WHS
-          and Request Summary                          2008
-DD2088    Statement of Ecclesiastical Endorsement      1/11/   No         P&R
-                                                       2019
-DD2130-1  C5 Load Plan                                 9/1/    No         A&S
-                                                       1998
-DD2130-2  C-130 E/H/J Load Plan                        6/1/    No         A&S
-                                                       2016
-DD2130-4  C-160 Load Plan                              9/1/    No         A&S
-                                                       1998
-DD2130-5  DC 10-10/30CF Load Plan                      9/1/    No         A&S
-                                                       1998
-DD2130-6  KC-10A Load Plan (17 PALLETS Configuration)  9/1/    No         A&S
-                                                       1998
-DD2130-7  KC-10A Load Plan (23 PALLETS Configuration)  9/1/    No         A&S
-                                                       1998
-DD2130-8  DC 8-50 Series F/CF Load Plan                9/1/    No         A&S
-                                                       1998
-DD2130-9  DC 8-61/71-63/73F/CF Load Plan               9/1/    No         A&S
-                                                       1998
-DD2130-10 DC 8-62CF Load Plan                          9/1/    No         A&S
-                                                       1998
-DD2130-11 B707-300C Load Plan                          9/1/    No         A&S
-                                                       1998
-DD2130-12 B747-100F/200C/200F Cargo Manifest           9/1/    No         A&S
-                                                       1998
-DD2130-13 C-17 Load Plan                               9/1/    No         A&S
-                                                       1998
-DD2130-14 KC-135 Load Plan                             9/1/    No         A&S
-                                                       1998
-DD2130-15 C-130J-30 Load Plan                          6/1/    No         A&S
-                                                       2016
-DD2130C   Aircraft Load Plan Continuation              9/1/    No         A&S
-                                                       1998
-DD2131    Passenger Manifest                           8/19/   No         A&S
-                                                       2019
-DD2133    Joint Airlift Inspection Record/Checklist    6/1/    No         A&S
-                                                       2013
-DD2138    Request for Transfer of Outpatient Records   1/1/    No         AIR
-                                                       1978               FORCE
-DD2139    Report of Contract Performance Outside the   11/1/   No         A&S
-          United States                                2015
-DD2155    Resident Foreign Language Training,          5/1/    Yes        ARMY
-          Requirements for                             1978
-DD2155C   Resident Foreign Language Training,          5/1/    Yes        ARMY
-          Requirements for (Continued)                 1978
-DD2156    Nonresident Foreign Language Program         5/1/     Yes       ARMY
-          Training Report                              1978
-DD2156-1  Nonresident English Language Training (ELT)  5/1/     Yes       ARMY
-          Report                                       1978
-DD2157    Resident Foreign Language Training,          5/1/     Yes       ARMY
-          Confirmational of Student Input to           1978
-DD2163    Medical Equipment Verification/              3/1/    Yes        ARMY
-          Certification                                2013
-DD2164    X-Ray Verification/Certification Worksheet   11/1/   No         AIR
-                                                       1978               FORCE
-DD2165    Conductivity and Ground Monitor Test Record  11/1/   Yes        NAVY
-                                                       1978
-DD2167    Job Phase Calculation Sheet                  11/1/   Yes        NAVY
-                                                       1978
-          Application for Discharge of Member or
-DD2168    Survivor of Member of Group Certified to     3/1/    No         P&R
-          Have Performed Active Duty with the Armed    2021
-          Forces of the U.S. 
-DD2201    Dental Procedures and Services Report        10/1/   Yes        DHA
-                                                       1979
-DD2208    Rabies Vaccination Certificate               5/1/    No         ARMY
-                                                       2008
-DD2209    Veterinary Health Certificate                4/1/    No         ARMY
-                                                       2009
-DD2214    Noise Survey                                 1/1/    No         P&R
-                                                       2000
-DD2214C   Noise Survey Continuation Sheet              1/1/    No         P&R
-                                                       2000
-DD2215    Reference Audiogram                          1/1/    No         P&R
-                                                       2000
-DD2216    Hearing Conservation Data                    1/1/    No         P&R
-                                                       2000
-DD2217    Biological Audiometer Calibration Check      1/1/    No         P&R
-                                                       2000
-DD2220    Department of Defense Registered Vehicle     5/1/    Yes        ARMY
-                                                       2004
-DD2239    Medical Care and Transportation in the       6/1/    Yes        AIR
-          Aeromedical Evacuation System, Consent for   1980               FORCE
-DD2249    Pentagon Facilities Access Enrollment Form   3/14/   Yes        PFPA
-                                                       2023
-DD2257    Designation/Termination MPC-FPC-COPE-PFO     5/1/    No         ARMY
-                                                       2000
-DD2258    Temporary Mail Disposition Instructions      1/1/    No         ARMY
-                                                       1982
-DD2259    Report of Audit of Postal Accounts           1/1/    No         ARMY
-                                                       1982
-DD2260    Unit Mail-Clerk/Orderly Designation Log      5/1/    No         ARMY
-                                                       2000
-DD2261    Registered Mail - Balance and Inventory      5/1/    No         ARMY
-                                                       2000
-DD2262    Receptacle Record                            6/1/    No         ARMY
-                                                       2000
-DD2263    Mailing Address/Combination Notice           1/1/    No         ARMY
-                                                       1982
-DD2266    Hometown News Release Information            6/1/    No         AIR
-                                                       1995               FORCE
-DD2267    Aeromedical Evacuation - Medical Record      11/1/   Yes        AIR
-                                                       1981               FORCE
-DD2268    Defense Enrollment Eligibility Reporting     6/1/    No         DHA
-          System (DEERS) Batch Transmittal             1987
-DD2271    Decontamination Tag                          11/1/   Yes        ARMY
-                                                       1982
-DD2273    Irregularities in Makeup and Dispatch of     5/1/    No         ARMY
-          Mail                                         2000
-DD2275-1  National Security Council Information/Top    3/1/    Yes        USD(I
-          Secret Cover                                 1982               &S)
-DD2275-2  National Security Council Information/Secret 3/1/    Yes        USD(I
-          Cover                                        1982               &S)
-DD2275-3  National Security Council Information/       3/1/    Yes        USD(I
-          Confidential Cover                           1982               &S)
-DD2278    Application for Personally Procured Move     8/19/   No         A&S
-          (PPM) and Counseling Checklist               2024
-DD2282    Reinspection Decal Convention for Safe       4/21/
-(Yellow)  Containers (2024) (Stocked & Issued by       2021    Yes        ARMY
-          Department of the Army (SDDC)) 
-DD2285    Invitational Travel Order (ITO) for          7/1/    No         DSCA
-          International Military Student (IMS)         1995
-          Request for Appointment or Renewal of        1/1/
-DD2292    Appointment of Expert or Consultant or       2023    No         WHS
-          Advisory Board Member
-DD2293    Application for Former Spouse Payments from  4/1/    No         DFAS
-          Retired Pay                                  2018
-DD2322    Dental Laboratory Work Authorization         4/1/    No         NAVY
-                                                       2009
-DD2325    Radiological Response Capability Report      10/1/   No         DTRA
-                                                       2002
-DD2326    Preservation and Packing Data                9/1/    No         NAVY
-                                                       1997
-DD2327    Aircraft Utilization Plan, Unit              2/1/    No         ARMY
-           Front (Adobe PDF) Back (Adobe PDF)          1984
-DD2327C   Aircraft Utilization Plan, Unit              2/1/    No         ARMY
-          (Continuation)                               1984
-DD2328    Aircraft Utilization Summary                 3/1/    No         ARMY
-                                                       1989
-DD2329    Record of Trial by Summary Court-Martial     4/1/    No         ARMY
-                                                       2020
-          Waiver/Withdrawal of Appellate Rights in     1/14/
-DD2330    General and Special Courts-Martial Subject   2019    No         ARMY
-          to Review by a Court of Military Review
-          Waiver/Withdrawal of Appellate Rights in
-DD2331    General Courts-Martial Subject to            7/1/    No         ARMY
-          Examination in the Office of the Judge       2016
-          Advocate General
-DD2332    Product Quality Deficiency Report Exhibit    1/1/    No         DLA
-                                                       1999
-          Explosive Ordinance Disposal Technician      8/1/               USD
-DD2335    Credentials (Stocked & Issued by USNORTHCOM  2011    Yes        (P)
-          JEOD VIPPSA) 
-DD2338-1  Inventory Control Effectiveness (Ice) Report 10/1/   No         DLA
-          Ammunition                                   2000
-DD2338-2  Inventory Control Effectiveness (Ice) Report 10/1/   No         DLA
-          General Supplies                             2000
-DD2341    Report of Animal Bite - Potential Rabies     6/1/    No         DHA
-          Exposure                                     2015
-DD2342    Animal Facility Sanitation Checklist         8/1/    No         ARMY
-                                                       2013
-DD2343    Veterinary Health Record                     8/1/    No         ARMY
-                                                       2013
-DD2344    Veterinary Treatment Record                  11/1/   No         ARMY
-                                                       1984
-DD2345    Militarily Critical Technical Data Agreement 10/1/   No         DLA
-                                                       2022
-DD2349    NOTAM Control Log                            8/1/    No         AIR
-                                                       1990               FORCE
-DD2357    Hazardous Component Safety Data Statement    4/1/    No         A&S
-          (HCSDS)                                      1999
-          DoD Expeditionary Civilian Agreement:        8/1/
-DD2365    Emergency-Essential Positions and Non-Combat 2017    No         P&R
-          Essential Positions 
-DD2365-1  DoD Expeditionary Civilian Agreement:        8/1/    No         P&R
-          Capability-Based Volunteer                   2017
-          Montgomery GI Bill Act of 1984 (MGIB)        9/1/
-DD2366    (Chapter 30, Title 38 U.S. Code) Basic       2022    No         P&R
-          Enrollment
-DD2366-1  Montgomery GI Bill Act of 1984 (MGIB),       9/1/    No         P&R
-          Increased Benefit Contribution Program       2022
-DD2366-2  Montgomery GI Bill Act of 1984 (MGIB),       6/1/    No         P&R
-          Transferability Program                      2002
-DD2367    Individual Overseas Housing Allowance (OHA)  1/29/   No         P&R
-          Report                                       2024
-DD2384-1  Notice of Basic Eligibility (NOBE)           1/1/    Yes        P&R
-                                                       2014
-DD2384-2  Montgomery GI Bill - Selected Reserve        1/1/    Yes        P&R
-          (MGIB-SR) Kicker Obligation Agreement        2014
-DD2385    Microbiological Quality History Record       2/1/    No         ARMY
-                                                       1995
-DD2388    DoD Mail Bag Label                           6/1/    Yes        A&S
-                                                       1985
-DD2393    Destination Verification Inspection of       12/1/   No         DLA
-          Standard/Variable Net Weight Items           1988
-DD2400    Civil Aircraft Certificate of Insurance      5/21/   No         AIR
-                                                       2021               FORCE
-DD2401    Civil Aircraft Landing Permit                5/21/   No         AIR
-                                                       2021               FORCE
-DD2402    Civil Aircraft Hold Harmless Agreement       5/21/   No         AIR
-                                                       2021               FORCE
-DD2406    Miscellaneous Obligation Document            10/1/   No         ARMY
-                                                       1985
-DD2408    Defense Distinguished Service Medal          3/1/    Yes        P&R
-          Certificate                                  2018
-DD2409    Defense Medal Citation                       1/5/    Yes        P&R
-                                                       2022
-DD2410    Defense Superior Service Medal Certificate   3/1/    Yes        P&R
-                                                       2018
-DD2412    Defense Meritorious Service Medal            3/1/    Yes        P&R
-          Certificate                                  2018
-DD2413    Joint Service Commendation Medal             3/1/    Yes        P&R
-          Certificate                                  2018
-DD2414    Joint Service Achievement Medal Certificate  3/1/    Yes        P&R
-                                                       2018
-          Authorization for Emergency Evacuation       3/1/
-DD2461    Advance and Allotment Payments for DoD       2000    No         P&R
-          Civilian Employees 
-DD2463    California Bearing Ratio (CBR) Analysis      12/1/   No         ARMY
-                                                       1999
-DD2464    Report of Foundation and Borrow              12/1/   No         ARMY
-          Investigation                                1999
-DD2475    DoD Educational Loan Repayment Program (LRP) 12/1/   No         P&R
-          Annual Application                           2017
-DD2477-1  Shelf-Life Extension Notice (11" X 8")       7/7/    No         DLA
-                                                       2023
-DD2477-2  Shelf-Life Extension Notice (5" X 3")        7/7/    No         DLA
-                                                       2023
-DD2477-3  Shelf-Life Extension Notice (3" X 1")        7/7/    No         DLA
-                                                       2023
-DD2479    Barge Ullage                                 9/30/   No         DLA
-                                                       2022
-DD2481    Request for Recovery of Debt Due the United  4/1/    No         DFAS
-          States by Salary Offset                      2006
-DD2482    Venom Extract Prescription                   3/1/    Yes        ARMY
-                                                       1986
-          Department of Defense Armed Forces Pest      11/1/
-DD2491    Management Board Accreditation of            2002    No         A&S
-          Competency 
-DD2493-1  Asbestos Exposure Part I - Initial Medical   1/1/    No         A&S
-          Questionnaire                                2000
-DD2493-2  Asbestos Exposure Part II - Periodic Medical 1/1/    No         A&S
-          Questionnaire                                2000
-DD2495    Official Mail Manager's Inspection Checklist 7/1/    No         A&S
-                                                       2006
-DD2496    International Student Academic Report        2/1/    No         AIR
-                                                       1996               FORCE
-DD2497    Carrier Evaluation Worksheet/Report          9/1/    No         A&S
-                                                       1998
-          Dependents of Active Duty Military Personnel 9/1/
-DD2498    and Dependents of US Citizen Civilian        1999    No         P&R
-          Employees, Report of 
-DD2499    Health Care Provider Action Report           2/1/    No         DHA
-                                                       2000
-
+┌───────────┬──────────────────────────────────┬─────────┬────────────┬───────┐
+│  Number   │                                  │ Edition │ Controlled │       │
+│ (Download │              Title               │  Date   │   (Y/N)    │  OPR  │
+│   PDF)    │                                  │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2005    │ Privacy Act Statement - Health   │ 6/1/    │ No         │ DHA   │
+│           │ Care Records                     │ 2016    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2017    │ Route Order Amendment            │ 9/1/    │ No         │ A&S   │
+│           │                                  │ 2005    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2023    │ DoD Catalytic Converter Import   │ 5/1/    │ Yes        │ ARMY  │
+│           │ Control Label                    │ 1976    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2024    │ DoD Security Classification      │ 11/9/   │ No         │ USD(I │
+│           │ Guide Data Elements              │ 2023    │            │ &S)   │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2026    │ Oil Analysis Request (Duplex     │ 8/8/    │ No         │ NAVY  │
+│           │ Print Version)                   │ 2024    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2055    │ Sanitary Compliance Checklist,   │ 11/1/   │ Yes        │ ARMY  │
+│           │ Soft Drink Plant                 │ 1976    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2058    │ State Of Legal Residence         │ 1/1/    │ No         │ DFAS  │
+│           │ Certificate                      │ 2018    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2058-1  │ State Income Tax Exemption Test  │ 1/1/    │ No         │ DFAS  │
+│           │ Certificate                      │ 2018    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Native American State Income Tax │ 1/1/    │            │       │
+│ DD2058-2  │ Withholding Exemption            │ 2018    │ No         │ DFAS  │
+│           │ Certificate                      │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2060    │ Foreign Military Sales (FMS)     │ 3/1/    │ No         │ DFAS  │
+│           │ Obligational Authority           │ 1979    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2061    │ Foreign Military Sales (FMS)     │ 3/1/    │ No         │ DFAS  │
+│           │ Planning Directive               │ 1979    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Record of Preparation and        │ 4/1/    │            │       │
+│ DD2062    │ Disposition of Remains (Outside  │ 1984    │ No         │ P&R   │
+│           │ CONUS)                           │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Record of Preparation and        │ 9/1/    │            │       │
+│ DD2063    │ Disposition of Remains           │ 2017    │ No         │ P&R   │
+│           │ (Contracted Mortuary Facility)   │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Certificate of Death Overseas    │ 4/1/    │            │       │
+│ DD2064    │ (This form is controlled.        │ 2019    │ Yes        │ DHA   │
+│           │ Contract DHA to obtain a copy)   │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2065    │ Disposition of                   │ 11/22/  │ No         │ P&R   │
+│           │ Remains-Reimbursable Basis       │ 2019    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2081    │ New Drug Request                 │ 7/1/    │ No         │ ARMY  │
+│           │                                  │ 1977    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2086    │ Freedom of Information (FOI)     │ 8/8/    │ No         │ WHS   │
+│           │ Processing Cost                  │ 2019    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Freedom of Information (FOI)     │ 7/1/    │            │       │
+│ DD2086-1  │ Processing Cost for Technical    │ 1997    │ No         │ WHS   │
+│           │ Data                             │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2086-2  │ Freedom of Information (FOI)     │ 7/1/    │ No         │ WHS   │
+│           │ Consultation and Request Summary │ 2008    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2088    │ Statement of Ecclesiastical      │ 1/11/   │ No         │ P&R   │
+│           │ Endorsement                      │ 2019    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2130-1  │ C5 Load Plan                     │ 9/1/    │ No         │ A&S   │
+│           │                                  │ 1998    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2130-2  │ C-130 E/H/J Load Plan            │ 6/1/    │ No         │ A&S   │
+│           │                                  │ 2016    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2130-4  │ C-160 Load Plan                  │ 9/1/    │ No         │ A&S   │
+│           │                                  │ 1998    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2130-5  │ DC 10-10/30CF Load Plan          │ 9/1/    │ No         │ A&S   │
+│           │                                  │ 1998    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2130-6  │ KC-10A Load Plan (17 PALLETS     │ 9/1/    │ No         │ A&S   │
+│           │ Configuration)                   │ 1998    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2130-7  │ KC-10A Load Plan (23 PALLETS     │ 9/1/    │ No         │ A&S   │
+│           │ Configuration)                   │ 1998    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2130-8  │ DC 8-50 Series F/CF Load Plan    │ 9/1/    │ No         │ A&S   │
+│           │                                  │ 1998    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2130-9  │ DC 8-61/71-63/73F/CF Load Plan   │ 9/1/    │ No         │ A&S   │
+│           │                                  │ 1998    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2130-10 │ DC 8-62CF Load Plan              │ 9/1/    │ No         │ A&S   │
+│           │                                  │ 1998    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2130-11 │ B707-300C Load Plan              │ 9/1/    │ No         │ A&S   │
+│           │                                  │ 1998    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2130-12 │ B747-100F/200C/200F Cargo        │ 9/1/    │ No         │ A&S   │
+│           │ Manifest                         │ 1998    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2130-13 │ C-17 Load Plan                   │ 9/1/    │ No         │ A&S   │
+│           │                                  │ 1998    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2130-14 │ KC-135 Load Plan                 │ 9/1/    │ No         │ A&S   │
+│           │                                  │ 1998    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2130-15 │ C-130J-30 Load Plan              │ 6/1/    │ No         │ A&S   │
+│           │                                  │ 2016    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2130C   │ Aircraft Load Plan Continuation  │ 9/1/    │ No         │ A&S   │
+│           │                                  │ 1998    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2131    │ Passenger Manifest               │ 8/19/   │ No         │ A&S   │
+│           │                                  │ 2019    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2133    │ Joint Airlift Inspection Record/ │ 6/1/    │ No         │ A&S   │
+│           │ Checklist                        │ 2013    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2138    │ Request for Transfer of          │ 1/1/    │ No         │ AIR   │
+│           │ Outpatient Records               │ 1978    │            │ FORCE │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2139    │ Report of Contract Performance   │ 11/1/   │ No         │ A&S   │
+│           │ Outside the United States        │ 2015    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2155    │ Resident Foreign Language        │ 5/1/    │ Yes        │ ARMY  │
+│           │ Training, Requirements for       │ 1978    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Resident Foreign Language        │ 5/1/    │            │       │
+│ DD2155C   │ Training, Requirements for       │ 1978    │ Yes        │ ARMY  │
+│           │ (Continued)                      │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2156    │ Nonresident Foreign Language     │ 5/1/    │  Yes       │ ARMY  │
+│           │ Program Training Report          │ 1978    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2156-1  │ Nonresident English Language     │ 5/1/    │  Yes       │ ARMY  │
+│           │ Training (ELT) Report            │ 1978    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Resident Foreign Language        │ 5/1/    │            │       │
+│ DD2157    │ Training, Confirmational of      │ 1978    │  Yes       │ ARMY  │
+│           │ Student Input to                 │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2163    │ Medical Equipment Verification/  │ 3/1/    │ Yes        │ ARMY  │
+│           │ Certification                    │ 2013    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2164    │ X-Ray Verification/Certification │ 11/1/   │ No         │ AIR   │
+│           │ Worksheet                        │ 1978    │            │ FORCE │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2165    │ Conductivity and Ground Monitor  │ 11/1/   │ Yes        │ NAVY  │
+│           │ Test Record                      │ 1978    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2167    │ Job Phase Calculation Sheet      │ 11/1/   │ Yes        │ NAVY  │
+│           │                                  │ 1978    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Application for Discharge of     │         │            │       │
+│           │ Member or Survivor of Member of  │ 3/1/    │            │       │
+│ DD2168    │ Group Certified to Have          │ 2021    │ No         │ P&R   │
+│           │ Performed Active Duty with the   │         │            │       │
+│           │ Armed Forces of the U.S.         │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2201    │ Dental Procedures and Services   │ 10/1/   │ Yes        │ DHA   │
+│           │ Report                           │ 1979    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2208    │ Rabies Vaccination Certificate   │ 5/1/    │ No         │ ARMY  │
+│           │                                  │ 2008    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2209    │ Veterinary Health Certificate    │ 4/1/    │ No         │ ARMY  │
+│           │                                  │ 2009    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2214    │ Noise Survey                     │ 1/1/    │ No         │ P&R   │
+│           │                                  │ 2000    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2214C   │ Noise Survey Continuation Sheet  │ 1/1/    │ No         │ P&R   │
+│           │                                  │ 2000    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2215    │ Reference Audiogram              │ 1/1/    │ No         │ P&R   │
+│           │                                  │ 2000    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2216    │ Hearing Conservation Data        │ 1/1/    │ No         │ P&R   │
+│           │                                  │ 2000    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2217    │ Biological Audiometer            │ 1/1/    │ No         │ P&R   │
+│           │ Calibration Check                │ 2000    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2220    │ Department of Defense Registered │ 5/1/    │ Yes        │ ARMY  │
+│           │ Vehicle                          │ 2004    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Medical Care and Transportation  │ 6/1/    │            │ AIR   │
+│ DD2239    │ in the Aeromedical Evacuation    │ 1980    │ Yes        │ FORCE │
+│           │ System, Consent for              │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2249    │ Pentagon Facilities Access       │ 3/14/   │ Yes        │ PFPA  │
+│           │ Enrollment Form                  │ 2023    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2257    │ Designation/Termination          │ 5/1/    │ No         │ ARMY  │
+│           │ MPC-FPC-COPE-PFO                 │ 2000    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2258    │ Temporary Mail Disposition       │ 1/1/    │ No         │ ARMY  │
+│           │ Instructions                     │ 1982    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2259    │ Report of Audit of Postal        │ 1/1/    │ No         │ ARMY  │
+│           │ Accounts                         │ 1982    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2260    │ Unit Mail-Clerk/Orderly          │ 5/1/    │ No         │ ARMY  │
+│           │ Designation Log                  │ 2000    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2261    │ Registered Mail - Balance and    │ 5/1/    │ No         │ ARMY  │
+│           │ Inventory                        │ 2000    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2262    │ Receptacle Record                │ 6/1/    │ No         │ ARMY  │
+│           │                                  │ 2000    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2263    │ Mailing Address/Combination      │ 1/1/    │ No         │ ARMY  │
+│           │ Notice                           │ 1982    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2266    │ Hometown News Release            │ 6/1/    │ No         │ AIR   │
+│           │ Information                      │ 1995    │            │ FORCE │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2267    │ Aeromedical Evacuation - Medical │ 11/1/   │ Yes        │ AIR   │
+│           │ Record                           │ 1981    │            │ FORCE │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Defense Enrollment Eligibility   │ 6/1/    │            │       │
+│ DD2268    │ Reporting System (DEERS) Batch   │ 1987    │ No         │ DHA   │
+│           │ Transmittal                      │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2271    │ Decontamination Tag              │ 11/1/   │ Yes        │ ARMY  │
+│           │                                  │ 1982    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2273    │ Irregularities in Makeup and     │ 5/1/    │ No         │ ARMY  │
+│           │ Dispatch of Mail                 │ 2000    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2275-1  │ National Security Council        │ 3/1/    │ Yes        │ USD(I │
+│           │ Information/Top Secret Cover     │ 1982    │            │ &S)   │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2275-2  │ National Security Council        │ 3/1/    │ Yes        │ USD(I │
+│           │ Information/Secret Cover         │ 1982    │            │ &S)   │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2275-3  │ National Security Council        │ 3/1/    │ Yes        │ USD(I │
+│           │ Information/Confidential Cover   │ 1982    │            │ &S)   │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Application for Personally       │ 8/19/   │            │       │
+│ DD2278    │ Procured Move (PPM) and          │ 2024    │ No         │ A&S   │
+│           │ Counseling Checklist             │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Reinspection Decal Convention    │         │            │       │
+│ DD2282    │ for Safe Containers (2024)       │ 4/21/   │ Yes        │ ARMY  │
+│ (Yellow)  │ (Stocked & Issued by Department  │ 2021    │            │       │
+│           │ of the Army (SDDC))              │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Invitational Travel Order (ITO)  │ 7/1/    │            │       │
+│ DD2285    │ for International Military       │ 1995    │ No         │ DSCA  │
+│           │ Student (IMS)                    │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Request for Appointment or       │         │            │       │
+│ DD2292    │ Renewal of Appointment of Expert │ 1/1/    │ No         │ WHS   │
+│           │ or Consultant or Advisory Board  │ 2023    │            │       │
+│           │ Member                           │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2293    │ Application for Former Spouse    │ 4/1/    │ No         │ DFAS  │
+│           │ Payments from Retired Pay        │ 2018    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2322    │ Dental Laboratory Work           │ 4/1/    │ No         │ NAVY  │
+│           │ Authorization                    │ 2009    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2325    │ Radiological Response Capability │ 10/1/   │ No         │ DTRA  │
+│           │ Report                           │ 2002    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2326    │ Preservation and Packing Data    │ 9/1/    │ No         │ NAVY  │
+│           │                                  │ 1997    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Aircraft Utilization Plan, Unit  │ 2/1/    │            │       │
+│ DD2327    │  Front (Adobe PDF) Back (Adobe   │ 1984    │ No         │ ARMY  │
+│           │ PDF)                             │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2327C   │ Aircraft Utilization Plan, Unit  │ 2/1/    │ No         │ ARMY  │
+│           │ (Continuation)                   │ 1984    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2328    │ Aircraft Utilization Summary     │ 3/1/    │ No         │ ARMY  │
+│           │                                  │ 1989    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2329    │ Record of Trial by Summary       │ 4/1/    │ No         │ ARMY  │
+│           │ Court-Martial                    │ 2020    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Waiver/Withdrawal of Appellate   │         │            │       │
+│ DD2330    │ Rights in General and Special    │ 1/14/   │ No         │ ARMY  │
+│           │ Courts-Martial Subject to Review │ 2019    │            │       │
+│           │ by a Court of Military Review    │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Waiver/Withdrawal of Appellate   │         │            │       │
+│           │ Rights in General Courts-Martial │ 7/1/    │            │       │
+│ DD2331    │ Subject to Examination in the    │ 2016    │ No         │ ARMY  │
+│           │ Office of the Judge Advocate     │         │            │       │
+│           │ General                          │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2332    │ Product Quality Deficiency       │ 1/1/    │ No         │ DLA   │
+│           │ Report Exhibit                   │ 1999    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Explosive Ordinance Disposal     │         │            │       │
+│ DD2335    │ Technician Credentials (Stocked  │ 8/1/    │ Yes        │ USD   │
+│           │ & Issued by USNORTHCOM JEOD      │ 2011    │            │ (P)   │
+│           │ VIPPSA)                          │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2338-1  │ Inventory Control Effectiveness  │ 10/1/   │ No         │ DLA   │
+│           │ (Ice) Report Ammunition          │ 2000    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2338-2  │ Inventory Control Effectiveness  │ 10/1/   │ No         │ DLA   │
+│           │ (Ice) Report General Supplies    │ 2000    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2341    │ Report of Animal Bite -          │ 6/1/    │ No         │ DHA   │
+│           │ Potential Rabies Exposure        │ 2015    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2342    │ Animal Facility Sanitation       │ 8/1/    │ No         │ ARMY  │
+│           │ Checklist                        │ 2013    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2343    │ Veterinary Health Record         │ 8/1/    │ No         │ ARMY  │
+│           │                                  │ 2013    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2344    │ Veterinary Treatment Record      │ 11/1/   │ No         │ ARMY  │
+│           │                                  │ 1984    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2345    │ Militarily Critical Technical    │ 10/1/   │ No         │ DLA   │
+│           │ Data Agreement                   │ 2022    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2349    │ NOTAM Control Log                │ 8/1/    │ No         │ AIR   │
+│           │                                  │ 1990    │            │ FORCE │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2357    │ Hazardous Component Safety Data  │ 4/1/    │ No         │ A&S   │
+│           │ Statement (HCSDS)                │ 1999    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ DoD Expeditionary Civilian       │         │            │       │
+│ DD2365    │ Agreement: Emergency-Essential   │ 8/1/    │ No         │ P&R   │
+│           │ Positions and Non-Combat         │ 2017    │            │       │
+│           │ Essential Positions              │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ DoD Expeditionary Civilian       │ 8/1/    │            │       │
+│ DD2365-1  │ Agreement: Capability-Based      │ 2017    │ No         │ P&R   │
+│           │ Volunteer                        │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Montgomery GI Bill Act of 1984   │ 9/1/    │            │       │
+│ DD2366    │ (MGIB)(Chapter 30, Title 38 U.S. │ 2022    │ No         │ P&R   │
+│           │ Code) Basic Enrollment           │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Montgomery GI Bill Act of 1984   │ 9/1/    │            │       │
+│ DD2366-1  │ (MGIB), Increased Benefit        │ 2022    │ No         │ P&R   │
+│           │ Contribution Program             │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2366-2  │ Montgomery GI Bill Act of 1984   │ 6/1/    │ No         │ P&R   │
+│           │ (MGIB), Transferability Program  │ 2002    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2367    │ Individual Overseas Housing      │ 1/29/   │ No         │ P&R   │
+│           │ Allowance (OHA) Report           │ 2024    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2384-1  │ Notice of Basic Eligibility      │ 1/1/    │ Yes        │ P&R   │
+│           │ (NOBE)                           │ 2014    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Montgomery GI Bill - Selected    │ 1/1/    │            │       │
+│ DD2384-2  │ Reserve (MGIB-SR) Kicker         │ 2014    │ Yes        │ P&R   │
+│           │ Obligation Agreement             │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2385    │ Microbiological Quality History  │ 2/1/    │ No         │ ARMY  │
+│           │ Record                           │ 1995    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2388    │ DoD Mail Bag Label               │ 6/1/    │ Yes        │ A&S   │
+│           │                                  │ 1985    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Destination Verification         │ 12/1/   │            │       │
+│ DD2393    │ Inspection of Standard/Variable  │ 1988    │ No         │ DLA   │
+│           │ Net Weight Items                 │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2400    │ Civil Aircraft Certificate of    │ 5/21/   │ No         │ AIR   │
+│           │ Insurance                        │ 2021    │            │ FORCE │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2401    │ Civil Aircraft Landing Permit    │ 5/21/   │ No         │ AIR   │
+│           │                                  │ 2021    │            │ FORCE │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2402    │ Civil Aircraft Hold Harmless     │ 5/21/   │ No         │ AIR   │
+│           │ Agreement                        │ 2021    │            │ FORCE │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2406    │ Miscellaneous Obligation         │ 10/1/   │ No         │ ARMY  │
+│           │ Document                         │ 1985    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2408    │ Defense Distinguished Service    │ 3/1/    │ Yes        │ P&R   │
+│           │ Medal Certificate                │ 2018    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2409    │ Defense Medal Citation           │ 1/5/    │ Yes        │ P&R   │
+│           │                                  │ 2022    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2410    │ Defense Superior Service Medal   │ 3/1/    │ Yes        │ P&R   │
+│           │ Certificate                      │ 2018    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2412    │ Defense Meritorious Service      │ 3/1/    │ Yes        │ P&R   │
+│           │ Medal Certificate                │ 2018    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2413    │ Joint Service Commendation Medal │ 3/1/    │ Yes        │ P&R   │
+│           │ Certificate                      │ 2018    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2414    │ Joint Service Achievement Medal  │ 3/1/    │ Yes        │ P&R   │
+│           │ Certificate                      │ 2018    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Authorization for Emergency      │         │            │       │
+│ DD2461    │ Evacuation Advance and Allotment │ 3/1/    │ No         │ P&R   │
+│           │ Payments for DoD Civilian        │ 2000    │            │       │
+│           │ Employees                        │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2463    │ California Bearing Ratio (CBR)   │ 12/1/   │ No         │ ARMY  │
+│           │ Analysis                         │ 1999    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2464    │ Report of Foundation and Borrow  │ 12/1/   │ No         │ ARMY  │
+│           │ Investigation                    │ 1999    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2475    │ DoD Educational Loan Repayment   │ 12/1/   │ No         │ P&R   │
+│           │ Program (LRP) Annual Application │ 2017    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2477-1  │ Shelf-Life Extension Notice (11" │ 7/7/    │ No         │ DLA   │
+│           │ X 8")                            │ 2023    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2477-2  │ Shelf-Life Extension Notice (5"  │ 7/7/    │ No         │ DLA   │
+│           │ X 3")                            │ 2023    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2477-3  │ Shelf-Life Extension Notice (3"  │ 7/7/    │ No         │ DLA   │
+│           │ X 1")                            │ 2023    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2479    │ Barge Ullage                     │ 9/30/   │ No         │ DLA   │
+│           │                                  │ 2022    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Request for Recovery of Debt Due │ 4/1/    │            │       │
+│ DD2481    │ the United States by Salary      │ 2006    │ No         │ DFAS  │
+│           │ Offset                           │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2482    │ Venom Extract Prescription       │ 3/1/    │ Yes        │ ARMY  │
+│           │                                  │ 1986    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Department of Defense Armed      │ 11/1/   │            │       │
+│ DD2491    │ Forces Pest Management Board     │ 2002    │ No         │ A&S   │
+│           │ Accreditation of Competency      │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2493-1  │ Asbestos Exposure Part I -       │ 1/1/    │ No         │ A&S   │
+│           │ Initial Medical Questionnaire    │ 2000    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2493-2  │ Asbestos Exposure Part II -      │ 1/1/    │ No         │ A&S   │
+│           │ Periodic Medical Questionnaire   │ 2000    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2495    │ Official Mail Manager's          │ 7/1/    │ No         │ A&S   │
+│           │ Inspection Checklist             │ 2006    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2496    │ International Student Academic   │ 2/1/    │ No         │ AIR   │
+│           │ Report                           │ 1996    │            │ FORCE │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2497    │ Carrier Evaluation Worksheet/    │ 9/1/    │ No         │ A&S   │
+│           │ Report                           │ 1998    │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│           │ Dependents of Active Duty        │         │            │       │
+│ DD2498    │ Military Personnel and           │ 9/1/    │ No         │ P&R   │
+│           │ Dependents of US Citizen         │ 1999    │            │       │
+│           │ Civilian Employees, Report of    │         │            │       │
+├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
+│ DD2499    │ Health Care Provider Action      │ 2/1/    │ No         │ DHA   │
+│           │ Report                           │ 2000    │            │       │
+└───────────┴──────────────────────────────────┴─────────┴────────────┴───────┘
 DD Home Issuances Forms Collections  Plain Language X FAQ Contact Us Section
 508 Privacy
 Hosted by Defense Media Activity - WEB.mil Veterans Crisis Line
