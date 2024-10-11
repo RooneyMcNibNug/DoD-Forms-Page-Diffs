@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 10/9/2024)
+DD Forms 2500-2999 (updated 10/10/2024)
 
 Form Availability
 
@@ -1016,6 +1016,10 @@ DD2995    Environmental Site Closure Survey (ESCS)    4/13/   No         ARMY
                                                       2023
 DD2996    Department of Defense Suicide Event Report  9/21/   No         DHA
                                                       2023
+DD2997    Environmental Conditions Report(ECR)List    10/9/   No         ARMY
+                                                      2024
+DD2998    Environmental Site Closure Report (ESCR)    10/9/   No         ARMY
+          List                                        2024
 
 DD Home Issuances Forms Collections  Plain Language X FAQ Contact Us Section
 508 Privacy
