@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 10/10/2024)
+DD Forms 2500-2999 (updated 10/11/2024)
 
 Form Availability
 
@@ -180,8 +180,9 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
  Number                                               Edition Controlled
 (Download                    Title                     Date     (Y/N)     OPR
   PDF)
-DD2501    Courier Authorization                       3/31/   Yes        USD(I&
-                                                      2023               S)
+          Courier Authorization (This form is         3/31/              USD(I&
+DD2501    controlled.  Contact USD(I&S) to obtain a   2023    Yes        S)
+          copy)
 DD2504    Abandoned Vehicle Notice                    5/1/    No         ARMY
                                                       2000
 DD2505    Abandoned Vehicle Removal Authorization     5/1/    No         ARMY
@@ -202,8 +203,9 @@ DD2521    Hazardous Chemical Warning Label (8-1/2 X   10/1/   No         A&S
           11)                                         2000
 DD2522    Hazardous Chemical Warning Label (4 X 6)    10/1/   No         A&S
                                                       2000
-DD2523    DSSW Self Service Supply Center Admittance  8/1/    Yes        ARMY
-          Card                                        1988
+          DSSW Self Service Supply Center Admittance  8/1/
+DD2523    Card (This form is controlled.  Contact     1988    Yes        ARMY
+          ARMY to obtain a copy)
 DD2524    DSSW Self Service Supply Center Sign-In     8/1/    No         ARMY
           Log                                         1988
 DD2525    Certification of Hours Worked in Service    9/13/   No         WHS
@@ -219,8 +221,10 @@ DD2536    Request for Armed Forces Participation in   1/18/   No         ATSD
           Public Events (Non- Aviation)               2023               (PA)
 DD2537    Visual Information Caption Sheet            2/1/    No         ATSD
                                                       1994               (PA)
-DD2542    Certificate of Appreciation for Service in  5/1/    Yes        ARMY
-          the Armed Forces of the United States       2001
+          Certificate of Appreciation for Service in
+DD2542    the Armed Forces of the United States (This 5/1/    Yes        ARMY
+          form is controlled.  Contact ARMY to obtain 2001
+          a copy)
 DD2543    Government Furnished Material (GFM) Status  9/1/    No         A&S
           Report                                      1999
 DD2544    Diving Log                                  11/1/   No         NAVY
@@ -246,8 +250,9 @@ DD2554-8  Program Peculiar Specifications             12/1/   No         A&S
           Move-In Housing Allowance Claim for         1/29/
 DD2556    Personnel Occupying Privately Leased/Owned  2024    No         P&R
           Quarters Overseas
-DD2557    Plant Replacement Value (PRV) - FY 19__     2/1/    Yes        A&S
-                                                      1990
+          Plant Replacement Value (PRV) - FY 19__     2/1/
+DD2557    (This form is controlled.  Contact A&S to   1990    Yes        A&S
+          obtain a copy)
 DD2558    Authorization to Start, Stop, or Change an  12/1/   No         DFAS
           Allotment                                   2017
 DD2560    Advance Pay Certification/Authorization     3/1/    No         DFAS
@@ -260,10 +265,13 @@ DD2569    Third Party Collection Program/Medical      11/1/   No         DHA
           Services Account/Other Health Insurance     2022
 DD2570    Third Party Collection Program - Report on  6/1/    No         DHA
           Program Results                             2001
-DD2571    Third Party Collection Program - Aging      2/1/    Yes        DHA
-          Schedule                                    1991
-DD2574    Armed Forces Exchange Services              3/1/    Yes        P&R
-          Identification and Privilege Card           2000
+          Third Party Collection Program - Aging      2/1/
+DD2571    Schedule (This form is controlled.  Contact 1991    Yes        DHA
+          DHA to obtain a copy)
+          Armed Forces Exchange Services
+DD2574    Identification and Privilege Card (This     3/1/    Yes        P&R
+          form is controlled.  Contact P&R to obtain  2000
+          a copy)
 DD2577    DoD Bone Marrow Donor Program Consent to    5/1/    No         DHA
           Donate Bone Marrow - MLC Stage              1991
 DD2578    DoD Bone Marrow Donor Program Intent to     5/1/    No         DHA
@@ -328,10 +336,11 @@ DD2646    School Age Care Program Annual Summary of   12/1/   No         P&R
 DD2647    Reimbursable Project Worksheet              7/1/    No         WHS
                                                       2015
           Service Member Pre-Separation/Transition
-          Counseling and Career Readiness Standards   10/1/
-DD2648    Eform for Service Members Separating,       2019    Yes        P&R
-          Retiring, Released from Active Duty
-          (REFRAD)
+          Counseling and Career Readiness Standards
+DD2648    Eform for Service Members Separating,       10/1/   Yes        P&R
+          Retiring, Released from Active Duty         2019
+          (REFRAD) (This form is controlled.  Contact
+          P&R to obtain a copy)
 DD2652    Application for Department of Defense Child 12/1/   No         P&R
           Care Fees                                   2023
 DD2653    Involuntary Allotment Application           4/25/   No         P&R
@@ -419,9 +428,10 @@ DD2695    Protection Agency Certification Program     9/1/    No         A&S
           Certificate for Processing CFC/HCFC         1994
           Refrigerants 
           Department of Defense Environmental
-DD2696    Protection Agency Certification Program CFC 9/1/    Yes        A&S
-          /HCFC Refrigerant Processing Certificate    1994
-          Verification 
+          Protection Agency Certification Program CFC 9/1/
+DD2696    /HCFC Refrigerant Processing Certificate    1994    Yes        A&S
+          Verification (This form is controlled.
+           Contact A&S to obtain a copy)
 DD2697    Report of Medical Assessment                2/1/    No         DHA
                                                       1995
 DD2698    Application for Transitional Compensation   2/27/   No         P&R
@@ -529,9 +539,10 @@ DD2760    Qualification to Possess Firearms or        3/21/   No         USD(I&
           Ammunition                                  2023               S)
 DD2761    Personal Check Cashing Agreement            4/1/    No         DFAS
                                                       2007
-          United States DoD/Uniformed Services        4/1/
-DD2764S   Civilian Geneva Conventions Identification  1998    Yes        P&R
-          Card (TAN) 
+          United States DoD/Uniformed Services
+DD2764S   Civilian Geneva Conventions Identification  4/1/    Yes        P&R
+          Card (TAN) (This form is controlled.        1998
+           Contact P&R to obtain a copy)
 DD2766    Total Force Health Readiness Flowsheet      8/8/    No         DHA
                                                       2023
 DD2766C   Adult Preventive and Chronic Care Flowsheet 3/1/    No         DHA
@@ -549,8 +560,9 @@ DD2772    Contract Discrepancy Report                 9/1/    No         A&S
                                                       1998
 DD2773    Report of Contractor Services               9/1/    No         A&S
                                                       1998
-DD2774    Cold War Certificate of Recognition         7/1/    Yes        AIR
-                                                      2001               FORCE
+          Cold War Certificate of Recognition (This   7/1/               AIR
+DD2774    form is controlled.  Contact AIR FORCE to   2001    Yes        FORCE
+          obtain a copy)
 DD2775    Pallet Identifier                           9/1/    No         A&S
                                                       1998
 DD2776    Dangerous Cargo Load List                   9/1/    No         A&S
@@ -606,22 +618,30 @@ DD2813    Department of Defense Active Duty/Reserve/  11/3/   No         DHA
           Guard/Civilian Forces Dental Examination    2021
 DD2815    Alternative Dispute Resolution (ADR) Report 5/1/    No         GC,
                                                       2016               DoD
-DD2816    Consent for Search and Seizure              10/1/   Yes        USD(I&
-                                                      2000               S)
-DD2817    Evidence Custody Document                   9/30/   Yes        USD(I&
-                                                      2020               S)
-DD2817-1  Evidence Custody/Property Tag               10/22/  Yes        USD(I&
-                                                      2020               S)
-DD2818    Civilian Rights Advisement Form             10/1/   Yes        USD(I&
-                                                      2000               S)
-DD2819    Affiliation Agreement                       10/1/   Yes        USD(I&
-                                                      2000               S)
-DD2820    Military Rights Advisement Form             10/1/   Yes        USD(I&
-                                                      2000               S)
-DD2823    Command Authorization for Search and        10/1/   Yes        USD(I&
-          Seizure                                     2000               S)
-DD2824    Voluntary Sworn Statement                   10/1/   Yes        USD(I&
-                                                      2000               S)
+          Consent for Search and Seizure (This form   10/1/              USD(I&
+DD2816    is controlled.  Contact USD(I&S) to obtain  2000    Yes        S)
+          a copy)
+          Evidence Custody Document (This form is     9/30/              USD(I&
+DD2817    controlled.  Contact USD(I&S) to obtain a   2020    Yes        S)
+          copy)
+          Evidence Custody/Property Tag (This form is 10/22/             USD(I&
+DD2817-1  controlled.  Contact USD(I&S) to obtain a   2020    Yes        S)
+          copy)
+          Civilian Rights Advisement Form (This form  10/1/              USD(I&
+DD2818    is controlled.  Contact USD(I&S) to obtain  2000    Yes        S)
+          a copy)
+          Affiliation Agreement (This form is         10/1/              USD(I&
+DD2819    controlled.  Contact USD(I&S) to obtain a   2000    Yes        S)
+          copy)
+          Military Rights Advisement Form (This form  10/1/              USD(I&
+DD2820    is controlled.  Contact USD(I&S) to obtain  2000    Yes        S)
+          a copy)
+          Command Authorization for Search and        10/1/              USD(I&
+DD2823    Seizure (This form is controlled.  Contact  2000    Yes        S)
+          USD(I&S) to obtain a copy)
+          Voluntary Sworn Statement (This form is     10/1/              USD(I&
+DD2824    controlled.  Contact USD(I&S) to obtain a   2000    Yes        S)
+          copy)
 DD2825    Internal Receipt                            6/1/    No         A&S
                                                       2000
 DD2826    Trustee Report                              3/1/    No         DFAS
@@ -756,8 +776,9 @@ DD2892    Certificate of Eligibility for Retired      3/1/    No         DFAS
           Members                                     2005
 DD2894    Designation of Beneficiary Information      3/1/    No         DFAS
                                                       2005
-DD2896-1  Reserve Component Health Coverage Request   7/1/    Yes        DHA
-                                                      2010
+          Reserve Component Health Coverage Request   7/1/
+DD2896-1  (This form is controlled.  Contact DHA to   2010    Yes        DHA
+          obtain a copy)
 DD2897    Former Spouse Distribution Statement        5/1/    No         DFAS
                                                       2006
 DD2898    Department of Defense Senior Professional   8/1/    No         P&R
@@ -859,8 +880,9 @@ DD2925    Missile Fuels/Propellants Inventory Summary 11/1/   No         DLA
           Sheet                                       2006
 DD2926    Annual Foreign Area Officer (FAO) Metrics   10/1/   No         P&R
           Report Data Input                           2007
-DD2927    Petroleum and Lubricants Sample             7/1/    Yes        DLA
-          Identification Tags                         2007
+          Petroleum and Lubricants Sample             7/1/
+DD2927    Identification Tags (This form is           2007    Yes        DLA
+          controlled.  Contact DLA to obtain a copy)
 DD2929    Defense Civilian Pay System (DCPS)          1/1/    No         DFAS
           Non-Payroll Office Access Form              2014
 DD2930    Privacy Impact Assessment (PIA)             6/1/    No         CIO,
@@ -974,15 +996,17 @@ DD2974    Tactical Kitchen Food Sanitation Inspection 11/1/   No         ARMY
                                                       2013
 DD2975    Temporary Food Event Coordinator's          11/1/   No         ARMY
           Application                                 2013
-DD2976    Servicemembers' Group Life Insurance (SGLI) 6/1/    Yes        P&R
-          Online Enrollment System (SOES)             2016
+          Servicemembers' Group Life Insurance (SGLI)
+DD2976    Online Enrollment System (SOES) (This form  6/1/    Yes        P&R
+          is controlled.  Contact P&R to obtain a     2016
+          copy)
 DD2977    Deliberate Risk Assessment Worksheet        11/1/   No         ARMY
                                                       2020
 DD2978    Deployment Mental Health Assessment         7/1/    No         DHA
                                                       2022
           Basic Criminal History and Statement of     12/14/
 DD2981    Admission (Department of Defense Child and  2021    No         P&R
-          Youth (C&Y) Programs)
+          Youth (C&Y) Programs) 
 DD2982    Recruiter/Trainer Prohibited Activities     1/1/    No         P&R
           Acknowledgment                              2015
 DD2983    Recruit/Trainee Prohibited Activities       1/1/    No         P&R
@@ -1016,10 +1040,10 @@ DD2995    Environmental Site Closure Survey (ESCS)    4/13/   No         ARMY
                                                       2023
 DD2996    Department of Defense Suicide Event Report  9/21/   No         DHA
                                                       2023
-DD2997    Environmental Conditions Report(ECR)List    10/9/   No         ARMY
+DD2997    Environmental Conditions Report (ECR)       10/9/   No         ARMY
                                                       2024
 DD2998    Environmental Site Closure Report (ESCR)    10/9/   No         ARMY
-          List                                        2024
+                                                      2024
 
 DD Home Issuances Forms Collections  Plain Language X FAQ Contact Us Section
 508 Privacy

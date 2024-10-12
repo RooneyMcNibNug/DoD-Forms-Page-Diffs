@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 9/20/2024)
+DD Forms 3000-3499 (updated 10/11/2024)
 
 Form Availability
 
@@ -242,14 +242,18 @@ DD3033    Department of Defense Pathways Internship    10/1/   No         P&R
           Department of Defense Pathways Program       10/1/
 DD3034    Presidential Management Fellows (PMF)        2016    No         P&R
           Program Participant Agreement
-DD3035-1  Cold Chain Management Shipping Label for     6/1/    Yes        DLA
-          Refrigerated Items                           2017
-DD3035-2  Cold Chain Management Shipping Label for     6/1/    Yes        DLA
-          Hybrid Items                                 2017
-DD3035-3  Cold Chain Mgmt Shipping Label for           6/1/    Yes        DLA
-          Controlled Rm Temp Items                     2017
-DD3035-4  Cold Chain Management Shipping Label for     6/1/    Yes        DLA
-          Freezer Items                                2017
+          Cold Chain Management Shipping Label for     6/1/
+DD3035-1  Refrigerated Items (This form is controlled. 2017    Yes        DLA
+           Contact DLA to obtain a copy)
+          Cold Chain Management Shipping Label for     6/1/
+DD3035-2  Hybrid Items (This form is controlled.       2017    Yes        DLA
+           Contact DLA to obtain a copy)
+          Cold Chain Mgmt Shipping Label for           6/1/
+DD3035-3  Controlled Rm Temp Items (This form is       2017    Yes        DLA
+          controlled.  Contact DLA to obtain a copy)
+          Cold Chain Management Shipping Label for     6/1/
+DD3035-4  Freezer Items (This form is controlled.      2017    Yes        DLA
+           Contact DLA to obtain a copy)
 DD3036    Effective Downwind Message Worksheet         1/23/   No         ARMY
                                                        2024
 DD3037    Detailed Fallout Prediction Worksheet -      1/23/   No         ARMY
@@ -300,8 +304,9 @@ DD3059    Military Working Dog Handler Certificate of  2/23/   No         P&R
           Commendation                                 2019
 DD3062    Request For Flight Approval                  9/21/   No         DCMA
                                                        2020
-DD3065    Atomic Veterans Service Certificate          5/1/    Yes        P&R
-                                                       2019
+          Atomic Veterans Service Certificate (This    5/1/
+DD3065    form is controlled.  Contact P&R to obtain a 2019    Yes        P&R
+          copy)
 DD3067-2  SMART Scholarship Educational Work Plan      1/13/   No         R&E
                                                        2023
 DD3067-4  SMART Scholarship Recruitment Internship     1/13/   No         R&E
@@ -322,8 +327,9 @@ DD3067-13 SMART Scholarship Site Visit Report for      1/13/   No         R&E
           Recruitment Awardees                         2023
 DD3067-15 SMART Scholarship Revised Degree Completion  1/13/   No         R&E
           Plan                                         2023
-DD3073    Canine-Tactical Combat Casualty Card         7/1/    Yes        DHA
-                                                       2020
+          Canine-Tactical Combat Casualty Card (This   7/1/
+DD3073    form is controlled.  Contact DHA to obtain a 2020    Yes        DHA
+          copy)
 DD3074    Canine Treatment and Resuscitation Record    7/1/    No         DHA
                                                        2020
 DD3075    DLA Energy Disposition Request               7/1/    No         DLA
@@ -433,8 +439,9 @@ DD3178    Boat/Personal Watercraft Counseling &        2/13/   No         A&S
           Information Sheet                            2023
 DD3179    Problematic Sexual Behavior Non-Clinical     1/21/   No         P&R
           Referral Tool                                2022
-DD3180    Legion of Merit (LOM) Certificate for        2/9/    Yes        P&R
-          Foreign Personnel                            2022
+          Legion of Merit (LOM) Certificate for        2/9/
+DD3180    Foreign Personnel (This form is controlled.  2022    Yes        P&R
+           Contact P&R to obtain a copy)
           Request for Authorization to Obligate        8/3/
 DD3183    Expired Defense Health Program               2023    No         DHA
           Appropriations
@@ -476,6 +483,8 @@ DD3216    Military OneSource Individual Freedom of     8/28/   No         P&R
           Information Act/Privacy Act Request          2024
 DD3217    Military OneSource Third-Party Records       8/27/   No         P&R
           Release Request                              2024
+DD3220    Eligibility Questionnaire for Havana Act     10/11/  No         P&R
+          Payments                                     2024
 
 DD Home Issuances Forms Collections  Plain Language X FAQ Contact Us Section
 508 Privacy

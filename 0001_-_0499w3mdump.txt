@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 9/24/2024)
+DD Forms 1-499 (updated 10/11/2024)
 
 Form Availability
 
@@ -183,15 +183,20 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
  Number                                                Edition Controlled
 (Download                    Title                      Date     (Y/N)     OPR
   PDF)
-DD1       Officer's Commission                         1/1/    Yes        ARMY
-                                                       2000
-          Armed Forces of the United States Geneva     1/1/
-DD2S(RES) Conventions Identification Card (Reserve)    1993    Yes        P&R
-          (Green)
-DD2S      United States Uniformed Services             1/1/    Yes        P&R
-(RESRET)  Identification Card (Reserve Retired) (Red)  1993
-DD2S(RET) United States Uniformed Services             1/1/    Yes        P&R
-          Identification Card (Retired) (Blue)         1993
+DD1       Officer's Commission (This form is           1/1/    Yes        ARMY
+          controlled.  Contact ARMY to obtain a copy)  2000
+          Armed Forces of the United States Geneva
+DD2S(RES) Conventions Identification Card (Reserve)    1/1/    Yes        P&R
+          (Green) (This form is controlled.  Contact P 1993
+          &R to obtain a copy)
+          United States Uniformed Services
+DD2S      Identification Card (Reserve Retired) (Red)  1/1/    Yes        P&R
+(RESRET)  (This form is controlled.  Contact P&R to    1993
+          obtain a copy)
+          United States Uniformed Services
+DD2S(RET) Identification Card (Retired) (Blue) (This   1/1/    Yes        P&R
+          form is controlled.  Contact P&R to obtain a 1993
+          copy)
 DD3       Application for Gold Star Lapel Button       8/01/   No         P&R
                                                        2020
 DD4       Enlistment/Reenlistment Document Armed       5/1/    No         P&R
@@ -222,8 +227,8 @@ DD137-6   Dependency Statement - Full Time Student 21  3/1/    No         DFAS
           - 22 Years of Age (Instructions)             2018
 DD137-7   Parent's Dependency Affidavit                3/1/    No         DFAS
           (English-Spanish)                            2018
-DD139     Pay Adjustment Authorization                 5/1/    Yes        DFAS
-                                                       1953
+DD139     Pay Adjustment Authorization (This form is   5/1/    Yes        DFAS
+          controlled.  Contact DFAS to obtain a copy)  1953
           Application for Correction of Military       1/17/
 DD149     Record Under the Provisions of Title 10,     2023    No         P&R
           U.S. Code, Section 1552
@@ -239,12 +244,15 @@ DD180     Item Name Collaboration Action Request       10/1/   No         DLA
                                                        2010
 DD200     Financial Liability Investigation of         7/1/    No         COMP
           Property Loss                                2009
-DD214     Certificate of Uniformed Service             2/17/   Yes        P&R
-                                                       2022
-DD214-1   Certificate of Uniformed Service, Reserve    2/17/   Yes        P&R
-          Component Addendum                           2022
-DD215     Correction to DD Form 214/214-1, Certificate 2/17/   Yes        P&R
-          of Uniformed Service                         2022
+          Certificate of Uniformed Service  (This form 2/17/
+DD214     is controlled.  Contact P&R to obtain a      2022    Yes        P&R
+          copy)
+          Certificate of Uniformed Service, Reserve    2/17/
+DD214-1   Component Addendum (This form is controlled. 2022    Yes        P&R
+           Contact P&R to obtain a copy)
+          Correction to DD Form 214/214-1, Certificate 2/17/
+DD215     of Uniformed Service (This form is           2022    Yes        P&R
+          controlled.  Contact P&R to obtain a copy)
 DD218     Telephone Directory Alphabetical Section     7/1/    No         ARMY
           Change Order                                 1962
 DD218-1   Telephone Directory Classified Section       2/1/    No         ARMY
@@ -260,8 +268,9 @@ DD250C    Material Inspection and Receiving Report -   11/1/   No         A&S
           Department of Defense Contract Security      4/1/
 DD254     Classification Specification (Instructions)  2018    No         DCSA
           *Administrative edits 1/29/2021
-DD256     Honorable Discharge Certificate              1/1/    Yes        AIR
-                                                       1950               FORCE
+          Honorable Discharge Certificate  (This form  1/1/               AIR
+DD256     is controlled.  Contact AIR FORCE to obtain  1950    Yes        FORCE
+          a copy)
 DD261     Investigation, Report of Investigation -     3/25/   No         ARMY
           Line of Duty and Misconduct Status           2021
 DD281     Voucher for Emergency or Extraordinary       1/1/    No         DFAS
@@ -277,8 +286,9 @@ DD293     Application for the Review of Discharge from 2/8/    No         P&R
 DD294     Rating Awarded Accompanying a Medical        2021    No         P&R
           Separation from the Armed Forces of the
           United States
-DD303*    Certificate in Lieu of Lost or Destroyed     9/1/    Yes        P&R
-          Discharge                                    1950
+          Certificate in Lieu of Lost or Destroyed     9/1/
+DD303*    Discharge (This form is controlled.  Contact 1950    Yes        P&R
+          P&R to obtain a copy)
 DD314     Preventive Maintenance Schedule and Record   12/1/   No         ARMY
                                                        1953
 DD350     Individual Contracting Action Report         10/1/   No         A&S
@@ -291,8 +301,8 @@ DD361     Transportation Discrepancy Report (TDR)      6/1/    No         ARMY
                                                        2006
 DD361C    Transportation Discrepancy Report (TDR)      1/1/    No         ARMY
           (Continuation Sheet)                         2007
-DD363     Certificate of Retirement                    1/1/    Yes        NAVY
-                                                       1999
+DD363     Certificate of Retirement (This form is      1/1/    Yes        NAVY
+          controlled.  Contact NAVY to obtain a copy)  1999
 DD365     Record of Weight and Balance Personnel       10/16/  No         AIR
                                                        2023               FORCE
 DD365-1   Chart A - Basic Weight Checklist Record      10/16/  No         AIR
@@ -346,8 +356,8 @@ DD460     Provisional Pass                             3/1/    No         ARMY
           Bond of Person Designated to Act on Behalf   5/1/
 DD462     of Incompetent Member or Former Member of    2003    No         DFAS
           the Uniformed Services
-DD473     Official Records Envelope                    7/1/    Yes        NAVY
-                                                       1989
+DD473     Official Records Envelope (This form is      7/1/    Yes        NAVY
+          controlled.  Contact NAVY to obtain a copy)  1989
 DD490     Certified Record of Trial (pages 1-4 only) ( 3/19/   No         ARMY
           page 5 only) (page 6 only)                   2019
 DD491     Summarized Record of Trial                   5/1/    No         ARMY

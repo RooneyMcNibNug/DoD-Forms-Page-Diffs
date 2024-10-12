@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 8/21/2024)
+DD Forms 2000-2499 (updated 10/11/2024)
 
 Form Availability
 
@@ -188,8 +188,10 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 │ DD2017    │ Route Order Amendment            │ 9/1/    │ No         │ A&S   │
 │           │                                  │ 2005    │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2023    │ DoD Catalytic Converter Import   │ 5/1/    │ Yes        │ ARMY  │
-│           │ Control Label                    │ 1976    │            │       │
+│           │ DoD Catalytic Converter Import   │         │            │       │
+│ DD2023    │ Control Label (This form is      │ 5/1/    │ Yes        │ ARMY  │
+│           │ controlled.  Contact ARMY to     │ 1976    │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │ DD2024    │ DoD Security Classification      │ 11/9/   │ No         │ USD(I │
 │           │ Guide Data Elements              │ 2023    │            │ &S)   │
@@ -197,8 +199,10 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 │ DD2026    │ Oil Analysis Request (Duplex     │ 8/8/    │ No         │ NAVY  │
 │           │ Print Version)                   │ 2024    │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2055    │ Sanitary Compliance Checklist,   │ 11/1/   │ Yes        │ ARMY  │
-│           │ Soft Drink Plant                 │ 1976    │            │       │
+│           │ Sanitary Compliance Checklist,   │         │            │       │
+│ DD2055    │ Soft Drink Plant (This form is   │ 11/1/   │ Yes        │ ARMY  │
+│           │ controlled.  Contact ARMY to     │ 1976    │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │ DD2058    │ State Of Legal Residence         │ 1/1/    │ No         │ DFAS  │
 │           │ Certificate                      │ 2018    │            │       │
@@ -224,9 +228,11 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 │ DD2063    │ Disposition of Remains           │ 2017    │ No         │ P&R   │
 │           │ (Contracted Mortuary Facility)   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│           │ Certificate of Death Overseas    │ 4/1/    │            │       │
-│ DD2064    │ (This form is controlled.        │ 2019    │ Yes        │ DHA   │
-│           │ Contract DHA to obtain a copy)   │         │            │       │
+│           │ Certificate of Death Overseas    │         │            │       │
+│           │ (This form is controlled.        │ 4/1/    │            │       │
+│ DD2064    │ Contract DHA to obtain a copy)   │ 2019    │ Yes        │ DHA   │
+│           │ (This form is controlled.        │         │            │       │
+│           │  Contact DHA to obtain a copy)   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │ DD2065    │ Disposition of                   │ 11/22/  │ No         │ P&R   │
 │           │ Remains-Reimbursable Basis       │ 2019    │            │       │
@@ -304,34 +310,49 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 │ DD2139    │ Report of Contract Performance   │ 11/1/   │ No         │ A&S   │
 │           │ Outside the United States        │ 2015    │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2155    │ Resident Foreign Language        │ 5/1/    │ Yes        │ ARMY  │
-│           │ Training, Requirements for       │ 1978    │            │       │
+│           │ Resident Foreign Language        │         │            │       │
+│ DD2155    │ Training, Requirements for (This │ 5/1/    │ Yes        │ ARMY  │
+│           │ form is controlled.  Contact     │ 1978    │            │       │
+│           │ ARMY to obtain a copy)           │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│           │ Resident Foreign Language        │ 5/1/    │            │       │
-│ DD2155C   │ Training, Requirements for       │ 1978    │ Yes        │ ARMY  │
-│           │ (Continued)                      │         │            │       │
+│           │ Resident Foreign Language        │         │            │       │
+│           │ Training, Requirements for       │ 5/1/    │            │       │
+│ DD2155C   │ (Continued) (This form is        │ 1978    │ Yes        │ ARMY  │
+│           │ controlled.  Contact ARMY to     │         │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2156    │ Nonresident Foreign Language     │ 5/1/    │  Yes       │ ARMY  │
-│           │ Program Training Report          │ 1978    │            │       │
+│           │ Nonresident Foreign Language     │         │            │       │
+│ DD2156    │ Program Training Report (This    │ 5/1/    │  Yes       │ ARMY  │
+│           │ form is controlled.  Contact     │ 1978    │            │       │
+│           │ ARMY to obtain a copy)           │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2156-1  │ Nonresident English Language     │ 5/1/    │  Yes       │ ARMY  │
-│           │ Training (ELT) Report            │ 1978    │            │       │
+│           │ Nonresident English Language     │         │            │       │
+│ DD2156-1  │ Training (ELT) Report (This form │ 5/1/    │  Yes       │ ARMY  │
+│           │ is controlled.  Contact ARMY to  │ 1978    │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│           │ Resident Foreign Language        │ 5/1/    │            │       │
-│ DD2157    │ Training, Confirmational of      │ 1978    │  Yes       │ ARMY  │
-│           │ Student Input to                 │         │            │       │
+│           │ Resident Foreign Language        │         │            │       │
+│           │ Training, Confirmational of      │ 5/1/    │            │       │
+│ DD2157    │ Student Input to (This form is   │ 1978    │  Yes       │ ARMY  │
+│           │ controlled.  Contact ARMY to     │         │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2163    │ Medical Equipment Verification/  │ 3/1/    │ Yes        │ ARMY  │
-│           │ Certification                    │ 2013    │            │       │
+│           │ Medical Equipment Verification/  │         │            │       │
+│ DD2163    │ Certification (This form is      │ 3/1/    │ Yes        │ ARMY  │
+│           │ controlled.  Contact ARMY to     │ 2013    │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │ DD2164    │ X-Ray Verification/Certification │ 11/1/   │ No         │ AIR   │
 │           │ Worksheet                        │ 1978    │            │ FORCE │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2165    │ Conductivity and Ground Monitor  │ 11/1/   │ Yes        │ NAVY  │
-│           │ Test Record                      │ 1978    │            │       │
+│           │ Conductivity and Ground Monitor  │         │            │       │
+│ DD2165    │ Test Record (This form is        │ 11/1/   │ Yes        │ NAVY  │
+│           │ controlled.  Contact NAVY to     │ 1978    │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2167    │ Job Phase Calculation Sheet      │ 11/1/   │ Yes        │ NAVY  │
-│           │                                  │ 1978    │            │       │
+│           │ Job Phase Calculation Sheet      │ 11/1/   │            │       │
+│ DD2167    │ (This form is controlled.        │ 1978    │ Yes        │ NAVY  │
+│           │  Contact NAVY to obtain a copy)  │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │           │ Application for Discharge of     │         │            │       │
 │           │ Member or Survivor of Member of  │ 3/1/    │            │       │
@@ -339,8 +360,9 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 │           │ Performed Active Duty with the   │         │            │       │
 │           │ Armed Forces of the U.S.         │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2201    │ Dental Procedures and Services   │ 10/1/   │ Yes        │ DHA   │
-│           │ Report                           │ 1979    │            │       │
+│           │ Dental Procedures and Services   │ 10/1/   │            │       │
+│ DD2201    │ Report (This form is controlled. │ 1979    │ Yes        │ DHA   │
+│           │  Contact DHA to obtain a copy)   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │ DD2208    │ Rabies Vaccination Certificate   │ 5/1/    │ No         │ ARMY  │
 │           │                                  │ 2008    │            │       │
@@ -363,15 +385,21 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 │ DD2217    │ Biological Audiometer            │ 1/1/    │ No         │ P&R   │
 │           │ Calibration Check                │ 2000    │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2220    │ Department of Defense Registered │ 5/1/    │ Yes        │ ARMY  │
-│           │ Vehicle                          │ 2004    │            │       │
+│           │ Department of Defense Registered │         │            │       │
+│ DD2220    │ Vehicle (This form is            │ 5/1/    │ Yes        │ ARMY  │
+│           │ controlled.  Contact ARMY to     │ 2004    │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│           │ Medical Care and Transportation  │ 6/1/    │            │ AIR   │
-│ DD2239    │ in the Aeromedical Evacuation    │ 1980    │ Yes        │ FORCE │
-│           │ System, Consent for              │         │            │       │
+│           │ Medical Care and Transportation  │         │            │       │
+│           │ in the Aeromedical Evacuation    │ 6/1/    │            │ AIR   │
+│ DD2239    │ System, Consent for (This form   │ 1980    │ Yes        │ FORCE │
+│           │ is controlled.  Contact AIR      │         │            │       │
+│           │ FORCE to obtain a copy)          │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2249    │ Pentagon Facilities Access       │ 3/14/   │ Yes        │ PFPA  │
-│           │ Enrollment Form                  │ 2023    │            │       │
+│           │ Pentagon Facilities Access       │         │            │       │
+│ DD2249    │ Enrollment Form (This form is    │ 3/14/   │ Yes        │ PFPA  │
+│           │ controlled.  Contact PFPA to     │ 2023    │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │ DD2257    │ Designation/Termination          │ 5/1/    │ No         │ ARMY  │
 │           │ MPC-FPC-COPE-PFO                 │ 2000    │            │       │
@@ -397,36 +425,49 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 │ DD2266    │ Hometown News Release            │ 6/1/    │ No         │ AIR   │
 │           │ Information                      │ 1995    │            │ FORCE │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2267    │ Aeromedical Evacuation - Medical │ 11/1/   │ Yes        │ AIR   │
-│           │ Record                           │ 1981    │            │ FORCE │
+│           │ Aeromedical Evacuation - Medical │         │            │       │
+│ DD2267    │ Record (This form is controlled. │ 11/1/   │ Yes        │ AIR   │
+│           │  Contact AIR FORCE to obtain a   │ 1981    │            │ FORCE │
+│           │ copy)                            │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │           │ Defense Enrollment Eligibility   │ 6/1/    │            │       │
 │ DD2268    │ Reporting System (DEERS) Batch   │ 1987    │ No         │ DHA   │
 │           │ Transmittal                      │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2271    │ Decontamination Tag              │ 11/1/   │ Yes        │ ARMY  │
-│           │                                  │ 1982    │            │       │
+│           │ Decontamination Tag (This form   │ 11/1/   │            │       │
+│ DD2271    │ is controlled.  Contact ARMY to  │ 1982    │ Yes        │ ARMY  │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │ DD2273    │ Irregularities in Makeup and     │ 5/1/    │ No         │ ARMY  │
 │           │ Dispatch of Mail                 │ 2000    │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2275-1  │ National Security Council        │ 3/1/    │ Yes        │ USD(I │
-│           │ Information/Top Secret Cover     │ 1982    │            │ &S)   │
+│           │ National Security Council        │         │            │       │
+│           │ Information/Top Secret Cover     │ 3/1/    │            │ USD(I │
+│ DD2275-1  │ (This form is controlled.        │ 1982    │ Yes        │ &S)   │
+│           │  Contact USD(I&S) to obtain a    │         │            │       │
+│           │ copy)                            │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2275-2  │ National Security Council        │ 3/1/    │ Yes        │ USD(I │
-│           │ Information/Secret Cover         │ 1982    │            │ &S)   │
+│           │ National Security Council        │         │            │       │
+│ DD2275-2  │ Information/Secret Cover (This   │ 3/1/    │ Yes        │ USD(I │
+│           │ form is controlled.  Contact USD │ 1982    │            │ &S)   │
+│           │ (I&S) to obtain a copy)          │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2275-3  │ National Security Council        │ 3/1/    │ Yes        │ USD(I │
-│           │ Information/Confidential Cover   │ 1982    │            │ &S)   │
+│           │ National Security Council        │         │            │       │
+│           │ Information/Confidential Cover   │ 3/1/    │            │ USD(I │
+│ DD2275-3  │ (This form is controlled.        │ 1982    │ Yes        │ &S)   │
+│           │  Contact USD(I&S) to obtain a    │         │            │       │
+│           │ copy)                            │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │           │ Application for Personally       │ 8/19/   │            │       │
 │ DD2278    │ Procured Move (PPM) and          │ 2024    │ No         │ A&S   │
 │           │ Counseling Checklist             │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │           │ Reinspection Decal Convention    │         │            │       │
-│ DD2282    │ for Safe Containers (2024)       │ 4/21/   │ Yes        │ ARMY  │
-│ (Yellow)  │ (Stocked & Issued by Department  │ 2021    │            │       │
-│           │ of the Army (SDDC))              │         │            │       │
+│           │ for Safe Containers (2024)       │         │            │       │
+│ DD2282    │ (Stocked & Issued by Department  │ 4/21/   │ Yes        │ ARMY  │
+│ (Yellow)  │ of the Army (SDDC)) (This form   │ 2021    │            │       │
+│           │ is controlled.  Contact ARMY to  │         │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │           │ Invitational Travel Order (ITO)  │ 7/1/    │            │       │
 │ DD2285    │ for International Military       │ 1995    │ No         │ DSCA  │
@@ -477,9 +518,11 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 │           │ Report Exhibit                   │ 1999    │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │           │ Explosive Ordinance Disposal     │         │            │       │
-│ DD2335    │ Technician Credentials (Stocked  │ 8/1/    │ Yes        │ USD   │
-│           │ & Issued by USNORTHCOM JEOD      │ 2011    │            │ (P)   │
-│           │ VIPPSA)                          │         │            │       │
+│           │ Technician Credentials (Stocked  │         │            │       │
+│ DD2335    │ & Issued by USNORTHCOM JEOD      │ 8/1/    │ Yes        │ USD   │
+│           │ VIPPSA) (This form is            │ 2011    │            │ (P)   │
+│           │ controlled.  Contact USD(P) to   │         │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │ DD2338-1  │ Inventory Control Effectiveness  │ 10/1/   │ No         │ DLA   │
 │           │ (Ice) Report Ammunition          │ 2000    │            │       │
@@ -531,18 +574,22 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 │ DD2367    │ Individual Overseas Housing      │ 1/29/   │ No         │ P&R   │
 │           │ Allowance (OHA) Report           │ 2024    │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2384-1  │ Notice of Basic Eligibility      │ 1/1/    │ Yes        │ P&R   │
-│           │ (NOBE)                           │ 2014    │            │       │
+│           │ Notice of Basic Eligibility      │ 1/1/    │            │       │
+│ DD2384-1  │ (NOBE) (This form is controlled. │ 2014    │ Yes        │ P&R   │
+│           │  Contact P&R to obtain a copy)   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│           │ Montgomery GI Bill - Selected    │ 1/1/    │            │       │
-│ DD2384-2  │ Reserve (MGIB-SR) Kicker         │ 2014    │ Yes        │ P&R   │
-│           │ Obligation Agreement             │         │            │       │
+│           │ Montgomery GI Bill - Selected    │         │            │       │
+│           │ Reserve (MGIB-SR) Kicker         │ 1/1/    │            │       │
+│ DD2384-2  │ Obligation Agreement (This form  │ 2014    │ Yes        │ P&R   │
+│           │ is controlled.  Contact P&R to   │         │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │ DD2385    │ Microbiological Quality History  │ 2/1/    │ No         │ ARMY  │
 │           │ Record                           │ 1995    │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2388    │ DoD Mail Bag Label               │ 6/1/    │ Yes        │ A&S   │
-│           │                                  │ 1985    │            │       │
+│           │ DoD Mail Bag Label (This form is │ 6/1/    │            │       │
+│ DD2388    │ controlled.  Contact A&S to      │ 1985    │ Yes        │ A&S   │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │           │ Destination Verification         │ 12/1/   │            │       │
 │ DD2393    │ Inspection of Standard/Variable  │ 1988    │ No         │ DLA   │
@@ -560,23 +607,34 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 │ DD2406    │ Miscellaneous Obligation         │ 10/1/   │ No         │ ARMY  │
 │           │ Document                         │ 1985    │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2408    │ Defense Distinguished Service    │ 3/1/    │ Yes        │ P&R   │
-│           │ Medal Certificate                │ 2018    │            │       │
+│           │ Defense Distinguished Service    │         │            │       │
+│ DD2408    │ Medal Certificate (This form is  │ 3/1/    │ Yes        │ P&R   │
+│           │ controlled.  Contact P&R to      │ 2018    │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2409    │ Defense Medal Citation           │ 1/5/    │ Yes        │ P&R   │
-│           │                                  │ 2022    │            │       │
+│           │ Defense Medal Citation (This     │ 1/5/    │            │       │
+│ DD2409    │ form is controlled.  Contact P&R │ 2022    │ Yes        │ P&R   │
+│           │ to obtain a copy)                │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2410    │ Defense Superior Service Medal   │ 3/1/    │ Yes        │ P&R   │
-│           │ Certificate                      │ 2018    │            │       │
+│           │ Defense Superior Service Medal   │         │            │       │
+│ DD2410    │ Certificate (This form is        │ 3/1/    │ Yes        │ P&R   │
+│           │ controlled.  Contact P&R to      │ 2018    │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2412    │ Defense Meritorious Service      │ 3/1/    │ Yes        │ P&R   │
-│           │ Medal Certificate                │ 2018    │            │       │
+│           │ Defense Meritorious Service      │         │            │       │
+│ DD2412    │ Medal Certificate (This form is  │ 3/1/    │ Yes        │ P&R   │
+│           │ controlled.  Contact P&R to      │ 2018    │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2413    │ Joint Service Commendation Medal │ 3/1/    │ Yes        │ P&R   │
-│           │ Certificate                      │ 2018    │            │       │
+│           │ Joint Service Commendation Medal │         │            │       │
+│ DD2413    │ Certificate (This form is        │ 3/1/    │ Yes        │ P&R   │
+│           │ controlled.  Contact P&R to      │ 2018    │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2414    │ Joint Service Achievement Medal  │ 3/1/    │ Yes        │ P&R   │
-│           │ Certificate                      │ 2018    │            │       │
+│           │ Joint Service Achievement Medal  │         │            │       │
+│ DD2414    │ Certificate (This form is        │ 3/1/    │ Yes        │ P&R   │
+│           │ controlled.  Contact P&R to      │ 2018    │            │       │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │           │ Authorization for Emergency      │         │            │       │
 │ DD2461    │ Evacuation Advance and Allotment │ 3/1/    │ No         │ P&R   │
@@ -608,8 +666,9 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 │ DD2481    │ the United States by Salary      │ 2006    │ No         │ DFAS  │
 │           │ Offset                           │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2482    │ Venom Extract Prescription       │ 3/1/    │ Yes        │ ARMY  │
-│           │                                  │ 1986    │            │       │
+│           │ Venom Extract Prescription (This │ 3/1/    │            │       │
+│ DD2482    │ form is controlled.  Contact     │ 1986    │ Yes        │ ARMY  │
+│           │ ARMY to obtain a copy)           │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │           │ Department of Defense Armed      │ 11/1/   │            │       │
 │ DD2491    │ Forces Pest Management Board     │ 2002    │ No         │ A&S   │

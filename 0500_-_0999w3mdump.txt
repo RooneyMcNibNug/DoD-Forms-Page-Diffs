@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 500 - 999 (updated 10/8/2024)
+DD Forms 500 - 999 (updated 10/11/2024)
 
 Form Availability
 
@@ -196,8 +196,8 @@ DD515     Roster of Prisoners                          11/3/   No         P&R
                                                        2022
 DD518     Accident Identification Card                 10/1/   No         AIR
                                                        1978               FORCE
-DD551     Record of Interment                          8/1/    Yes        ARMY
-                                                       1984
+DD551     Record of Interment (This form is            8/1/    Yes        ARMY
+          controlled.  Contact ARMY to obtain a copy)  1984
 DD553     Deserter/Absentee Wanted by the Armed Forces 10/8/   No         P&R
                                                        2024
 DD553-1   Parole/Mandatory Supervised Release (MSR)    10/2/   No         P&R
@@ -212,14 +212,15 @@ DD573     Shipping Inventory of Blood Products         11/1/   No         DHA
                                                        1981
 DD577     Appointment/Termination Record - Authorized  11/1/   No         DFAS
           Signature                                    2014
-DD579     Receipt for Property, Temporary              10/1/   Yes        ARMY
-                                                       1961
+          Receipt for Property, Temporary (This form   10/1/
+DD579     is controlled.  Contact ARMY to obtain a     1961    Yes        ARMY
+          copy)
 DD592     Payroll for Personal Services Certification  9/1/    No         ARMY
           and Summary                                  1970
 DD592-2   Payroll for Personal Services (Continuation  10/1/   No         ARMY
           Sheet)                                       1951
-DD600     Patient's Baggage Tag                        7/1/    Yes        DHA
-                                                       1973
+DD600     Patient's Baggage Tag (This form is          7/1/    Yes        DHA
+          controlled.  Contact DHA to obtain a copy)   1973
 DD603-1   War Souvenir Registration/Authorization      6/5/    No         A&S
                                                        2024
 DD610     Government Furnished Equipment Requirement   8/1/    No         AIR
@@ -230,12 +231,13 @@ DD619     Statement of Accessorial Services Performed  5/1/    No         A&S
                                                        2019
 DD626     Motor Vehicle Inspection (Transporting       5/13/   No         A&S
           Hazardous & Sensitive Materials)             2024
-DD645A    Foreign Military Sales Billing Statement     6/1/    Yes        DSCA
-                                                       1978
+          Foreign Military Sales Billing Statement     6/1/
+DD645A    (This form is controlled.  Contact DSCA to   1978    Yes        DSCA
+          obtain a copy) 
 DD651     Carrier's Report of Vehicle Damage or        8/1/    No         ARMY
           Breakdown                                    1969
-DD652     Uniformed Services Meal Ticket               5/1/    Yes        DFAS
-                                                       1978
+DD652     Uniformed Services Meal Ticket (This form is 5/1/    Yes        DFAS
+          controlled.  Contact DFAS to obtain a copy)  1978
 DD675     Receipt for Records and Patients Property    10/1/   No         DHA
                                                        1974
 DD689     Individual Sick Slip                         8/1/    No         ARMY
@@ -246,10 +248,10 @@ DD691     Priority Rating for Production or            2005    No         A&S
           Receipt for Unused Transportation Requests   11/1/
 DD730     and/or Tickets, Including Unused Meal        1984    No         ARMY
           Tickets
-DD753     Travel Distance, Official                    3/1/    Yes        COMP
-                                                       1963
-DD754     Repair Tag                                   1/1/    Yes        ARMY
-                                                       2013
+DD753     Travel Distance, Official (This form is      3/1/    Yes        COMP
+          controlled.  Contact COMP to obtain a copy)  1963
+DD754     Repair Tag (This form is controlled.         1/1/    Yes        ARMY
+           Contact ARMY to obtain a copy)              2013
 DD771     Eyewear Prescription                         7/1/    No         DHA
                                                        1996
 DD785     Officer Candidate-Type Training, Record of   6/1/    No         ARMY

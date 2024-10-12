@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 10/4/2024)
+DD Forms 1500 - 1999 (updated 10/11/2024)
 
 Form Availability
 
@@ -198,8 +198,9 @@ DD1523      Military Family Housing Justification      11/1/   No         A&S
                                                        1990
 DD1532      Pest Management Maintenance Record         5/18/   No         A&S
                                                        2022
-DD1544      Cash Meal Payment Book                     5/1/    Yes        ARMY
-                                                       1976
+            Cash Meal Payment Book (This form is       5/1/
+DD1544      controlled.  Contact ARMY to obtain a      1976    Yes        ARMY
+            copy)
 DD1547      Record of Weighted Guidelines Application  4/24/   No         A&S
                                                        2020
 DD1553      Entry for a Photography Contest            8/1/    No         ARMY
@@ -208,26 +209,35 @@ DD1561      Statement to Substantiate Payment of       12/1/   No         DFAS
             Family Separation Allowance (FSA)          2017
 DD1572      Test Log DANTES and Others                 10/1/   No         P&R
                                                        2009
-DD1574      Serviceable Tag - Materiel                 10/1/   Yes        ARMY
-                                                       1988
+            Serviceable Tag - Materiel (This form is   10/1/
+DD1574      controlled.  Contact ARMY to obtain a      1988    Yes        ARMY
+            copy)
 DD1574-1    Serviceable Label - Materiel               10/1/   No         ARMY
                                                        1966
-DD1575      Suspended Tag - Materiel                   10/1/   Yes        ARMY
-                                                       1966
-DD1575-1    Suspended Label - Materiel                 10/1/   Yes        ARMY
-                                                       1966
-DD1576      Test/Modification Tag - Materiel           10/1/   Yes        ARMY
-                                                       1966
-DD1576-1    Test/Modification Label - Materiel         10/1/   Yes        ARMY
-                                                       1966
-DD1577      Unserviceable (Condemned) Tag - Materiel   10/1/   Yes        ARMY
-                                                       1966
-DD1577-1    Unserviceable (Condemned) Label -          10/1/   Yes        ARMY
-            Materiel                                   1966
-DD1577-2    Unserviceable (Reparable) Tag - Materiel   10/1/   Yes        ARMY
-                                                       1966
-DD1577-3    Unserviceable (Reparable) Label -          10/1/   Yes        ARMY
-            Materiel                                   1966
+            Suspended Tag - Materiel (This form is     10/1/
+DD1575      controlled.  Contact ARMY to obtain a      1966    Yes        ARMY
+            copy)
+            Suspended Label - Materiel (This form is   10/1/
+DD1575-1    controlled.  Contact ARMY to obtain a      1966    Yes        ARMY
+            copy)
+            Test/Modification Tag - Materiel (This     10/1/
+DD1576      form is controlled.  Contact ARMY to       1966    Yes        ARMY
+            obtain a copy)
+            Test/Modification Label - Materiel (This   10/1/
+DD1576-1    form is controlled.  Contact ARMY to       1966    Yes        ARMY
+            obtain a copy)
+            Unserviceable (Condemned) Tag - Materiel   10/1/
+DD1577      (This form is controlled.  Contact ARMY to 1966    Yes        ARMY
+            obtain a copy)
+            Unserviceable (Condemned) Label -          10/1/
+DD1577-1    Materiel (This form is controlled.         1966    Yes        ARMY
+             Contact ARMY to obtain a copy)
+            Unserviceable (Reparable) Tag - Materiel   10/1/
+DD1577-2    (This form is controlled.  Contact ARMY to 1966    Yes        ARMY
+            obtain a copy)
+            Unserviceable (Reparable) Label -          10/1/
+DD1577-3    Materiel (This form is controlled.         1966    Yes        ARMY
+             Contact ARMY to obtain a copy)
 DD1586      Contract Funds Status Report               8/1/    No         A&S
                                                        1996
 DD1587      Record of Congressional Transcript Review  4/1/    No         WHS
@@ -246,8 +256,9 @@ DD1607      Application For Homeowners Assistance      4/28/   No         A&S
             Program                                    2022
 DD1610      Request and Authorization for TDY Travel   5/1/    No         P&R
             of DoD Personnel                           2003
-DD1613      Pilot's Compass Correction Card            7/1/    Yes        ARMY
-                                                       1967
+            Pilot's Compass Correction Card (This form 7/1/
+DD1613      is controlled.  Contact ARMY to obtain a   1967    Yes        ARMY
+            copy)
             Request/Authorization for DoD Civilian     5/1/
 DD1614      Permanent Duty or Temporary Change of      2003    No         P&R
             Station (TCS) Travel 
@@ -285,8 +296,9 @@ DD1654      Evaluation of Transportation Cost Factors  4/1/    No         A&S
                                                        1999
 DD1659      Application for U.S. Government Shipping   9/1/    No         A&S
             Documentation/Instructions                 2007
-DD1660      Management Systems Summary List            3/1/    Yes        DFAS
-                                                       1971
+            Management Systems Summary List (This form 3/1/
+DD1660      is controlled.  Contact DFAS to obtain a   1971    Yes        DFAS
+            copy)
 DD1685      Data Exchange and/or Proposed Revision of  8/1/    No         DLA
             Catalog Data                               1993
 DD1692       Engineering Change Proposal (ECP),        1/1/    No         NAVY
@@ -387,8 +399,9 @@ DD1789      Armed Forces Professional Entertainment    2/1/    No         ARMY
             Evaluation                                 1986
 DD1790      Congressional Review                       4/18/   No         WHS
                                                        2016
-DD1791      Phased Provisioning Availability Schedule  3/1/    Yes        A&S
-                                                       1971
+            Phased Provisioning Availability Schedule  3/1/
+DD1791      (This form is controlled.  Contact A&S to  1971    Yes        A&S
+            obtain a copy)
 DD1793      Determination of Asphalt Content           2/1/    No         ARMY
                                                        1971
 DD1794      Grain-Size Analysis (Hydrometer Method)    12/1/   No         ARMY
@@ -416,17 +429,21 @@ DD1814      Warning/Suspension/Reinstatement/          2024    No         A&S
             Cancellation
 DD1821      Contractor Crewmember Flight Summary       2/3/    No         DCMA
                                                        2023
-DD1826      Pest Control Certificate of Competency     7/10/   Yes        A&S
-                                                       2023
-DD1826-1    Pesticide Applicator                       7/10/   Yes        A&S
-                                                       2023
+            Pest Control Certificate of Competency     7/10/
+DD1826      (This form is controlled.  Contact A&S to  2023    Yes        A&S
+            obtain a copy)
+DD1826-1    Pesticide Applicator (This form is         7/10/   Yes        A&S
+            controlled.  Contact A&S to obtain a copy) 2023
 DD1829      Record of Military Dog Physical            10/1/   No         ARMY
             Examination                                1971
-DD1832      Revision/Reprint Notice                    10/1/   Yes        AIR
-                                                       1971               FORCE
-            Isolated Personnel Report (ISOPREP) (CAC   8/02/
-DD1833      enabled, for a copy of the form, contact:  2023    Yes        JCS
-            127.WG.PRMS.Mail.Org@us.af.mil)
+            Revision/Reprint Notice (This form is      10/1/              AIR
+DD1832      controlled.  Contact AIR FORCE to obtain a 1971    Yes        FORCE
+            copy)
+            Isolated Personnel Report (ISOPREP) (CAC
+            enabled, for a copy of the form, contact:  8/02/
+DD1833      127.WG.PRMS.Mail.Org@us.af.mil) (This form 2023    Yes        JCS
+            is controlled.  Contact JCS to obtain a
+            copy)
 DD1834      Military Working Dog Service Record        10/1/   No         AIR
                                                        2017               FORCE
 DD1840      Joint Statement of Loss or Damage At       1/1/    No         A&S
@@ -453,8 +470,8 @@ DD1863      Accessorial Services-Mobile Home           9/1/    No         A&S
                                                        1998
 DD1896      DoD Fuel Identaplate                       3/1/    No         DLA
                                                        1973
-DD1898      Energy Sale Slip                           7/1/    Yes        DLA
-                                                       2008
+DD1898      Energy Sale Slip (This form is controlled. 7/1/    Yes        DLA
+             Contact DLA to obtain a copy)             2008
 DD1898-D    Alternate US DoD or Federal Civil Fuel     6/1/    No         DLA
             Customer Billing Information               2010
 DD1898-E    Energy Sales Slip (Electronic)             1/1/    No         DLA
@@ -494,23 +511,29 @@ DD1924      Surgical Checklist                         10/1/   No         AIR
                                                        1993               FORCE
 DD1926      Explosive Ordnance Disposal Civil Support  9/1/    No         NAVY
             Release and Reimbursement Agreement        1973
-DD1927      Film Can Label (Green)                     11/1/   Yes        DIA
-                                                       1973
-DD1928      Film Can Label (Red)                       11/1/   Yes        DIA
-                                                       1973
-DD1929      Film Can Label (Yellow)                    11/1/   Yes        DIA
-                                                       1973
-DD1933      Data Collector Identification, DoD         2/1/    Yes        P&R
-            (Stocked & Issued by OUSD(P&R))            2000
+DD1927      Film Can Label (Green) (This form is       11/1/   Yes        DIA
+            controlled.  Contact DIA to obtain a copy) 1973
+DD1928      Film Can Label (Red) (This form is         11/1/   Yes        DIA
+            controlled.  Contact DIA to obtain a copy) 1973
+DD1929      Film Can Label (Yellow) (This form is      11/1/   Yes        DIA
+            controlled.  Contact DIA to obtain a copy) 1973
+            Data Collector Identification, DoD
+DD1933      (Stocked & Issued by OUSD(P&R)) (This form 2/1/    Yes        P&R
+            is controlled.  Contact P&R to obtain a    2000
+            copy)
             Individual Case Report - Exercise of       4/1/
 DD1936      Criminal Jurisdiction by Foreign Tribunals 1974    No         ARMY
             Over U.S. Personnel 
-DD1944      Equipment Certification - Type A           8/1/    Yes        AIR
-                                                       1975               FORCE
-DD1945      Defective Power Outlet                     6/1/    Yes        AIR
-                                                       1974               FORCE
-DD1947-1    Release Authorization for Military         9/1/    Yes        DFAS
-            Earnings Information                       1982
+            Equipment Certification - Type A (This     8/1/               AIR
+DD1944      form is controlled.  Contact AIR FORCE to  1975    Yes        FORCE
+            obtain a copy)
+            Defective Power Outlet (This form is       6/1/               AIR
+DD1945      controlled.  Contact AIR FORCE to obtain a 1974    Yes        FORCE
+            copy)
+            Release Authorization for Military
+DD1947-1    Earnings Information (This form is         9/1/    Yes        DFAS
+            controlled.  Contact DFAS to obtain a      1982
+            copy) 
             LSAR Data Selection Sheet (part 1, p.      8/1/
 DD1949-1    1-5), (part 1, p. 6-9), (part 1, p.        1996    No         A&S
             10-13), & (part 2)
