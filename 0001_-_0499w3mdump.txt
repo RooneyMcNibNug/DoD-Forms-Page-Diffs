@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 10/25/2024)
+DD Forms 1-499 (updated 10/31/2024)
 
 Form Availability
 
@@ -219,14 +219,8 @@ DD114     Military Pay Order                           12/1/   No         DFAS
                                                        2017
 DD117     Pay Voucher, Military                        9/1/    No         DFAS
                                                        1977
-DD137-3   Dependency Statement - Parent (Instructions) 3/1/    No         DFAS
-                                                       2018
-DD137-5   Dependency Statement - Incapacitated Child   3/1/    No         DFAS
-          Over Age 21 (Instructions)                   2018
-DD137-6   Dependency Statement - Full Time Student 21  3/1/    No         DFAS
-          - 22 Years of Age (Instructions)             2018
-DD137-7   Parent's Dependency Affidavit                3/1/    No         DFAS
-          (English-Spanish)                            2018
+DD137     Secondary Dependency Application             10/31/  No         DFAS
+                                                       2024
 DD139     Pay Adjustment Authorization (This form is   5/1/    Yes        DFAS
           controlled.  Contact DFAS to obtain a copy)  1953
           Application for Correction of Military       1/17/
