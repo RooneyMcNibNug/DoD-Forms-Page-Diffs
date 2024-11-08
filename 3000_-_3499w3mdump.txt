@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 11/6/2024)
+DD Forms 3000-3499 (updated 11/7/2024)
 
 Form Availability
 
@@ -307,6 +307,8 @@ DD3062    Request For Flight Approval                  9/21/   No         DCMA
           Atomic Veterans Service Certificate (This    5/1/
 DD3065    form is controlled.  Contact P&R to obtain a 2019    Yes        P&R
           copy)
+DD3066    Operation Ration Quality Feedback            10/31/  No         ARMY 
+                                                       2024
 DD3067-2  SMART Scholarship Educational Work Plan      1/13/   No         R&E
                                                        2023
 DD3067-4  SMART Scholarship Recruitment Internship     1/13/   No         R&E
