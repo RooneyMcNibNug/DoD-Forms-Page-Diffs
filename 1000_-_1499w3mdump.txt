@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 11/6/2024)
+DD Forms 1000-1499 (updated 11/12/2024)
 
 Form Availability
 
@@ -511,7 +511,7 @@ DD1408         is controlled.  Contact ARMY to obtain  1987    Yes        ARMY
                Vehicle Registration and Driver Record  12/1/
 DD1409         (This form is controlled.  Contact ARMY 1962    Yes        ARMY
                to obtain a copy)
-DD1412         Inventory of Articles Shipped in House  7/1/    No         ARMY
+DD1412         Inventory of Articles Shipped in House  7/1/    No         A&S
                Trailer                                 1974
                Reprogramming Action, Base For (This    2/1/
 DD1414         form is controlled.  Contact COMP to    1963    Yes        COMP

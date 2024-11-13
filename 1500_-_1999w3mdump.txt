@@ -164,7 +164,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 10/28/2024)
+DD Forms 1500 - 1999 (updated 11/12/2024)
 
 Form Availability
 
@@ -420,7 +420,7 @@ DD1801      International Flight Plan, DoD             5/1/    No         AIR
                                                        1987               FORCE
 DD1801C     International Flight Plan, DoD             5/21/   No         AIR
             (Continuation)                             2019               FORCE
-DD1811      Pre-Award Survey of Contractor's/Carrier's 6/1/    No         ARMY
+DD1811      Pre-Award Survey of Contractor's/Carrier's 6/1/    No         A&S
             Facilities and Equipment                   1979
 DD1812      Facility Inspection Report                 2/28/   No         A&S
                                                        2024
@@ -452,11 +452,11 @@ DD1840R     Notice of Loss or Damage                   1/1/    No         A&S
                                                        1988
 DD1841      Government Inspection Report               9/1/    No         A&S
                                                        1998
-DD1842      Claim for Loss of or Damage to Personal    5/1/    No         ARMY
+DD1842      Claim for Loss of or Damage to Personal    5/1/    No         A&S
             Property Incident to Service               2000
 DD1843      Demand on Carrier/Contractor               5/1/    No         ARMY
                                                        2000
-DD1844      List of Property and Claim Analysis Chart  5/1/    No         ARMY
+DD1844      List of Property and Claim Analysis Chart  5/1/    No         A&S
                                                        2000
 DD1848      Sensitive Compartmented Information        1/1/    No         DIA
             Debriefing Memorandum                      1983
