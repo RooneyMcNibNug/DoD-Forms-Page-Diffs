@@ -142,14 +142,12 @@ Toggle navigation    Directives Home
           ☆ Veteran's Affairs (VA)
   •  
   • Information Collections
-      □  
-      □ IC Homepage
-      □ Surveys
-      □ Training
-      □ PRA Resources
+      □   IC Homepage
+      □     Surveys
+      □     Training
+      □     PRA Resources
           ☆  
-          ☆  
-          ☆     Public Collections Overview
+          ☆ Public Collections Overview
           ☆ Elements of a PRA Package
           ☆ Approval Process
           ☆ Public Collections & SornsPublic Collections & Rules
