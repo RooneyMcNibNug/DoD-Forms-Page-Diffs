@@ -229,21 +229,21 @@ DD2544    Diving Log                                  11/1/   No         NAVY
                                                       1989
 DD2551    Workload Management System for Nursing -    2/1/    No         DHA
           General Worksheet                           1992
-DD2554-1  TDP Option Selection Worksheet Product      12/1/   No         A&S
+DD2554-1  TDP Option Selection Worksheet Product      12/1/   No         ARMY
           Drawings and Associated Lists               1989
-DD2554-2  Conceptual Design Drawings and Associated   12/1/   No         A&S
+DD2554-2  Conceptual Design Drawings and Associated   12/1/   No         ARMY
           Lists                                       1989
-DD2554-3  Developmental Design Drawings and           12/1/   No         A&S
+DD2554-3  Developmental Design Drawings and           12/1/   No         ARMY
           Associated Lists                            1989
-DD2554-4  Commercial Drawings and Associated Lists    12/1/   No         A&S
+DD2554-4  Commercial Drawings and Associated Lists    12/1/   No         ARMY
                                                       1989
-DD2554-5  Special Inspection Equipment Drawings and   12/1/   No         A&S
+DD2554-5  Special Inspection Equipment Drawings and   12/1/   No         ARMY
           Associated Lists                            1989
-DD2554-6  Special Tooling Drawings and Associated     12/1/   No         A&S
+DD2554-6  Special Tooling Drawings and Associated     12/1/   No         ARMY
           Lists                                       1989
-DD2554-7  Military Specifications                     12/1/   No         A&S
+DD2554-7  Military Specifications                     12/1/   No         ARMY
                                                       1989
-DD2554-8  Program Peculiar Specifications             12/1/   No         A&S
+DD2554-8  Program Peculiar Specifications             12/1/   No         ARMY
                                                       1989
           Move-In Housing Allowance Claim for         1/29/
 DD2556    Personnel Occupying Privately Leased/Owned  2024    No         P&R
