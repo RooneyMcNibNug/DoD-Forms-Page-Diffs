@@ -162,7 +162,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 11/25/2024)
+DD Forms 2500-2999 (updated 11/26/2024)
 
 Form Availability
 
@@ -556,8 +556,8 @@ DD2770    Abbreviated Medical Record                  4/1/    No         ARMY
                                                       1998
 DD2772    Contract Discrepancy Report                 9/1/    No         A&S
                                                       1998
-DD2773    Report of Contractor Services               9/1/    No         A&S
-                                                      1998
+DD2773    Report of Contractor Services               11/26/  No         A&S
+                                                      2024
           Cold War Certificate of Recognition (This   7/1/               AIR
 DD2774    form is controlled.  Contact AIR FORCE to   2001    Yes        FORCE
           obtain a copy)
