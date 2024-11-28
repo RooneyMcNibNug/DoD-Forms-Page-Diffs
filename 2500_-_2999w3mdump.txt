@@ -162,7 +162,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 11/26/2024)
+DD Forms 2500-2999 (updated 11/27/2024)
 
 Form Availability
 
@@ -998,8 +998,8 @@ DD2975    Temporary Food Event Coordinator's          11/1/   No         ARMY
 DD2976    Online Enrollment System (SOES) (This form  6/1/    Yes        P&R
           is controlled.  Contact P&R to obtain a     2016
           copy)
-DD2977    Deliberate Risk Assessment Worksheet        11/1/   No         ARMY
-                                                      2020
+DD2977    Deliberate Risk Assessment Worksheet        11/27/  No         ARMY
+                                                      2024
 DD2978    Deployment Mental Health Assessment         7/1/    No         DHA
                                                       2022
           Basic Criminal History and Statement of     12/14/
