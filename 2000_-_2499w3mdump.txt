@@ -162,7 +162,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 10/15/2024)
+DD Forms 2000-2499 (updated 12/5/2024)
 
 Form Availability
 
@@ -226,11 +226,9 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 │ DD2063    │ Disposition of Remains           │ 2017    │ No         │ P&R   │
 │           │ (Contracted Mortuary Facility)   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│           │ Certificate of Death Overseas    │         │            │       │
-│           │ (This form is controlled.        │ 4/1/    │            │       │
-│ DD2064    │ Contract DHA to obtain a copy)   │ 2019    │ Yes        │ DHA   │
-│           │ (This form is controlled.        │         │            │       │
-│           │  Contact DHA to obtain a copy)   │         │            │       │
+│           │ Certificate of Death (This form  │ 12/5/   │            │       │
+│ DD2064    │ is controlled. Contact DHA to    │ 2024    │ Yes        │ DHA   │
+│           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │ DD2065    │ Disposition of                   │ 11/22/  │ No         │ P&R   │
 │           │ Remains-Reimbursable Basis       │ 2019    │            │       │
