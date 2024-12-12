@@ -162,7 +162,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 12/10/2024)
+DD Forms 2500-2999 (updated 12/11/2024)
 
 Form Availability
 
@@ -1045,4 +1045,5 @@ DD2998    Environmental Site Closure Report (ESCR)    10/9/   No         ARMY
 
 DD Home Issuances Forms Collections  Plain Language X FAQ Contact Us Section
 508 Privacy
-Hosted by Defense Media Activity - WEB.mil Veterans Crisis Line
+Hosted by Defense Media Activity - WEB.mil Veterans Crisis Line number. Dial
+988 then Press 1
