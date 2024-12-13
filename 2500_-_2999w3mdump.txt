@@ -162,7 +162,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 12/11/2024)
+DD Forms 2500-2999 (updated 12/12/2024)
 
 Form Availability
 
@@ -864,12 +864,12 @@ DD2918    National Security Personnel System (NSPS)   7/1/    No         P&R
           Position Description                        2006
 DD2919    Reserve Income Replacement Program (RIRP)   7/1/    No         P&R
           Eligibility Verification                    2006
-DD2920    DoD MILSPETS Transfer of Account Document   12/1/   No         DLA
-                                                      2008
-DD2921    Physical Inventory Petroleum Products       12/1/   No         DLA
-                                                      2008
-DD2921C   Physical Inventory Petroleum Products       6/1/    No         DLA
-          (Continuation Sheet)                        2009
+DD2920    DoD MILSPETS Transfer of Account Document   12/12/  No         DLA
+                                                      2024
+DD2921    Physical Inventory Petroleum Products       12/12/  No         DLA
+                                                      2024
+DD2921C   Physical Inventory Petroleum Products       12/12/  No         DLA
+          (Continuation Sheet)                        2024
 DD2922    Forensic Laboratory Examination Request     4/30/   No         ARMY
                                                       2021
 DD2924    Monthly Inventory Transactions Report       11/1/   No         DLA
