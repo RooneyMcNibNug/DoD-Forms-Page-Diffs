@@ -162,7 +162,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 12/10/2024)
+DD Forms 2000-2499 (updated 12/12/2024)
 
 Form Availability
 
@@ -219,7 +219,7 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 │           │ Planning Directive               │ 1979    │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │           │ Record of Preparation and        │ 4/1/    │            │       │
-│ DD2062    │ Disposition of Remains (Outside  │ 1984    │ No         │ P&R   │
+│ DD2062    │ Disposition of Remains (Outside  │ 1984    │ No         │ ARMY  │
 │           │ CONUS)                           │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │           │ Record of Preparation and        │ 9/1/    │            │       │
