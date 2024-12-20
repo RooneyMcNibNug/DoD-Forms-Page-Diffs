@@ -511,7 +511,7 @@ DD1409         (This form is controlled.  Contact ARMY 1962    Yes        ARMY
                to obtain a copy)
 DD1412         Inventory of Articles Shipped in House  7/1/    No         A&S
                Trailer                                 1974
-               Reprogramming Action, Base For (This    2/1/
+               Reprogramming Action, Base Form (This   2/1/
 DD1414         form is controlled.  Contact COMP to    1963    Yes        COMP
                obtain a copy)
                Reprogramming Action (Prior Approval    7/1/
