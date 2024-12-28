@@ -162,7 +162,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 12/26/2024)
+DD Forms 3000-3499 (updated 12/27/2024)
 
 Form Availability
 
@@ -483,6 +483,10 @@ DD3217    Military OneSource Third-Party Records       8/27/   No         P&R
           Release Request                              2024
 DD3220    Eligibility Questionnaire for Havana Act     10/11/  No         P&R
           Payments                                     2024
+          Department of Defense Controlled
+DD3230    Unclassified Information (CUI) Nondisclosure 12/27/  No         OSD
+          Agreement for President-Elect’s Transition   2024
+          Team Members
 
 DD Home Issuances Forms Collections  Plain Language X FAQ Contact Us Section
 508 Privacy
