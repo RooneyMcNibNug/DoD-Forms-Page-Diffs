@@ -162,7 +162,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 12/20/2024)
+DD Forms 2500-2999 (updated 12/30/2024)
 
 Form Availability
 
@@ -687,11 +687,6 @@ DD2843    Classified Material Destruction Record      10/8/   No         WHS
           U.S. Department of Defense (National        10/10/
 DD2845    Capital Region) Mass Transportation Benefit 2023    No         WHS
           Program Application 
-          Contractor Performance Assessment Report    9/1/               AIR
-DD2846    (CPAR) - Services Information Technology    2002    No         FORCE
-          Operations Support 
-DD2847    Contractor Performance Assessment Report    9/1/    No         AIR
-          (CPAR) - Ship Repair & Overhaul             2002               FORCE
 DD2848    Contractor Performance Assessment Report    9/1/    No         AIR
           (CPAR) - Systems                            2002               FORCE
 DD2851    Request to Correct Thrift Savings Plan      12/1/   No         DFAS
