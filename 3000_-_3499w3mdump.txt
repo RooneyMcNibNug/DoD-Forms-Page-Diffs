@@ -64,9 +64,7 @@ Toggle navigation    Directives Home
           ☆ Issuances Homepage
           ☆ Recent Publications
           ☆ Helpful Tips
-          ☆ Cancelled Issuances
-            (DoD CAC required)
-            (Use Edge or Chrome)
+          ☆ Cancelled Issuances (DoD CAC required) (Use Edge or Chrome)
           ☆  
           ☆ Issuance Types
           ☆ DoD Directives
@@ -74,10 +72,8 @@ Toggle navigation    Directives Home
           ☆ DoD Publications & Manuals
           ☆ Administrative Instructions
           ☆ Directive-Type Memorandums
-          ☆ Civilian Personnel Management
-            (DoDI 1400.25)
-          ☆ SPM & Memorandums
-            (DoD CAC required)
+          ☆ Civilian Personnel Management (DoDI 1400.25)
+          ☆ SPM & Memorandums (DoD CAC required)
       □ 
           ☆ Issuance Toolbox
           ☆ DoD Process
@@ -142,15 +138,20 @@ Toggle navigation    Directives Home
           ☆ Veteran's Affairs (VA)
   •  
   • Information Collections
-      □   IC Homepage
-      □     Surveys
-      □     Training
-      □     PRA Resources
+      □    IC Homepage
+          ☆         Surveys
+          ☆         Training
+          ☆         PRA Resources
+      □ 
+          ☆                                                                    
+                                                                         
+          ☆    Public Collections Overview
+          ☆          Elements of a PRA Package
+          ☆          Approval Process
+          ☆          Public Collections & Sorns
+          ☆          Public Collections & Rules
+      □ 
           ☆  
-          ☆ Public Collections Overview
-          ☆ Elements of a PRA Package
-          ☆ Approval Process
-          ☆ Public Collections & SornsPublic Collections & Rules
   • Plain Language
   • Contact/FAQ
       □ 
