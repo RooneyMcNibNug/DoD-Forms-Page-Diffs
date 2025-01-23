@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 12/4/2024)
+DD Forms 1000-1499 (updated 1/22/2025)
 
 Form Availability
 
@@ -385,7 +385,7 @@ DD1304-2AS     Battery (ASVAB) Answer Sheet (This form 1/1/    Yes        P&R
 DD1304-5       controlled.  Contact P&R to obtain a    2002    Yes        P&R
                copy)
                ASVAB Manual for Administration         10/1/
-DD1304-5AM     (Student) (This form is controlled.     2013    Yes        P&R
+DD1304-5AM     (Student) (This form is controlled.     2016    Yes        P&R
                 Contact P&R to obtain a copy)
                Armed Services Vocational Aptitude
 DD1304-5AS     Battery (ASVAB), Answer Sheet (This     7/1/    Yes        P&R
