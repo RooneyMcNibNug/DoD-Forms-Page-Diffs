@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 1/16/2025)
+DD Forms 2500-2999 (updated 1/23/2025)
 
 Form Availability
 
@@ -538,10 +538,6 @@ DD2760    Qualification to Possess Firearms or        3/21/   No         USD(I&
           Ammunition                                  2023               S)
 DD2761    Personal Check Cashing Agreement            4/1/    No         DFAS
                                                       2007
-          United States DoD/Uniformed Services
-DD2764S   Civilian Geneva Conventions Identification  4/1/    Yes        P&R
-          Card (TAN) (This form is controlled.        1998
-           Contact P&R to obtain a copy)
 DD2766    Total Force Health Readiness Flowsheet      8/8/    No         DHA
                                                       2023
 DD2766C   Adult Preventive and Chronic Care Flowsheet 3/1/    No         DHA
