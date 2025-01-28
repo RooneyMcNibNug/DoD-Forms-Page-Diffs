@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 1/23/2025)
+DD Forms 1500 - 1999 (updated 1/27/2025)
 
 Form Availability
 
@@ -480,8 +480,8 @@ DD1898-F    Commercial Fuel Customer Billing           2010    No         DLA
             Information
 DD1898-K    Energy Sales Slip - Korean                 7/29/   No         DLA
                                                        2019
-DD1907      Signature and Tally Record                 10/1/   No         A&S
-                                                       2010
+DD1907      Signature and Tally Record                 1/27/   No         A&S
+                                                       2025
 DD1910      Clearance Request for Public Release of    4/1/    No         WHS
             Department of Defense Information          2016
 DD1911      Materiel Courier Receipt                   4/1/    No         DTRA
