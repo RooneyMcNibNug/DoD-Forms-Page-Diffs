@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 1/29/2025)
+DD Forms 1-499 (updated 2/5/2025)
 
 Form Availability
 
@@ -206,8 +206,8 @@ DD7A      Report of Treatment Furnished Pay Patients   8/1/    No         ARMY
           Outpatient Furnished (Part B)                1976
 DD61      Request For Nomenclature                     8/1/    No         ARMY
                                                        1996
-DD67      Form Processing Action Request               5/1/    No         WHS
-                                                       2016
+DD67      Form Processing Action Request               1/31/   No         WHS
+                                                       2025
 DD93      Record of Emergency Data                     2/21/   No         P&R
                                                        2023
 DD106     DoD Issuances Program Coordination           10/27/  No         WHS

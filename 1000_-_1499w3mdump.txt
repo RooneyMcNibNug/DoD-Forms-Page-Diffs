@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 2/4/2025)
+DD Forms 1000-1499 (updated 2/5/2025)
 
 Form Availability
 
@@ -230,8 +230,8 @@ DD1162-3       Signature Page (This form is            1979    Yes        A&S
                copy)
 DD1164         Service Order For Personal Property     9/1/    No         A&S
                                                        1998
-DD1172-2       Application for Identification Card/    4/24/   No         P&R
-               DEERS Enrollment                        2020
+DD1172-2       Application for Identification Card/    2/5/    No         P&R
+               DEERS Enrollment                        2025
                United States Uniformed Services
 DD1173-1S      Identification and Privilege Card       10/1/
 (PRIV)         (Reserve Dependent) (Red) (This form is 1993    Yes        P&R
