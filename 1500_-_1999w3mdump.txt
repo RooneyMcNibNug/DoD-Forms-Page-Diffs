@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 2/3/2025)
+DD Forms 1500 - 1999 (updated 2/10/2025)
 
 Form Availability
 
@@ -359,8 +359,8 @@ DD1743      Death Certificate of a Military Animal     6/1/    No         ARMY
                                                        2013
 DD1745      Animal Euthanasia                          6/1/    No         ARMY
                                                        2013
-DD1746      Application for Assignment to Housing      9/1/    No         A&S
-                                                       1993
+DD1746      Application for Assignment to Housing      2/10/   No         A&S
+                                                       2025
 DD1747      Status of Housing Availability             9/1/    No         A&S
                                                        1993
 DD1748      Joint Airdrop Inspection Record            8/20/   No         ARMY
@@ -560,7 +560,7 @@ DD1972      Joint Tactical Air Strike Request          5/20/   No         JOINT
 DD1995      Visual Information (VI) Production Request 4/1/    No         ASD
             and Report                                 1998               (PA)
 
-DD Home Issuances Forms Collections  Plain Language X FAQ Contact Us Section
-508   PrivacyFOIAInformation QualityNo Fear ActOpen GovernmentUSA.gov 
+DD Home Issuances Forms Collections  Plain Language X FAQ Contact Us About DoD
+Section 508   PrivacyFOIAInformation QualityNo Fear ActOpen GovernmentUSA.gov 
 Hosted by Defense Media Activity - WEB.mil Veterans Crisis Line number. Dial
 988 then Press 1
