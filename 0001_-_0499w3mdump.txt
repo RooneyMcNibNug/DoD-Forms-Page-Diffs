@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 2/5/2025)
+DD Forms 1-499 (updated 2/13/2025)
 
 Form Availability
 
@@ -222,8 +222,8 @@ DD137     Secondary Dependency Application             10/31/  No         DFAS
                                                        2024
 DD139     Pay Adjustment Authorization (This form is   5/1/    Yes        DFAS
           controlled.  Contact DFAS to obtain a copy)  1953
-          Application for Correction of Military       1/17/
-DD149     Record Under the Provisions of Title 10,     2023    No         P&R
+          Application for Correction of Military       2/13/
+DD149     Record Under the Provisions of Title 10,     2025    No         P&R
           U.S. Code, Section 1552
 DD150     Special Measurements Blank for Special       4/4/    No         DLA
           Measurement/Orthopedic Boots and Shoes       2022
@@ -272,8 +272,8 @@ DD281A    Voucher for Emergency or Extraordinary       1/1/    No         DFAS
           Expense Expenditures - Memorandum            2000
 DD285     Appointment of Military Postal Clerk, Unit   8/1/    No         ARMY
           Mail Clerk or Mail Orderly                   2019
-DD293     Application for the Review of Discharge from 2/8/    No         P&R
-          the Armed Forces of the United States        2023
+DD293     Application for the Review of Discharge from 2/13/   No         P&R
+          the Armed Forces of the United States        2025
           Application for a Review by the Physical
           Disability Board of Review (PDBR) of the     8/20/
 DD294     Rating Awarded Accompanying a Medical        2021    No         P&R

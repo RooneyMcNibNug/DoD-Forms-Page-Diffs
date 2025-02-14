@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 2/12/2025)
+DD Forms 2500-2999 (updated 2/13/2025)
 
 Form Availability
 
@@ -578,10 +578,10 @@ DD2790    on Behalf of Minor Children of Deceased     2017    No         DFAS
           Notice of Release/Acknowledgement of        3/1/               USD(I&
 DD2791    Convicted Sex Offender Registration         2013    No         S)
           Requirements 
-DD2792    Family Member Medical Summary               1/1/    No         P&R
-                                                      2021
-DD2792-1  Early Intervention / Special Education      1/1/    No         P&R
-          Summary                                     2021
+DD2792    Family Member Medical Summary               2/13/   No         P&R
+                                                      2025
+DD2792-1  Early Intervention / Special Education      2/13/   No         P&R
+          Summary                                     2025
           Volunteer Agreement for Appropriated Fund   3/1/
 DD2793    Activities & Non Appropriated Fund          2018    No         P&R
           Instrumentalities
@@ -728,15 +728,15 @@ DD2874    Certificate to Operate Youth Program        7/1/    No         P&R
           (Stocked and Issued by OUSD(P&R))           2004
 DD2875    System Authorization Access Request (SAAR)  5/6/    No         DISA
                                                       2022
-DD2876    TRICARE Prime Enrollment, Disenrollment And 1/3/    No         DHA
+DD2876    TRICARE Prime Enrollment, Disenrollment And 2/13/   No         DHA
           Primary Care Manager (PCM) Change Form      2025
-          TRICARE Prime Enrollment, Disenrollment and 1/3/
+          TRICARE Prime Enrollment, Disenrollment and 2/13/
 DD2876-1  Primary Care Manager (PCM) Change Form      2025    No         DHA
           (EAST)
-          TRICARE Prime Enrollment, Disenrollment and 1/3/
+          TRICARE Prime Enrollment, Disenrollment and 2/13/
 DD2876-2  Primary Care Manager (PCM) Change Form      2025    No         DHA
           (WEST)
-          TRICARE Prime Enrollment, Disenrollment and 1/3/
+          TRICARE Prime Enrollment, Disenrollment and 2/13/
 DD2876-3  Primary Care Manager (PCM) Change Form      2025    No         DHA
           (OVERSEAS)
 DD2878    Department of Defense Youth Program         7/1/    No         P&R
@@ -918,12 +918,12 @@ DD2945    Post-Government Employment Advice Opinion   5/25/   No         GC,
           Request                                     2022               DoD
 DD2946    Department of Defense Telework Agreement    8/19/   No         P&R
                                                       2021
-DD2947-1  TRICARE Young Adult Application (EAST)      1/11/   No         DHA
-                                                      2023
-DD2947-2  TRICARE Young Adult Application (WEST)      1/11/   No         DHA
-                                                      2023
-DD2947-3  TRICARE Young Adult Application (OVERSEAS)  1/11/   No         DHA
-                                                      2023
+DD2947-1  TRICARE Young Adult Application (EAST)      2/13/   No         DHA
+                                                      2025
+DD2947-2  TRICARE Young Adult Application (WEST)      2/13/   No         DHA
+                                                      2025
+DD2947-3  TRICARE Young Adult Application (OVERSEAS)  2/13/   No         DHA
+                                                      2025
           Application for Special Compensation for    5/6/
 DD2948    Assistance with Activities of Daily Living  2019    No         DHA
           (SCAADL)
