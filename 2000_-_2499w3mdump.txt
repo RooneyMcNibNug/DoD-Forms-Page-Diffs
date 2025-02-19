@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 2/5/2025)
+DD Forms 2000-2499 (updated 2/18/2025)
 
 Form Availability
 
@@ -527,8 +527,8 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 │ DD2338-2  │ Inventory Control Effectiveness  │ 10/1/   │ No         │ DLA   │
 │           │ (Ice) Report General Supplies    │ 2000    │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2341    │ Report of Animal Bite -          │ 6/1/    │ No         │ DHA   │
-│           │ Potential Rabies Exposure        │ 2015    │            │       │
+│ DD2341    │ Report of Animal Bite/Scratch -  │ 2/18/   │ No         │ DHA   │
+│           │ Potential Rabies Exposure        │ 2025    │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │ DD2342    │ Animal Facility Sanitation       │ 8/1/    │ No         │ ARMY  │
 │           │ Checklist                        │ 2013    │            │       │
