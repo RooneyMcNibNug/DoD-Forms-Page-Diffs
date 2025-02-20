@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 2/13/2025)
+DD Forms 1500 - 1999 (updated 2/19/2025)
 
 Form Availability
 
@@ -451,11 +451,11 @@ DD1840R     Notice of Loss or Damage                   1/1/    No         A&S
                                                        1988
 DD1841      Government Inspection Report               9/1/    No         A&S
                                                        1998
-DD1842      Claim for Loss of or Damage to Personal    5/1/    No         A&S
+DD1842      Claim for Loss of or Damage to Personal    5/1/    No         ARMY
             Property Incident to Service               2000
 DD1843      Demand on Carrier/Contractor               5/1/    No         ARMY
                                                        2000
-DD1844      List of Property and Claim Analysis Chart  5/1/    No         A&S
+DD1844      List of Property and Claim Analysis Chart  5/1/    No         ARMY
                                                        2000
 DD1848      Sensitive Compartmented Information        1/1/    No         DIA
             Debriefing Memorandum                      1983
