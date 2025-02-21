@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 2/13/2025)
+DD Forms 1-499 (updated 2/20/2025)
 
 Form Availability
 
@@ -307,8 +307,8 @@ DD369     Police Record Check                          4/1/    No         P&R
                                                        2019
 DD370     Request for Reference                        4/5/    No         P&R
                                                        2021
-DD372     Request for Verification of Birth            7/28/   No         P&R
-                                                       2020
+DD372     Request for Verification of Birth            2/20/   No         P&R
+                                                       2025
 DD397     Claim Certification and Voucher for Death    10/21/  No         DFAS
           Gratuity Payment                             2019
 DD410     Requisition For Telephone Service            4/1/    No         ARMY

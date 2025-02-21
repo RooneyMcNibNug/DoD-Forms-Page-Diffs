@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1000-1499 (updated 2/5/2025)
+DD Forms 1000-1499 (updated 2/20/2025)
 
 Form Availability
 
@@ -324,8 +324,8 @@ DD1289         controlled.  Contact DHA to obtain a    1971    Yes        DHA
                copy)
 DD1299         Application for Shipment and/or Storage 3/7/    No         A&S
                of Personal Property                    2022
-DD1300         Report of Casualty                      2/1/    No         P&R
-                                                       2011
+DD1300         Report of Casualty                      2/20/   No         P&R
+                                                       2025
                Armed Services Vocational Aptitude
                Battery (ASVAB) Career Exploration      7/1/
 DD1304-23A-STB Program Test Booklet, Version 23A (This 2002    Yes        P&R

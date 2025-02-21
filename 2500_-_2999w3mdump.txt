@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 2/19/2025)
+DD Forms 2500-2999 (updated 2/20/2025)
 
 Form Availability
 
@@ -487,8 +487,8 @@ DD2718    Prisoner Release Order                      11/10/  No         P&R
                                                       2022
 DD2719    Correctional Facility Continuation Sheet    11/10/  No         P&R
                                                       2022
-DD2720    Annual Correction Report                    11/3/   No         P&R
-                                                      2022
+DD2720    Annual Correction Report                    2/20/   No         P&R
+                                                      2025
 DD2731    ORGAN and Tissue Donor Card                 3/1/    No         DHA
                                                       1995
 DD2732    Central Referral System (CRS) Registration  4/1/    No         A&S
@@ -599,10 +599,10 @@ DD2800    Suggestion Evaluation                       7/1/    No         WHS
                                                       1999
 DD2807-1  Report of Medical History                   10/29/  No         P&R
                                                       2018
-DD2807-2  Accessions Medical History Report           12/7/   No         P&R
-                                                      2021
-DD2808    Report of Medical Examination               7/15/   No         P&R
-                                                      2019
+DD2807-2  Accessions Medical History Report           2/20/   No         P&R
+                                                      2025
+DD2808    Report of Medical Examination               2/20/   No         P&R
+                                                      2025
 DD2810    Personnel Recovery Debriefing Statement     10/1/   No         USD(P)
                                                       2006
 DD2811    Report of Proceedings by Initial/Subsequent 11/1/   No         USD(P)
@@ -775,8 +775,8 @@ DD2899    Department of Defense Executive Pay and     8/1/    No         P&R
           Performance Appraisal                       2009
 DD2900    Post-Deployment Health Re-Assessment        12/14/  No         DHA
           (PDHRA)                                     2023
-DD2901    Child Abuse or Domestic Violence Related    5/1/    No         P&R
-          Fatality Notification                       2012
+DD2901    Child Abuse or Domestic Violence Related    2/20/   No         P&R
+          Fatality Notification                       2025
 DD2903-1  Voluntary Separation Incentive Pay          10/1/   No         P&R
           Agreement Lump Sum Payment                  2005
 DD2903-2  Voluntary Separation Incentive Pay          10/1/   No         P&R
