@@ -463,7 +463,7 @@ DD1372         Mail Manifest (This form is controlled. 10/1/   Yes        ARMY
                 Contact ARMY to obtain a copy)         1971
 DD1375         Request for Payment of Funeral and/or   11/22/  No         P&R
                Interment Expenses                      2019
-DD1380         Tactical Combat Casualty Care (TCCC)    6/1/    No         P&R
+DD1380         Tactical Combat Casualty Care (TCCC)    6/1/    No         DHA
                Card (Instructions)                     2014
 DD1381         Air Transportation Agreement            7/1/    No         AIR
                                                        1962               FORCE
