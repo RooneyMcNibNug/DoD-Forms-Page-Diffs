@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1500 - 1999 (updated 2/19/2025)
+DD Forms 1500 - 1999 (updated 2/24/2025)
 
 Form Availability
 
@@ -533,9 +533,6 @@ DD1945      controlled.  Contact AIR FORCE to obtain a 1974    Yes        FORCE
 DD1947-1    Earnings Information (This form is         9/1/    Yes        DFAS
             controlled.  Contact DFAS to obtain a      1982
             copy) 
-            LSAR Data Selection Sheet (part 1, p.      8/1/
-DD1949-1    1-5), (part 1, p. 6-9), (part 1, p.        1996    No         A&S
-            10-13), & (part 2)
             Logistics Support Analysis Record (LSAR)
             Data Requirements: 
 

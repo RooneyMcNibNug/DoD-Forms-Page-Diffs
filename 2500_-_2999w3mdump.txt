@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2500-2999 (updated 2/20/2025)
+DD Forms 2500-2999 (updated 2/24/2025)
 
 Form Availability
 
@@ -226,8 +226,8 @@ DD2542    the Armed Forces of the United States (This 5/1/    Yes        ARMY
           a copy)
 DD2543    Government Furnished Material (GFM) Status  9/1/    No         A&S
           Report                                      1999
-DD2544    Diving Log                                  11/1/   No         NAVY
-                                                      1989
+DD2544    Diving Log                                  2/13/   No         NAVY
+                                                      2025
 DD2551    Workload Management System for Nursing -    2/1/    No         DHA
           General Worksheet                           1992
 DD2554-1  TDP Option Selection Worksheet Product      12/1/   No         ARMY
@@ -326,8 +326,8 @@ DD2641    Trafficability Test Data                    8/1/    No         ARMY
                                                       1993
 DD2642    TRICARE DoD/CHAMPUS Medical Claim Patient's 9/11/   No         DHA
           Request for Medical Payment                 2024
-DD2643    High Cost Foreign Lease                     9/1/    No         A&S
-                                                      1993
+DD2643    High Cost Foreign Lease                     2/24/   No         A&S
+                                                      2025
 DD2645    Voter Registration Information              5/1/    No         P&R
                                                       2020
 DD2646    School Age Care Program Annual Summary of   12/1/   No         P&R

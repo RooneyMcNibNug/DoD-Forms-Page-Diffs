@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 2000-2499 (updated 2/18/2025)
+DD Forms 2000-2499 (updated 2/24/2025)
 
 Form Availability
 
@@ -339,8 +339,8 @@ whs.mc-alex.esd.mbx.formswebmaster@mail.mil.  Download Adobe Reader™
 │           │ controlled.  Contact ARMY to     │ 2013    │            │       │
 │           │ obtain a copy)                   │         │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
-│ DD2164    │ X-Ray Verification/Certification │ 11/1/   │ No         │ AIR   │
-│           │ Worksheet                        │ 1978    │            │ FORCE │
+│ DD2164    │ X-Ray Verification/Certification │ 2/24/   │ No         │ ARMY  │
+│           │ Worksheet                        │ 2025    │            │       │
 ├───────────┼──────────────────────────────────┼─────────┼────────────┼───────┤
 │           │ Conductivity and Ground Monitor  │         │            │       │
 │ DD2165    │ Test Record (This form is        │ 11/1/   │ Yes        │ NAVY  │
