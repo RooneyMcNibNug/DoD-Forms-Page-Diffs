@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 2/24/2025)
+DD Forms 1-499 (updated 2/28/2025)
 
 Form Availability
 
@@ -198,8 +198,8 @@ DD2S(RET) Identification Card (Retired) (Blue) (This   1/1/    Yes        P&R
           copy)
 DD3       Application for Gold Star Lapel Button       8/01/   No         P&R
                                                        2020
-DD4       Enlistment/Reenlistment Document Armed       5/1/    No         P&R
-          Forces of the United States                  2020
+DD4       Enlistment/Reenlistment Document Armed       2/28/   No         P&R
+          Forces of the United States                  2025
 DD7       Report of Treatment Furnished Pay Patients   1/1/    No         ARMY
           Hospitalization Furnished (Part A)           1976
 DD7A      Report of Treatment Furnished Pay Patients   8/1/    No         ARMY
