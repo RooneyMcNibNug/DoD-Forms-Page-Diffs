@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 1-499 (updated 2/28/2025)
+DD Forms 1-499 (updated 3/4/2025)
 
 Form Availability
 
@@ -274,11 +274,6 @@ DD285     Appointment of Military Postal Clerk, Unit   8/1/    No         ARMY
           Mail Clerk or Mail Orderly                   2019
 DD293     Application for the Review of Discharge from 2/13/   No         P&R
           the Armed Forces of the United States        2025
-          Application for a Review by the Physical
-          Disability Board of Review (PDBR) of the     8/20/
-DD294     Rating Awarded Accompanying a Medical        2021    No         P&R
-          Separation from the Armed Forces of the
-          United States
 DD350     Individual Contracting Action Report         10/1/   No         A&S
                                                        2003
 DD355     Employee Suggestion                          7/1/    No         WHS
