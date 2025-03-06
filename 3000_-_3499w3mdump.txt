@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 3/3/2025)
+DD Forms 3000-3499 (updated 3/5/2025)
 
 Form Availability
 
@@ -444,11 +444,11 @@ DD3180    Foreign Personnel (This form is controlled.  2022    Yes        P&R
           Request for Authorization to Obligate        8/3/
 DD3183    Expired Defense Health Program               2023    No         DHA
           Appropriations
-          Department of Defense Credentialing Program  7/17/
-DD3190    for Prevention Personnel (D‐CPPP)            2023    No         P&R
+          Department of Defense Credentialing Program  3/5/
+DD3190    for Prevention Personnel (D‐CPPP)            2025    No         P&R
           Application Packet for New Applicants
-          Department of Defense Credentialing Program  7/17/
-DD3191    for Prevention Personnel (D‐CPPP)            2023    No         P&R
+          Department of Defense Credentialing Program  3/5/
+DD3191    for Prevention Personnel (D‐CPPP)            2025    No         P&R
           Application Packet for Renewal Applicants
 DD3192    Conditions Modifications Request             8/8/    No         P&R
                                                        2023
