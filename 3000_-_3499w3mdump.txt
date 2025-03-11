@@ -163,7 +163,7 @@ Toggle navigation    Directives Home
 
  
 
-DD Forms 3000-3499 (updated 3/6/2025)
+DD Forms 3000-3499 (updated 3/10/2025)
 
 Form Availability
 
@@ -348,10 +348,10 @@ DD3076-6  Sue with Indemnity Agreement (Law            2019    No         FORCE
           Enforcement Agency (LEA))
 DD3108    CBRN Sample Documentation and Chain of       10/13/  No         ARMY
           Custody                                      2020
-DD3110    Routine Immunization Screening Form:         3/11/   No         DHA
-          Pediatric                                    2020
-DD3111    Routine Immunization Screening Form: Adult   3/11/   No         DHA
-                                                       2020
+DD3110    Routine Immunization Screening Form:         3/10/   No         DHA
+          Pediatric                                    2025
+DD3111    Routine Immunization Screening Form: Adult   3/10/   No         DHA
+                                                       2025
 DD3112    Personnel Accountability and Assessment      11/9/   No         ASD
           Notification for a Public Health Emergency   2022               (HA)
 DD3114    Department of Defense Uniform Command        1/3/    No         P&R
